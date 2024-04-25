@@ -1,4 +1,1704 @@
 date,rank,song,artist,pk
+2019-04-27,1,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road_Lil Nas X Featuring Billy Ray Cyrus
+2019-04-27,2,Wow.,Post Malone,Wow._Post Malone
+2019-04-27,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-04-27,4,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-04-27,5,Without Me,Halsey,Without Me_Halsey
+2019-04-27,6,Sucker,Jonas Brothers,Sucker_Jonas Brothers
+2019-04-27,7,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-04-27,8,Boy With Luv,BTS Featuring Halsey,Boy With Luv_BTS Featuring Halsey
+2019-04-27,9,Bad Guy,Billie Eilish,Bad Guy_Billie Eilish
+2019-04-27,10,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-04-27,11,Middle Child,J. Cole,Middle Child_J. Cole
+2019-04-27,12,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-04-27,13,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-04-27,14,Thotiana,Blueface,Thotiana_Blueface
+2019-04-27,15,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-04-27,16,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-04-27,17,Better,Khalid,Better_Khalid
+2019-04-27,18,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-04-27,19,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-04-27,20,Talk,Khalid,Talk_Khalid
+2019-04-27,21,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-04-27,22,A Lot,21 Savage,A Lot_21 Savage
+2019-04-27,23,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-04-27,24,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-04-27,25,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-04-27,26,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-04-27,27,Racks In The Middle,Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,Racks In The Middle_Nipsey Hussle Featuring Roddy Ricch & Hit-Boy
+2019-04-27,28,Sanguine Paradise,Lil Uzi Vert,Sanguine Paradise_Lil Uzi Vert
+2019-04-27,29,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-04-27,30,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-04-27,31,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-04-27,32,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-04-27,33,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-04-27,34,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-04-27,35,Envy Me,Calboy,Envy Me_Calboy
+2019-04-27,36,Act Up,City Girls,Act Up_City Girls
+2019-04-27,37,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-04-27,38,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-04-27,39,Better Now,Post Malone,Better Now_Post Malone
+2019-04-27,40,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-04-27,41,Here With Me,Marshmello Featuring CHVRCHES,Here With Me_Marshmello Featuring CHVRCHES
+2019-04-27,42,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-04-27,43,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-04-27,44,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-04-27,45,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-04-27,46,God's Country,Blake Shelton,God's Country_Blake Shelton
+2019-04-27,47,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-04-27,48,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-04-27,49,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-04-27,50,Money,Cardi B,Money_Cardi B
+2019-04-27,51,Suge,DaBaby,Suge_DaBaby
+2019-04-27,52,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-04-27,53,Look What God Gave Her,Thomas Rhett,Look What God Gave Her_Thomas Rhett
+2019-04-27,54,Good As You,Kane Brown,Good As You_Kane Brown
+2019-04-27,55,Whiskey Glasses,Morgan Wallen,Whiskey Glasses_Morgan Wallen
+2019-04-27,56,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-04-27,57,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-04-27,58,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-04-27,59,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-04-27,60,Worth It,YK Osiris,Worth It_YK Osiris
+2019-04-27,61,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-04-27,62,I've Been Waiting,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting_Lil Peep & iLoveMakonnen Featuring Fall Out Boy
+2019-04-27,63,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-04-27,64,Wish You Were Gay,Billie Eilish,Wish You Were Gay_Billie Eilish
+2019-04-27,65,You Should See Me In A Crown,Billie Eilish,You Should See Me In A Crown_Billie Eilish
+2019-04-27,66,Blue On Black,"Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May","Blue On Black_Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May"
+2019-04-27,67,Don't Call Me Up,Mabel,Don't Call Me Up_Mabel
+2019-04-27,68,SOS,Avicii Featuring Aloe Blacc,SOS_Avicii Featuring Aloe Blacc
+2019-04-27,69,Rumor,Lee Brice,Rumor_Lee Brice
+2019-04-27,70,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-04-27,71,Walk Me Home,P!nk,Walk Me Home_P!nk
+2019-04-27,72,Clout,Offset Featuring Cardi B,Clout_Offset Featuring Cardi B
+2019-04-27,73,Kill This Love,BLACKPINK,Kill This Love_BLACKPINK
+2019-04-27,74,Pop Out,Polo G Featuring Lil Tjay,Pop Out_Polo G Featuring Lil Tjay
+2019-04-27,75,Cool,Jonas Brothers,Cool_Jonas Brothers
+2019-04-27,76,That's A Rack,Lil Uzi Vert,That's A Rack_Lil Uzi Vert
+2019-04-27,77,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-04-27,78,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-04-27,79,GIRL,Maren Morris,GIRL_Maren Morris
+2019-04-27,80,Bad Liar,Imagine Dragons,Bad Liar_Imagine Dragons
+2019-04-27,81,Love Ain't,Eli Young Band,Love Ain't_Eli Young Band
+2019-04-27,82,Double Up,Nipsey Hussle Featuring Belly & DOM KENNEDY,Double Up_Nipsey Hussle Featuring Belly & DOM KENNEDY
+2019-04-27,83,Undrunk,FLETCHER,Undrunk_FLETCHER
+2019-04-27,84,Big Ole Freak,Megan Thee Stallion,Big Ole Freak_Megan Thee Stallion
+2019-04-27,85,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-04-27,86,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-04-27,87,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-04-27,88,My Strange Addiction,Billie Eilish,My Strange Addiction_Billie Eilish
+2019-04-27,89,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-04-27,90,Xanny,Billie Eilish,Xanny_Billie Eilish
+2019-04-27,91,Ocean Eyes,Billie Eilish,Ocean Eyes_Billie Eilish
+2019-04-27,92,Last Time That I Checc'd,Nipsey Hussle Featuring YG,Last Time That I Checc'd_Nipsey Hussle Featuring YG
+2019-04-27,93,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-04-27,94,I'm So Tired...,Lauv & Troye Sivan,I'm So Tired..._Lauv & Troye Sivan
+2019-04-27,95,Make It Right,BTS Featuring Lauv,Make It Right_BTS Featuring Lauv
+2019-04-27,96,"Hey Look Ma, I Made It",Panic! At The Disco,"Hey Look Ma, I Made It_Panic! At The Disco"
+2019-04-27,97,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-04-27,98,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-04-27,99,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-04-27,100,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-04-20,1,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road_Lil Nas X Featuring Billy Ray Cyrus
+2019-04-20,2,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-04-20,3,Wow.,Post Malone,Wow._Post Malone
+2019-04-20,4,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-04-20,5,Without Me,Halsey,Without Me_Halsey
+2019-04-20,6,Sucker,Jonas Brothers,Sucker_Jonas Brothers
+2019-04-20,7,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-04-20,8,Better,Khalid,Better_Khalid
+2019-04-20,9,Middle Child,J. Cole,Middle Child_J. Cole
+2019-04-20,10,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-04-20,11,Bad Guy,Billie Eilish,Bad Guy_Billie Eilish
+2019-04-20,12,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-04-20,13,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-04-20,14,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-04-20,15,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-04-20,16,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-04-20,17,Thotiana,Blueface,Thotiana_Blueface
+2019-04-20,18,Talk,Khalid,Talk_Khalid
+2019-04-20,19,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-04-20,20,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-04-20,21,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-04-20,22,A Lot,21 Savage,A Lot_21 Savage
+2019-04-20,23,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-04-20,24,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-04-20,25,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-04-20,26,Racks In The Middle,Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,Racks In The Middle_Nipsey Hussle Featuring Roddy Ricch & Hit-Boy
+2019-04-20,27,Cool,Jonas Brothers,Cool_Jonas Brothers
+2019-04-20,28,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-04-20,29,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-04-20,30,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-04-20,31,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-04-20,32,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-04-20,33,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-04-20,34,Envy Me,Calboy,Envy Me_Calboy
+2019-04-20,35,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-04-20,36,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-04-20,37,Better Now,Post Malone,Better Now_Post Malone
+2019-04-20,38,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-04-20,39,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-04-20,40,Act Up,City Girls,Act Up_City Girls
+2019-04-20,41,Kill This Love,BLACKPINK,Kill This Love_BLACKPINK
+2019-04-20,42,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-04-20,43,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-04-20,44,Money,Cardi B,Money_Cardi B
+2019-04-20,45,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-04-20,46,Here With Me,Marshmello Featuring CHVRCHES,Here With Me_Marshmello Featuring CHVRCHES
+2019-04-20,47,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-04-20,48,Look What God Gave Her,Thomas Rhett,Look What God Gave Her_Thomas Rhett
+2019-04-20,49,God's Country,Blake Shelton,God's Country_Blake Shelton
+2019-04-20,50,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-04-20,51,Wish You Were Gay,Billie Eilish,Wish You Were Gay_Billie Eilish
+2019-04-20,52,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-04-20,53,Good As You,Kane Brown,Good As You_Kane Brown
+2019-04-20,54,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-04-20,55,My Bad,Khalid,My Bad_Khalid
+2019-04-20,56,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-04-20,57,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-04-20,58,Outta My Head,Khalid With John Mayer,Outta My Head_Khalid With John Mayer
+2019-04-20,59,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-04-20,60,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-04-20,61,Worth It,YK Osiris,Worth It_YK Osiris
+2019-04-20,62,Whiskey Glasses,Morgan Wallen,Whiskey Glasses_Morgan Wallen
+2019-04-20,63,Suge,DaBaby,Suge_DaBaby
+2019-04-20,64,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-04-20,65,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-04-20,66,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-04-20,67,I've Been Waiting,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting_Lil Peep & iLoveMakonnen Featuring Fall Out Boy
+2019-04-20,68,You Should See Me In A Crown,Billie Eilish,You Should See Me In A Crown_Billie Eilish
+2019-04-20,69,Monopoly,Ariana Grande & Victoria Monet,Monopoly_Ariana Grande & Victoria Monet
+2019-04-20,70,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-04-20,71,My Strange Addiction,Billie Eilish,My Strange Addiction_Billie Eilish
+2019-04-20,72,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-04-20,73,Walk Me Home,P!nk,Walk Me Home_P!nk
+2019-04-20,74,Bad Liar,Imagine Dragons,Bad Liar_Imagine Dragons
+2019-04-20,75,Double Up,Nipsey Hussle Featuring Belly & DOM KENNEDY,Double Up_Nipsey Hussle Featuring Belly & DOM KENNEDY
+2019-04-20,76,Last Time That I Checc'd,Nipsey Hussle Featuring YG,Last Time That I Checc'd_Nipsey Hussle Featuring YG
+2019-04-20,77,Undrunk,FLETCHER,Undrunk_FLETCHER
+2019-04-20,78,Rumor,Lee Brice,Rumor_Lee Brice
+2019-04-20,79,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-04-20,80,Don't Call Me Up,Mabel,Don't Call Me Up_Mabel
+2019-04-20,81,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-04-20,82,GIRL,Maren Morris,GIRL_Maren Morris
+2019-04-20,83,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-04-20,84,Don't Pretend,Khalid x SAFE,Don't Pretend_Khalid x SAFE
+2019-04-20,85,Calma,Pedro Capo X Farruko,Calma_Pedro Capo X Farruko
+2019-04-20,86,Xanny,Billie Eilish,Xanny_Billie Eilish
+2019-04-20,87,Bad Luck,Khalid,Bad Luck_Khalid
+2019-04-20,88,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-04-20,89,Pop Out,Polo G Featuring Lil Tjay,Pop Out_Polo G Featuring Lil Tjay
+2019-04-20,90,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-04-20,91,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-04-20,92,All The Good Girls Go To Hell,Billie Eilish,All The Good Girls Go To Hell_Billie Eilish
+2019-04-20,93,Right Back,Khalid Featuring A Boogie Wit da Hoodie,Right Back_Khalid Featuring A Boogie Wit da Hoodie
+2019-04-20,94,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-04-20,95,Inmortal,Aventura,Inmortal_Aventura
+2019-04-20,96,Ocean Eyes,Billie Eilish,Ocean Eyes_Billie Eilish
+2019-04-20,97,Dedication,Nipsey Hussle Featuring Kendrick Lamar,Dedication_Nipsey Hussle Featuring Kendrick Lamar
+2019-04-20,98,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-04-20,99,Big Ole Freak,Megan Thee Stallion,Big Ole Freak_Megan Thee Stallion
+2019-04-20,100,Victory Lap,Nipsey Hussle Featuring Stacy Barthe,Victory Lap_Nipsey Hussle Featuring Stacy Barthe
+2019-04-13,1,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road_Lil Nas X Featuring Billy Ray Cyrus
+2019-04-13,2,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-04-13,3,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-04-13,4,Wow.,Post Malone,Wow._Post Malone
+2019-04-13,5,Without Me,Halsey,Without Me_Halsey
+2019-04-13,6,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-04-13,7,Bad Guy,Billie Eilish,Bad Guy_Billie Eilish
+2019-04-13,8,Sucker,Jonas Brothers,Sucker_Jonas Brothers
+2019-04-13,9,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-04-13,10,Middle Child,J. Cole,Middle Child_J. Cole
+2019-04-13,11,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-04-13,12,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-04-13,13,Thotiana,Blueface,Thotiana_Blueface
+2019-04-13,14,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-04-13,15,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-04-13,16,Better,Khalid,Better_Khalid
+2019-04-13,17,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-04-13,18,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-04-13,19,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-04-13,20,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-04-13,21,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-04-13,22,A Lot,21 Savage,A Lot_21 Savage
+2019-04-13,23,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-04-13,24,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-04-13,25,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-04-13,26,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-04-13,27,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-04-13,28,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-04-13,29,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-04-13,30,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-04-13,31,Wish You Were Gay,Billie Eilish,Wish You Were Gay_Billie Eilish
+2019-04-13,32,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-04-13,33,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-04-13,34,Better Now,Post Malone,Better Now_Post Malone
+2019-04-13,35,Xanny,Billie Eilish,Xanny_Billie Eilish
+2019-04-13,36,Money,Cardi B,Money_Cardi B
+2019-04-13,37,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-04-13,38,Envy Me,Calboy,Envy Me_Calboy
+2019-04-13,39,Talk,Khalid,Talk_Khalid
+2019-04-13,40,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-04-13,41,You Should See Me In A Crown,Billie Eilish,You Should See Me In A Crown_Billie Eilish
+2019-04-13,42,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-04-13,43,My Strange Addiction,Billie Eilish,My Strange Addiction_Billie Eilish
+2019-04-13,44,Racks In The Middle,Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,Racks In The Middle_Nipsey Hussle Featuring Roddy Ricch & Hit-Boy
+2019-04-13,45,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-04-13,46,All The Good Girls Go To Hell,Billie Eilish,All The Good Girls Go To Hell_Billie Eilish
+2019-04-13,47,Act Up,City Girls,Act Up_City Girls
+2019-04-13,48,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-04-13,49,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-04-13,50,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-04-13,51,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-04-13,52,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-04-13,53,I Love You,Billie Eilish,I Love You_Billie Eilish
+2019-04-13,54,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-04-13,55,Here With Me,Marshmello Featuring CHVRCHES,Here With Me_Marshmello Featuring CHVRCHES
+2019-04-13,56,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-04-13,57,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-04-13,58,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-04-13,59,God's Country,Blake Shelton,God's Country_Blake Shelton
+2019-04-13,60,Worth It,YK Osiris,Worth It_YK Osiris
+2019-04-13,61,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-04-13,62,Ilomilo,Billie Eilish,Ilomilo_Billie Eilish
+2019-04-13,63,Listen Before I Go,Billie Eilish,Listen Before I Go_Billie Eilish
+2019-04-13,64,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-04-13,65,Double Up,Nipsey Hussle Featuring Belly & DOM KENNEDY,Double Up_Nipsey Hussle Featuring Belly & DOM KENNEDY
+2019-04-13,66,Bad Liar,Imagine Dragons,Bad Liar_Imagine Dragons
+2019-04-13,67,Whiskey Glasses,Morgan Wallen,Whiskey Glasses_Morgan Wallen
+2019-04-13,68,Good As You,Kane Brown,Good As You_Kane Brown
+2019-04-13,69,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-04-13,70,Monopoly,Ariana Grande & Victoria Monet,Monopoly_Ariana Grande & Victoria Monet
+2019-04-13,71,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-04-13,72,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-04-13,73,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-04-13,74,Look What God Gave Her,Thomas Rhett,Look What God Gave Her_Thomas Rhett
+2019-04-13,75,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-04-13,76,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-04-13,77,Undrunk,FLETCHER,Undrunk_FLETCHER
+2019-04-13,78,I've Been Waiting,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting_Lil Peep & iLoveMakonnen Featuring Fall Out Boy
+2019-04-13,79,8,Billie Eilish,8_Billie Eilish
+2019-04-13,80,Walk Me Home,P!nk,Walk Me Home_P!nk
+2019-04-13,81,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-04-13,82,Last Time That I Checc'd,Nipsey Hussle Featuring YG,Last Time That I Checc'd_Nipsey Hussle Featuring YG
+2019-04-13,83,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-04-13,84,GIRL,Maren Morris,GIRL_Maren Morris
+2019-04-13,85,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-04-13,86,Calma,Pedro Capo X Farruko,Calma_Pedro Capo X Farruko
+2019-04-13,87,Suge,DaBaby,Suge_DaBaby
+2019-04-13,88,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-04-13,89,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-04-13,90,Rumor,Lee Brice,Rumor_Lee Brice
+2019-04-13,91,I Can't Get Enough,"benny blanco, Tainy, Selena Gomez & J Balvin","I Can't Get Enough_benny blanco, Tainy, Selena Gomez & J Balvin"
+2019-04-13,92,Don't Call Me Up,Mabel,Don't Call Me Up_Mabel
+2019-04-13,93,Dedication,Nipsey Hussle Featuring Kendrick Lamar,Dedication_Nipsey Hussle Featuring Kendrick Lamar
+2019-04-13,94,Ocean Eyes,Billie Eilish,Ocean Eyes_Billie Eilish
+2019-04-13,95,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-04-13,96,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-04-13,97,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-04-13,98,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-04-13,99,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-04-13,100,Pop Out,Polo G Featuring Lil Tjay,Pop Out_Polo G Featuring Lil Tjay
+2019-04-06,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-04-06,2,Wow.,Post Malone,Wow._Post Malone
+2019-04-06,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-04-06,4,Without Me,Halsey,Without Me_Halsey
+2019-04-06,5,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-04-06,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-04-06,7,Middle Child,J. Cole,Middle Child_J. Cole
+2019-04-06,8,Thotiana,Blueface,Thotiana_Blueface
+2019-04-06,9,Sucker,Jonas Brothers,Sucker_Jonas Brothers
+2019-04-06,10,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-04-06,11,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-04-06,12,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-04-06,13,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-04-06,14,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-04-06,15,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road_Lil Nas X Featuring Billy Ray Cyrus
+2019-04-06,16,Better,Khalid,Better_Khalid
+2019-04-06,17,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-04-06,18,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-04-06,19,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-04-06,20,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-04-06,21,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-04-06,22,A Lot,21 Savage,A Lot_21 Savage
+2019-04-06,23,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-04-06,24,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-04-06,25,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-04-06,26,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-04-06,27,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-04-06,28,Money,Cardi B,Money_Cardi B
+2019-04-06,29,Better Now,Post Malone,Better Now_Post Malone
+2019-04-06,30,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-04-06,31,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-04-06,32,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-04-06,33,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-04-06,34,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-04-06,35,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-04-06,36,Envy Me,Calboy,Envy Me_Calboy
+2019-04-06,37,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-04-06,38,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-04-06,39,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-04-06,40,Talk,Khalid,Talk_Khalid
+2019-04-06,41,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-04-06,42,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-04-06,43,Act Up,City Girls,Act Up_City Girls
+2019-04-06,44,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-04-06,45,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-04-06,46,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-04-06,47,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-04-06,48,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-04-06,49,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-04-06,50,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-04-06,51,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-04-06,52,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-04-06,53,Here With Me,Marshmello Featuring CHVRCHES,Here With Me_Marshmello Featuring CHVRCHES
+2019-04-06,54,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-04-06,55,Worth It,YK Osiris,Worth It_YK Osiris
+2019-04-06,56,Bad Liar,Imagine Dragons,Bad Liar_Imagine Dragons
+2019-04-06,57,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-04-06,58,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-04-06,59,Good As You,Kane Brown,Good As You_Kane Brown
+2019-04-06,60,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-04-06,61,Undrunk,FLETCHER,Undrunk_FLETCHER
+2019-04-06,62,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-04-06,63,Walk Me Home,P!nk,Walk Me Home_P!nk
+2019-04-06,64,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-04-06,65,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-04-06,66,Whiskey Glasses,Morgan Wallen,Whiskey Glasses_Morgan Wallen
+2019-04-06,67,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-04-06,68,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-04-06,69,Look What God Gave Her,Thomas Rhett,Look What God Gave Her_Thomas Rhett
+2019-04-06,70,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-04-06,71,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-04-06,72,Price On My Head,NAV Featuring The Weeknd,Price On My Head_NAV Featuring The Weeknd
+2019-04-06,73,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-04-06,74,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-04-06,75,I've Been Waiting,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting_Lil Peep & iLoveMakonnen Featuring Fall Out Boy
+2019-04-06,76,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-04-06,77,GIRL,Maren Morris,GIRL_Maren Morris
+2019-04-06,78,Confessions Of A Dangerous Mind,Logic,Confessions Of A Dangerous Mind_Logic
+2019-04-06,79,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-04-06,80,Splashin,Rich The Kid,Splashin_Rich The Kid
+2019-04-06,81,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-04-06,82,I,Lil Skies,I_Lil Skies
+2019-04-06,83,Rumor,Lee Brice,Rumor_Lee Brice
+2019-04-06,84,Wish You Were Gay,Billie Eilish,Wish You Were Gay_Billie Eilish
+2019-04-06,85,I Can't Get Enough,"benny blanco, Tainy, Selena Gomez & J Balvin","I Can't Get Enough_benny blanco, Tainy, Selena Gomez & J Balvin"
+2019-04-06,86,Hear Me Calling,Juice WRLD,Hear Me Calling_Juice WRLD
+2019-04-06,87,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-04-06,88,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-04-06,89,Tap,NAV Featuring Meek Mill,Tap_NAV Featuring Meek Mill
+2019-04-06,90,Calma,Pedro Capo X Farruko,Calma_Pedro Capo X Farruko
+2019-04-06,91,Undecided,Chris Brown,Undecided_Chris Brown
+2019-04-06,92,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-04-06,93,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-04-06,94,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-04-06,95,Pop Out,Polo G Featuring Lil Tjay,Pop Out_Polo G Featuring Lil Tjay
+2019-04-06,96,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-04-06,97,Don't Call Me Up,Mabel,Don't Call Me Up_Mabel
+2019-04-06,98,Last Hurrah,Bebe Rexha,Last Hurrah_Bebe Rexha
+2019-04-06,99,Empty,Juice WRLD,Empty_Juice WRLD
+2019-04-06,100,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-03-30,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-03-30,2,Without Me,Halsey,Without Me_Halsey
+2019-03-30,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-03-30,4,Wow.,Post Malone,Wow._Post Malone
+2019-03-30,5,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-03-30,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-03-30,7,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-03-30,8,Sucker,Jonas Brothers,Sucker_Jonas Brothers
+2019-03-30,9,Middle Child,J. Cole,Middle Child_J. Cole
+2019-03-30,10,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-03-30,11,Thotiana,Blueface,Thotiana_Blueface
+2019-03-30,12,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-03-30,13,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-03-30,14,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-03-30,15,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-03-30,16,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-03-30,17,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-03-30,18,Better,Khalid,Better_Khalid
+2019-03-30,19,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-03-30,20,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-03-30,21,A Lot,21 Savage,A Lot_21 Savage
+2019-03-30,22,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-03-30,23,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-03-30,24,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-03-30,25,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-03-30,26,Money,Cardi B,Money_Cardi B
+2019-03-30,27,Better Now,Post Malone,Better Now_Post Malone
+2019-03-30,28,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-03-30,29,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-03-30,30,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-03-30,31,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-03-30,32,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road_Lil Nas X Featuring Billy Ray Cyrus
+2019-03-30,33,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-03-30,34,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-03-30,35,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-03-30,36,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-03-30,37,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-03-30,38,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-03-30,39,Envy Me,Calboy,Envy Me_Calboy
+2019-03-30,40,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-03-30,41,Talk,Khalid,Talk_Khalid
+2019-03-30,42,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-03-30,43,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-03-30,44,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-03-30,45,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-03-30,46,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-03-30,47,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-03-30,48,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-03-30,49,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-03-30,50,Act Up,City Girls,Act Up_City Girls
+2019-03-30,51,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-03-30,52,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-03-30,53,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-03-30,54,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-03-30,55,Numb Numb Juice,ScHoolboy Q,Numb Numb Juice_ScHoolboy Q
+2019-03-30,56,Worth It,YK Osiris,Worth It_YK Osiris
+2019-03-30,57,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-03-30,58,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-03-30,59,Bad Liar,Imagine Dragons,Bad Liar_Imagine Dragons
+2019-03-30,60,Hear Me Calling,Juice WRLD,Hear Me Calling_Juice WRLD
+2019-03-30,61,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-03-30,62,Sally Walker,Iggy Azalea,Sally Walker_Iggy Azalea
+2019-03-30,63,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-03-30,64,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-03-30,65,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-03-30,66,I Can't Get Enough,"benny blanco, Tainy, Selena Gomez & J Balvin","I Can't Get Enough_benny blanco, Tainy, Selena Gomez & J Balvin"
+2019-03-30,67,Empty,Juice WRLD,Empty_Juice WRLD
+2019-03-30,68,Undrunk,FLETCHER,Undrunk_FLETCHER
+2019-03-30,69,Good As You,Kane Brown,Good As You_Kane Brown
+2019-03-30,70,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-03-30,71,I,Lil Skies,I_Lil Skies
+2019-03-30,72,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-03-30,73,Undecided,Chris Brown,Undecided_Chris Brown
+2019-03-30,74,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-03-30,75,Whiskey Glasses,Morgan Wallen,Whiskey Glasses_Morgan Wallen
+2019-03-30,76,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-03-30,77,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-03-30,78,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-03-30,79,Here With Me,Marshmello Featuring CHVRCHES,Here With Me_Marshmello Featuring CHVRCHES
+2019-03-30,80,Look What God Gave Her,Thomas Rhett,Look What God Gave Her_Thomas Rhett
+2019-03-30,81,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-03-30,82,GIRL,Maren Morris,GIRL_Maren Morris
+2019-03-30,83,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-03-30,84,I've Been Waiting,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting_Lil Peep & iLoveMakonnen Featuring Fall Out Boy
+2019-03-30,85,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-03-30,86,Fast,Juice WRLD,Fast_Juice WRLD
+2019-03-30,87,Wish You Were Gay,Billie Eilish,Wish You Were Gay_Billie Eilish
+2019-03-30,88,Rumor,Lee Brice,Rumor_Lee Brice
+2019-03-30,89,Walk Me Home,P!nk,Walk Me Home_P!nk
+2019-03-30,90,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-03-30,91,Calma,Pedro Capo X Farruko,Calma_Pedro Capo X Farruko
+2019-03-30,92,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-03-30,93,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-03-30,94,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-03-30,95,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-03-30,96,Slow Dancing In The Dark,Joji,Slow Dancing In The Dark_Joji
+2019-03-30,97,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-03-30,98,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-03-30,99,My Bad,Khalid,My Bad_Khalid
+2019-03-30,100,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-03-23,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-03-23,2,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-03-23,3,Without Me,Halsey,Without Me_Halsey
+2019-03-23,4,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-03-23,5,Wow.,Post Malone,Wow._Post Malone
+2019-03-23,6,Sucker,Jonas Brothers,Sucker_Jonas Brothers
+2019-03-23,7,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-03-23,8,Middle Child,J. Cole,Middle Child_J. Cole
+2019-03-23,9,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-03-23,10,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-03-23,11,Thotiana,Blueface,Thotiana_Blueface
+2019-03-23,12,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-03-23,13,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-03-23,14,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-03-23,15,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-03-23,16,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-03-23,17,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-03-23,18,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-03-23,19,Better,Khalid,Better_Khalid
+2019-03-23,20,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-03-23,21,A Lot,21 Savage,A Lot_21 Savage
+2019-03-23,22,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-03-23,23,Money,Cardi B,Money_Cardi B
+2019-03-23,24,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-03-23,25,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-03-23,26,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-03-23,27,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-03-23,28,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-03-23,29,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-03-23,30,Better Now,Post Malone,Better Now_Post Malone
+2019-03-23,31,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-03-23,32,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-03-23,33,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-03-23,34,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-03-23,35,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-03-23,36,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-03-23,37,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-03-23,38,Hear Me Calling,Juice WRLD,Hear Me Calling_Juice WRLD
+2019-03-23,39,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-03-23,40,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-03-23,41,Empty,Juice WRLD,Empty_Juice WRLD
+2019-03-23,42,Talk,Khalid,Talk_Khalid
+2019-03-23,43,Envy Me,Calboy,Envy Me_Calboy
+2019-03-23,44,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-03-23,45,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-03-23,46,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-03-23,47,Fast,Juice WRLD,Fast_Juice WRLD
+2019-03-23,48,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-03-23,49,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-03-23,50,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-03-23,51,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road_Lil Nas X Featuring Billy Ray Cyrus
+2019-03-23,52,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-03-23,53,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-03-23,54,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-03-23,55,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-03-23,56,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-03-23,57,I,Lil Skies,I_Lil Skies
+2019-03-23,58,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-03-23,59,Wish You Were Gay,Billie Eilish,Wish You Were Gay_Billie Eilish
+2019-03-23,60,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-03-23,61,GIRL,Maren Morris,GIRL_Maren Morris
+2019-03-23,62,Worth It,YK Osiris,Worth It_YK Osiris
+2019-03-23,63,Act Up,City Girls,Act Up_City Girls
+2019-03-23,64,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-03-23,65,Maze,Juice WRLD,Maze_Juice WRLD
+2019-03-23,66,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-03-23,67,Undecided,Chris Brown,Undecided_Chris Brown
+2019-03-23,68,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-03-23,69,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-03-23,70,Bad Liar,Imagine Dragons,Bad Liar_Imagine Dragons
+2019-03-23,71,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-03-23,72,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-03-23,73,Good As You,Kane Brown,Good As You_Kane Brown
+2019-03-23,74,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-03-23,75,Here With Me,Marshmello Featuring CHVRCHES,Here With Me_Marshmello Featuring CHVRCHES
+2019-03-23,76,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-03-23,77,My Bad,Khalid,My Bad_Khalid
+2019-03-23,78,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-03-23,79,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-03-23,80,Whiskey Glasses,Morgan Wallen,Whiskey Glasses_Morgan Wallen
+2019-03-23,81,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-03-23,82,Look What God Gave Her,Thomas Rhett,Look What God Gave Her_Thomas Rhett
+2019-03-23,83,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-03-23,84,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-03-23,85,Undrunk,FLETCHER,Undrunk_FLETCHER
+2019-03-23,86,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-03-23,87,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-03-23,88,Rumor,Lee Brice,Rumor_Lee Brice
+2019-03-23,89,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-03-23,90,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-03-23,91,Flaws And Sins,Juice WRLD,Flaws And Sins_Juice WRLD
+2019-03-23,92,Calma,Pedro Capo X Farruko,Calma_Pedro Capo X Farruko
+2019-03-23,93,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-03-23,94,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-03-23,95,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-03-23,96,I've Been Waiting,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting_Lil Peep & iLoveMakonnen Featuring Fall Out Boy
+2019-03-23,97,I Can't Get Enough,"benny blanco, Tainy, Selena Gomez & J Balvin","I Can't Get Enough_benny blanco, Tainy, Selena Gomez & J Balvin"
+2019-03-23,98,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-03-23,99,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-03-23,100,Always Remember Us This Way,Lady Gaga,Always Remember Us This Way_Lady Gaga
+2019-03-16,1,Sucker,Jonas Brothers,Sucker_Jonas Brothers
+2019-03-16,2,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-03-16,3,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-03-16,4,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-03-16,5,Without Me,Halsey,Without Me_Halsey
+2019-03-16,6,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-03-16,7,Wow.,Post Malone,Wow._Post Malone
+2019-03-16,8,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-03-16,9,Middle Child,J. Cole,Middle Child_J. Cole
+2019-03-16,10,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-03-16,11,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-03-16,12,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-03-16,13,Thotiana,Blueface,Thotiana_Blueface
+2019-03-16,14,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-03-16,15,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-03-16,16,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-03-16,17,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-03-16,18,A Lot,21 Savage,A Lot_21 Savage
+2019-03-16,19,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-03-16,20,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-03-16,21,Better,Khalid,Better_Khalid
+2019-03-16,22,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-03-16,23,Money,Cardi B,Money_Cardi B
+2019-03-16,24,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-03-16,25,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-03-16,26,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-03-16,27,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-03-16,28,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-03-16,29,Better Now,Post Malone,Better Now_Post Malone
+2019-03-16,30,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-03-16,31,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-03-16,32,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-03-16,33,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-03-16,34,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-03-16,35,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-03-16,36,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-03-16,37,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-03-16,38,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-03-16,39,I,Lil Skies,I_Lil Skies
+2019-03-16,40,Envy Me,Calboy,Envy Me_Calboy
+2019-03-16,41,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-03-16,42,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-03-16,43,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-03-16,44,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-03-16,45,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-03-16,46,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-03-16,47,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-03-16,48,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-03-16,49,Talk,Khalid,Talk_Khalid
+2019-03-16,50,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-03-16,51,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-03-16,52,Look What God Gave Her,Thomas Rhett,Look What God Gave Her_Thomas Rhett
+2019-03-16,53,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-03-16,54,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-03-16,55,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-03-16,56,Hear Me Calling,Juice WRLD,Hear Me Calling_Juice WRLD
+2019-03-16,57,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-03-16,58,Undecided,Chris Brown,Undecided_Chris Brown
+2019-03-16,59,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-03-16,60,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-03-16,61,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-03-16,62,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-03-16,63,Burn Out,Midland,Burn Out_Midland
+2019-03-16,64,Always Remember Us This Way,Lady Gaga,Always Remember Us This Way_Lady Gaga
+2019-03-16,65,Worth It,YK Osiris,Worth It_YK Osiris
+2019-03-16,66,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-03-16,67,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-03-16,68,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-03-16,69,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-03-16,70,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-03-16,71,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-03-16,72,Bad Liar,Imagine Dragons,Bad Liar_Imagine Dragons
+2019-03-16,73,Red Room,Offset,Red Room_Offset
+2019-03-16,74,Wish You Were Gay,Billie Eilish,Wish You Were Gay_Billie Eilish
+2019-03-16,75,Whip,2 Chainz Featuring Travis Scott,Whip_2 Chainz Featuring Travis Scott
+2019-03-16,76,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-03-16,77,Act Up,City Girls,Act Up_City Girls
+2019-03-16,78,Good As You,Kane Brown,Good As You_Kane Brown
+2019-03-16,79,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-03-16,80,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-03-16,81,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-03-16,82,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-03-16,83,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road_Lil Nas X Featuring Billy Ray Cyrus
+2019-03-16,84,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-03-16,85,Whiskey Glasses,Morgan Wallen,Whiskey Glasses_Morgan Wallen
+2019-03-16,86,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-03-16,87,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-03-16,88,Walk Me Home,P!nk,Walk Me Home_P!nk
+2019-03-16,89,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-03-16,90,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-03-16,91,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-03-16,92,Needy,Ariana Grande,Needy_Ariana Grande
+2019-03-16,93,I Can't Get Enough,"benny blanco, Tainy, Selena Gomez & J Balvin","I Can't Get Enough_benny blanco, Tainy, Selena Gomez & J Balvin"
+2019-03-16,94,Rule The World,2 Chainz Featuring Ariana Grande,Rule The World_2 Chainz Featuring Ariana Grande
+2019-03-16,95,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-03-16,96,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-03-16,97,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-03-16,98,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-03-16,99,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-03-16,100,Momma I Hit A Lick,2 Chainz Featuring Kendrick Lamar,Momma I Hit A Lick_2 Chainz Featuring Kendrick Lamar
+2019-03-09,1,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-03-09,2,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-03-09,3,Without Me,Halsey,Without Me_Halsey
+2019-03-09,4,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-03-09,5,Middle Child,J. Cole,Middle Child_J. Cole
+2019-03-09,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-03-09,7,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-03-09,8,Wow.,Post Malone,Wow._Post Malone
+2019-03-09,9,Thotiana,Blueface,Thotiana_Blueface
+2019-03-09,10,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-03-09,11,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-03-09,12,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-03-09,13,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-03-09,14,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-03-09,15,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-03-09,16,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-03-09,17,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-03-09,18,A Lot,21 Savage,A Lot_21 Savage
+2019-03-09,19,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-03-09,20,Money,Cardi B,Money_Cardi B
+2019-03-09,21,Better,Khalid,Better_Khalid
+2019-03-09,22,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-03-09,23,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-03-09,24,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-03-09,25,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-03-09,26,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-03-09,27,Better Now,Post Malone,Better Now_Post Malone
+2019-03-09,28,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-03-09,29,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-03-09,30,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-03-09,31,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-03-09,32,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-03-09,33,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-03-09,34,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-03-09,35,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-03-09,36,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-03-09,37,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-03-09,38,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-03-09,39,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-03-09,40,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-03-09,41,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-03-09,42,Envy Me,Calboy,Envy Me_Calboy
+2019-03-09,43,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-03-09,44,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-03-09,45,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-03-09,46,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-03-09,47,Always Remember Us This Way,Lady Gaga,Always Remember Us This Way_Lady Gaga
+2019-03-09,48,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-03-09,49,Legacy,Offset Featuring Travis Scott & 21 Savage,Legacy_Offset Featuring Travis Scott & 21 Savage
+2019-03-09,50,Red Room,Offset,Red Room_Offset
+2019-03-09,51,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-03-09,52,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-03-09,53,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-03-09,54,Walk Me Home,P!nk,Walk Me Home_P!nk
+2019-03-09,55,Talk,Khalid,Talk_Khalid
+2019-03-09,56,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-03-09,57,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-03-09,58,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-03-09,59,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-03-09,60,Needy,Ariana Grande,Needy_Ariana Grande
+2019-03-09,61,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-03-09,62,I'll Never Love Again,Lady Gaga,I'll Never Love Again_Lady Gaga
+2019-03-09,63,Undecided,Chris Brown,Undecided_Chris Brown
+2019-03-09,64,Clout,Offset Featuring Cardi B,Clout_Offset Featuring Cardi B
+2019-03-09,65,How Did I Get Here,Offset Featuring  J. Cole,How Did I Get Here_Offset Featuring  J. Cole
+2019-03-09,66,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-03-09,67,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-03-09,68,NASA,Ariana Grande,NASA_Ariana Grande
+2019-03-09,69,Burn Out,Midland,Burn Out_Midland
+2019-03-09,70,Outstanding,Gunna,Outstanding_Gunna
+2019-03-09,71,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-03-09,72,Be Like Me,Lil Pump Featuring Lil Wayne,Be Like Me_Lil Pump Featuring Lil Wayne
+2019-03-09,73,Worth It,YK Osiris,Worth It_YK Osiris
+2019-03-09,74,3 Headed Snake,Gunna Featuring Young Thug,3 Headed Snake_Gunna Featuring Young Thug
+2019-03-09,75,Wit It,Gunna,Wit It_Gunna
+2019-03-09,76,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-03-09,77,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-03-09,78,One Call,Gunna,One Call_Gunna
+2019-03-09,79,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-03-09,80,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-03-09,81,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-03-09,82,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-03-09,83,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-03-09,84,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-03-09,85,Imagine,Ariana Grande,Imagine_Ariana Grande
+2019-03-09,86,Lick,Offset,Lick_Offset
+2019-03-09,87,Girls Need Love,Summer Walker X Drake,Girls Need Love_Summer Walker X Drake
+2019-03-09,88,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-03-09,89,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-03-09,90,Bad Idea,Ariana Grande,Bad Idea_Ariana Grande
+2019-03-09,91,Speed It Up,Gunna,Speed It Up_Gunna
+2019-03-09,92,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-03-09,93,Bloodline,Ariana Grande,Bloodline_Ariana Grande
+2019-03-09,94,I Guess I Just Feel Like,John Mayer,I Guess I Just Feel Like_John Mayer
+2019-03-09,95,Good As You,Kane Brown,Good As You_Kane Brown
+2019-03-09,96,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-03-09,97,Same Yung N***a,Gunna Featuring Playboi Carti,Same Yung N***a_Gunna Featuring Playboi Carti
+2019-03-09,98,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-03-09,99,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-03-09,100,Faucet Failure,Ski Mask The Slump God,Faucet Failure_Ski Mask The Slump God
+2019-03-02,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-03-02,2,Without Me,Halsey,Without Me_Halsey
+2019-03-02,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-03-02,4,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-03-02,5,Please Me,Cardi B & Bruno Mars,Please Me_Cardi B & Bruno Mars
+2019-03-02,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-03-02,7,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-03-02,8,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-03-02,9,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-03-02,10,Wow.,Post Malone,Wow._Post Malone
+2019-03-02,11,Middle Child,J. Cole,Middle Child_J. Cole
+2019-03-02,12,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-03-02,13,Thotiana,Blueface,Thotiana_Blueface
+2019-03-02,14,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-03-02,15,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-03-02,16,Money,Cardi B,Money_Cardi B
+2019-03-02,17,A Lot,21 Savage,A Lot_21 Savage
+2019-03-02,18,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-03-02,19,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-03-02,20,Better,Khalid,Better_Khalid
+2019-03-02,21,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-03-02,22,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-03-02,23,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-03-02,24,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-03-02,25,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-03-02,26,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-03-02,27,Robbery,Juice WRLD,Robbery_Juice WRLD
+2019-03-02,28,Better Now,Post Malone,Better Now_Post Malone
+2019-03-02,29,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-03-02,30,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-03-02,31,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-03-02,32,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-03-02,33,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-03-02,34,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-03-02,35,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-03-02,36,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-03-02,37,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-03-02,38,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-03-02,39,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-03-02,40,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-03-02,41,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-03-02,42,Envy Me,Calboy,Envy Me_Calboy
+2019-03-02,43,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-03-02,44,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-03-02,45,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-03-02,46,NASA,Ariana Grande,NASA_Ariana Grande
+2019-03-02,47,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-03-02,48,Needy,Ariana Grande,Needy_Ariana Grande
+2019-03-02,49,Red Room,Offset,Red Room_Offset
+2019-03-02,50,Talk,Khalid,Talk_Khalid
+2019-03-02,51,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-03-02,52,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-03-02,53,Bloodline,Ariana Grande,Bloodline_Ariana Grande
+2019-03-02,54,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-03-02,55,Bad Idea,Ariana Grande,Bad Idea_Ariana Grande
+2019-03-02,56,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-03-02,57,Fake Smile,Ariana Grande,Fake Smile_Ariana Grande
+2019-03-02,58,Imagine,Ariana Grande,Imagine_Ariana Grande
+2019-03-02,59,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-03-02,60,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-03-02,61,Lost In The Fire,Gesaffelstein & The Weeknd,Lost In The Fire_Gesaffelstein & The Weeknd
+2019-03-02,62,Ghostin,Ariana Grande,Ghostin_Ariana Grande
+2019-03-02,63,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-03-02,64,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-03-02,65,Undecided,Chris Brown,Undecided_Chris Brown
+2019-03-02,66,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-03-02,67,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-03-02,68,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-03-02,69,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-03-02,70,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-03-02,71,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-03-02,72,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-03-02,73,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-03-02,74,In My Head,Ariana Grande,In My Head_Ariana Grande
+2019-03-02,75,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-03-02,76,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-03-02,77,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-03-02,78,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-03-02,79,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-03-02,80,Talk You Out Of It,Florida Georgia Line,Talk You Out Of It_Florida Georgia Line
+2019-03-02,81,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-03-02,82,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-03-02,83,Burn Out,Midland,Burn Out_Midland
+2019-03-02,84,Eyes On You,Chase Rice,Eyes On You_Chase Rice
+2019-03-02,85,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-03-02,86,365,Zedd & Katy Perry,365_Zedd & Katy Perry
+2019-03-02,87,Worth It,YK Osiris,Worth It_YK Osiris
+2019-03-02,88,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-03-02,89,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-03-02,90,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-03-02,91,There Was This Girl,Riley Green,There Was This Girl_Riley Green
+2019-03-02,92,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-03-02,93,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-03-02,94,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-03-02,95,Make Up,Ariana Grande,Make Up_Ariana Grande
+2019-03-02,96,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-03-02,97,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-03-02,98,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-03-02,99,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-03-02,100,One That Got Away,Michael Ray,One That Got Away_Michael Ray
+2019-02-23,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-02-23,2,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,"Break Up With Your Girlfriend, I'm Bored_Ariana Grande"
+2019-02-23,3,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-02-23,4,Without Me,Halsey,Without Me_Halsey
+2019-02-23,5,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-02-23,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-02-23,7,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-02-23,8,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-02-23,9,Wow.,Post Malone,Wow._Post Malone
+2019-02-23,10,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-02-23,11,Middle Child,J. Cole,Middle Child_J. Cole
+2019-02-23,12,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-02-23,13,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-02-23,14,Needy,Ariana Grande,Needy_Ariana Grande
+2019-02-23,15,A Lot,21 Savage,A Lot_21 Savage
+2019-02-23,16,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-02-23,17,NASA,Ariana Grande,NASA_Ariana Grande
+2019-02-23,18,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-02-23,19,Money,Cardi B,Money_Cardi B
+2019-02-23,20,Thotiana,Blueface,Thotiana_Blueface
+2019-02-23,21,Imagine,Ariana Grande,Imagine_Ariana Grande
+2019-02-23,22,Bloodline,Ariana Grande,Bloodline_Ariana Grande
+2019-02-23,23,Better,Khalid,Better_Khalid
+2019-02-23,24,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-02-23,25,Ghostin,Ariana Grande,Ghostin_Ariana Grande
+2019-02-23,26,Fake Smile,Ariana Grande,Fake Smile_Ariana Grande
+2019-02-23,27,Bad Idea,Ariana Grande,Bad Idea_Ariana Grande
+2019-02-23,28,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-02-23,29,Better Now,Post Malone,Better Now_Post Malone
+2019-02-23,30,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-02-23,31,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-02-23,32,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-02-23,33,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-02-23,34,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-02-23,35,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-02-23,36,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-02-23,37,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-02-23,38,In My Head,Ariana Grande,In My Head_Ariana Grande
+2019-02-23,39,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-02-23,40,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-02-23,41,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-02-23,42,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-02-23,43,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-02-23,44,Talk,Khalid,Talk_Khalid
+2019-02-23,45,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-02-23,46,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-02-23,47,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-02-23,48,Make Up,Ariana Grande,Make Up_Ariana Grande
+2019-02-23,49,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-02-23,50,Envy Me,Calboy,Envy Me_Calboy
+2019-02-23,51,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-02-23,52,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-02-23,53,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-02-23,54,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-02-23,55,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-02-23,56,Who Do You Love,The Chainsmokers Featuring 5 Seconds Of Summer,Who Do You Love_The Chainsmokers Featuring 5 Seconds Of Summer
+2019-02-23,57,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-02-23,58,Lost In The Fire,Gesaffelstein & The Weeknd,Lost In The Fire_Gesaffelstein & The Weeknd
+2019-02-23,59,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-02-23,60,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-02-23,61,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-02-23,62,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-02-23,63,Undecided,Chris Brown,Undecided_Chris Brown
+2019-02-23,64,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-02-23,65,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-02-23,66,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-02-23,67,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-02-23,68,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-02-23,69,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-02-23,70,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-02-23,71,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-02-23,72,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-02-23,73,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-02-23,74,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-02-23,75,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-02-23,76,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-02-23,77,You,Jacquees,You_Jacquees
+2019-02-23,78,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-02-23,79,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-02-23,80,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-02-23,81,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-02-23,82,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-02-23,83,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-02-23,84,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-02-23,85,Burn Out,Midland,Burn Out_Midland
+2019-02-23,86,Ruin My Life,Zara Larsson,Ruin My Life_Zara Larsson
+2019-02-23,87,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-02-23,88,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-02-23,89,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-02-23,90,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-02-23,91,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-02-23,92,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-02-23,93,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-02-23,94,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-02-23,95,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-02-23,96,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-02-23,97,Splashin,Rich The Kid,Splashin_Rich The Kid
+2019-02-23,98,Rainbow,Kacey Musgraves,Rainbow_Kacey Musgraves
+2019-02-23,99,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-02-23,100,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-02-16,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-02-16,2,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-02-16,3,Without Me,Halsey,Without Me_Halsey
+2019-02-16,4,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-02-16,5,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-02-16,6,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-02-16,7,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-02-16,8,Middle Child,J. Cole,Middle Child_J. Cole
+2019-02-16,9,Wow.,Post Malone,Wow._Post Malone
+2019-02-16,10,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-02-16,11,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-02-16,12,A Lot,21 Savage,A Lot_21 Savage
+2019-02-16,13,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-02-16,14,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-02-16,15,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-02-16,16,Money,Cardi B,Money_Cardi B
+2019-02-16,17,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-02-16,18,Better,Khalid,Better_Khalid
+2019-02-16,19,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-02-16,20,Thotiana,Blueface,Thotiana_Blueface
+2019-02-16,21,Better Now,Post Malone,Better Now_Post Malone
+2019-02-16,22,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-02-16,23,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-02-16,24,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-02-16,25,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-02-16,26,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-02-16,27,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-02-16,28,Alone,Marshmello,Alone_Marshmello
+2019-02-16,29,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-02-16,30,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-02-16,31,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-02-16,32,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-02-16,33,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-02-16,34,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-02-16,35,Breathin,Ariana Grande,Breathin_Ariana Grande
+2019-02-16,36,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-02-16,37,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-02-16,38,Trip,Ella Mai,Trip_Ella Mai
+2019-02-16,39,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-02-16,40,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-02-16,41,Love Lies,Khalid & Normani,Love Lies_Khalid & Normani
+2019-02-16,42,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-02-16,43,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-02-16,44,Speechless,Dan + Shay,Speechless_Dan + Shay
+2019-02-16,45,Envy Me,Calboy,Envy Me_Calboy
+2019-02-16,46,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-02-16,47,Beautiful,Bazzi Featuring Camila Cabello,Beautiful_Bazzi Featuring Camila Cabello
+2019-02-16,48,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-02-16,49,Lost In The Fire,Gesaffelstein & The Weeknd,Lost In The Fire_Gesaffelstein & The Weeknd
+2019-02-16,50,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-02-16,51,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-02-16,52,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-02-16,53,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-02-16,54,Undecided,Chris Brown,Undecided_Chris Brown
+2019-02-16,55,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-02-16,56,One Call,Gunna,One Call_Gunna
+2019-02-16,57,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-02-16,58,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-02-16,59,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-02-16,60,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-02-16,61,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-02-16,62,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-02-16,63,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-02-16,64,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-02-16,65,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-02-16,66,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-02-16,67,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-02-16,68,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-02-16,69,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-02-16,70,You,Jacquees,You_Jacquees
+2019-02-16,71,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-02-16,72,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-02-16,73,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-02-16,74,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-02-16,75,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-02-16,76,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-02-16,77,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-02-16,78,Ruin My Life,Zara Larsson,Ruin My Life_Zara Larsson
+2019-02-16,79,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-02-16,80,First Off,Future Featuring Travis Scott,First Off_Future Featuring Travis Scott
+2019-02-16,81,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-02-16,82,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-02-16,83,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-02-16,84,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-02-16,85,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-02-16,86,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-02-16,87,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-02-16,88,Roses,benny blanco & Juice WRLD Featuring Brendon Urie,Roses_benny blanco & Juice WRLD Featuring Brendon Urie
+2019-02-16,89,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-02-16,90,Splashin,Rich The Kid,Splashin_Rich The Kid
+2019-02-16,91,Keanu Reeves,Logic,Keanu Reeves_Logic
+2019-02-16,92,No Stylist,French Montana Featuring Drake,No Stylist_French Montana Featuring Drake
+2019-02-16,93,Burn Out,Midland,Burn Out_Midland
+2019-02-16,94,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-02-16,95,Miss Me More,Kelsea Ballerini,Miss Me More_Kelsea Ballerini
+2019-02-16,96,Ocean Eyes,Billie Eilish,Ocean Eyes_Billie Eilish
+2019-02-16,97,Crushed Up,Future,Crushed Up_Future
+2019-02-16,98,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-02-16,99,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-02-16,100,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-02-09,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-02-09,2,Without Me,Halsey,Without Me_Halsey
+2019-02-09,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-02-09,4,Middle Child,J. Cole,Middle Child_J. Cole
+2019-02-09,5,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-02-09,6,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-02-09,7,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-02-09,8,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-02-09,9,Wow.,Post Malone,Wow._Post Malone
+2019-02-09,10,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-02-09,11,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-02-09,12,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-02-09,13,Money,Cardi B,Money_Cardi B
+2019-02-09,14,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-02-09,15,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-02-09,16,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-02-09,17,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-02-09,18,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-02-09,19,Better Now,Post Malone,Better Now_Post Malone
+2019-02-09,20,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-02-09,21,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-02-09,22,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-02-09,23,Better,Khalid,Better_Khalid
+2019-02-09,24,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-02-09,25,Breathin,Ariana Grande,Breathin_Ariana Grande
+2019-02-09,26,A Lot,21 Savage,A Lot_21 Savage
+2019-02-09,27,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-02-09,28,Thotiana,Blueface,Thotiana_Blueface
+2019-02-09,29,Tequila,Dan + Shay,Tequila_Dan + Shay
+2019-02-09,30,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-02-09,31,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-02-09,32,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-02-09,33,Beautiful,Bazzi Featuring Camila Cabello,Beautiful_Bazzi Featuring Camila Cabello
+2019-02-09,34,Speechless,Dan + Shay,Speechless_Dan + Shay
+2019-02-09,35,Trip,Ella Mai,Trip_Ella Mai
+2019-02-09,36,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-02-09,37,Love Lies,Khalid & Normani,Love Lies_Khalid & Normani
+2019-02-09,38,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-02-09,39,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-02-09,40,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-02-09,41,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-02-09,42,Lost In The Fire,Gesaffelstein & The Weeknd,Lost In The Fire_Gesaffelstein & The Weeknd
+2019-02-09,43,Envy Me,Calboy,Envy Me_Calboy
+2019-02-09,44,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-02-09,45,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-02-09,46,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-02-09,47,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-02-09,48,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-02-09,49,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-02-09,50,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-02-09,51,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-02-09,52,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-02-09,53,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-02-09,54,Undecided,Chris Brown,Undecided_Chris Brown
+2019-02-09,55,Best Shot,Jimmie Allen,Best Shot_Jimmie Allen
+2019-02-09,56,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-02-09,57,First Off,Future Featuring Travis Scott,First Off_Future Featuring Travis Scott
+2019-02-09,58,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-02-09,59,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-02-09,60,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-02-09,61,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-02-09,62,Keanu Reeves,Logic,Keanu Reeves_Logic
+2019-02-09,63,You,Jacquees,You_Jacquees
+2019-02-09,64,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-02-09,65,Put A Date On It,Yo Gotti Featuring Lil Baby,Put A Date On It_Yo Gotti Featuring Lil Baby
+2019-02-09,66,No Stylist,French Montana Featuring Drake,No Stylist_French Montana Featuring Drake
+2019-02-09,67,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-02-09,68,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-02-09,69,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-02-09,70,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-02-09,71,Crushed Up,Future,Crushed Up_Future
+2019-02-09,72,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-02-09,73,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-02-09,74,Bury A Friend,Billie Eilish,Bury A Friend_Billie Eilish
+2019-02-09,75,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-02-09,76,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-02-09,77,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-02-09,78,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-02-09,79,Ruin My Life,Zara Larsson,Ruin My Life_Zara Larsson
+2019-02-09,80,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-02-09,81,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-02-09,82,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-02-09,83,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-02-09,84,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-02-09,85,Roses,benny blanco & Juice WRLD Featuring Brendon Urie,Roses_benny blanco & Juice WRLD Featuring Brendon Urie
+2019-02-09,86,I'm So Tired...,Lauv & Troye Sivan,I'm So Tired..._Lauv & Troye Sivan
+2019-02-09,87,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-02-09,88,Shot Clock,Ella Mai,Shot Clock_Ella Mai
+2019-02-09,89,Sauce!,XXXTENTACION,Sauce!_XXXTENTACION
+2019-02-09,90,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,Con Calma_Daddy Yankee & Katy Perry Featuring Snow
+2019-02-09,91,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-02-09,92,Splashin,Rich The Kid,Splashin_Rich The Kid
+2019-02-09,93,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-02-09,94,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-02-09,95,Burn Out,Midland,Burn Out_Midland
+2019-02-09,96,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-02-09,97,BAD!,XXXTENTACION,BAD!_XXXTENTACION
+2019-02-09,98,Night Shift,Jon Pardi,Night Shift_Jon Pardi
+2019-02-09,99,Blue Tacoma,Russell Dickerson,Blue Tacoma_Russell Dickerson
+2019-02-09,100,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-02-02,1,7 Rings,Ariana Grande,7 Rings_Ariana Grande
+2019-02-02,2,Without Me,Halsey,Without Me_Halsey
+2019-02-02,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-02-02,4,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-02-02,5,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-02-02,6,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-02-02,7,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-02-02,8,Wow.,Post Malone,Wow._Post Malone
+2019-02-02,9,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-02-02,10,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-02-02,11,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-02-02,12,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-02-02,13,Money,Cardi B,Money_Cardi B
+2019-02-02,14,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-02-02,15,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-02-02,16,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-02-02,17,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-02-02,18,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-02-02,19,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-02-02,20,Better Now,Post Malone,Better Now_Post Malone
+2019-02-02,21,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-02-02,22,Breathin,Ariana Grande,Breathin_Ariana Grande
+2019-02-02,23,Better,Khalid,Better_Khalid
+2019-02-02,24,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-02-02,25,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-02-02,26,Middle Child,J. Cole,Middle Child_J. Cole
+2019-02-02,27,Beautiful,Bazzi Featuring Camila Cabello,Beautiful_Bazzi Featuring Camila Cabello
+2019-02-02,28,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-02-02,29,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-02-02,30,Trip,Ella Mai,Trip_Ella Mai
+2019-02-02,31,Speechless,Dan + Shay,Speechless_Dan + Shay
+2019-02-02,32,Love Lies,Khalid & Normani,Love Lies_Khalid & Normani
+2019-02-02,33,Lost In The Fire,Gesaffelstein & The Weeknd,Lost In The Fire_Gesaffelstein & The Weeknd
+2019-02-02,34,A Lot,21 Savage,A Lot_21 Savage
+2019-02-02,35,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-02-02,36,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-02-02,37,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-02-02,38,Keanu Reeves,Logic,Keanu Reeves_Logic
+2019-02-02,39,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-02-02,40,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-02-02,41,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-02-02,42,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-02-02,43,Crushed Up,Future,Crushed Up_Future
+2019-02-02,44,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-02-02,45,Envy Me,Calboy,Envy Me_Calboy
+2019-02-02,46,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-02-02,47,First Off,Future Featuring Travis Scott,First Off_Future Featuring Travis Scott
+2019-02-02,48,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-02-02,49,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-02-02,50,Natural,Imagine Dragons,Natural_Imagine Dragons
+2019-02-02,51,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-02-02,52,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-02-02,53,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-02-02,54,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-02-02,55,Undecided,Chris Brown,Undecided_Chris Brown
+2019-02-02,56,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-02-02,57,Jumpin On A Jet,Future,Jumpin On A Jet_Future
+2019-02-02,58,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-02-02,59,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-02-02,60,Best Shot,Jimmie Allen,Best Shot_Jimmie Allen
+2019-02-02,61,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-02-02,62,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-02-02,63,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-02-02,64,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-02-02,65,Never Stop,Future,Never Stop_Future
+2019-02-02,66,Thotiana,Blueface,Thotiana_Blueface
+2019-02-02,67,You,Jacquees,You_Jacquees
+2019-02-02,68,Secreto,Anuel AA & Karol G,Secreto_Anuel AA & Karol G
+2019-02-02,69,No Stylist,French Montana Featuring Drake,No Stylist_French Montana Featuring Drake
+2019-02-02,70,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-02-02,71,Mixed Personalities,YNW Melly Featuring Kanye West,Mixed Personalities_YNW Melly Featuring Kanye West
+2019-02-02,72,Consequences,Camila Cabello,Consequences_Camila Cabello
+2019-02-02,73,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-02-02,74,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-02-02,75,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-02-02,76,Temptation,Future,Temptation_Future
+2019-02-02,77,Ruin My Life,Zara Larsson,Ruin My Life_Zara Larsson
+2019-02-02,78,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-02-02,79,Rocket Ship,Future,Rocket Ship_Future
+2019-02-02,80,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-02-02,81,Pure Water,Mustard & Migos,Pure Water_Mustard & Migos
+2019-02-02,82,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-02-02,83,F&N,Future,F&N_Future
+2019-02-02,84,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-02-02,85,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-02-02,86,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-02-02,87,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-02-02,88,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-02-02,89,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-02-02,90,Electricity,Silk City x Dua Lipa,Electricity_Silk City x Dua Lipa
+2019-02-02,91,On My Way To You,Cody Johnson,On My Way To You_Cody Johnson
+2019-02-02,92,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-02-02,93,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-02-02,94,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-02-02,95,Murder On My Mind,YNW Melly,Murder On My Mind_YNW Melly
+2019-02-02,96,GIRL,Maren Morris,GIRL_Maren Morris
+2019-02-02,97,Roses,benny blanco & Juice WRLD Featuring Brendon Urie,Roses_benny blanco & Juice WRLD Featuring Brendon Urie
+2019-02-02,98,Face My Fears,Hikaru Utada & Skrillex,Face My Fears_Hikaru Utada & Skrillex
+2019-02-02,99,Imagine,Ariana Grande,Imagine_Ariana Grande
+2019-02-02,100,Call The Coroner,Future,Call The Coroner_Future
+2019-01-26,1,Without Me,Halsey,Without Me_Halsey
+2019-01-26,2,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-01-26,3,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-01-26,4,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-01-26,5,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-01-26,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-01-26,7,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-01-26,8,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-01-26,9,Wow.,Post Malone,Wow._Post Malone
+2019-01-26,10,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-01-26,11,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-01-26,12,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-01-26,13,Money,Cardi B,Money_Cardi B
+2019-01-26,14,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-01-26,15,Better Now,Post Malone,Better Now_Post Malone
+2019-01-26,16,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-01-26,17,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-01-26,18,Breathin,Ariana Grande,Breathin_Ariana Grande
+2019-01-26,19,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-01-26,20,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-01-26,21,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-01-26,22,Better,Khalid,Better_Khalid
+2019-01-26,23,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-01-26,24,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-01-26,25,Speechless,Dan + Shay,Speechless_Dan + Shay
+2019-01-26,26,Beautiful,Bazzi Featuring Camila Cabello,Beautiful_Bazzi Featuring Camila Cabello
+2019-01-26,27,Lost In The Fire,Gesaffelstein & The Weeknd,Lost In The Fire_Gesaffelstein & The Weeknd
+2019-01-26,28,Love Lies,Khalid & Normani,Love Lies_Khalid & Normani
+2019-01-26,29,Trip,Ella Mai,Trip_Ella Mai
+2019-01-26,30,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-01-26,31,Natural,Imagine Dragons,Natural_Imagine Dragons
+2019-01-26,32,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-01-26,33,Dancing With A Stranger,Sam Smith & Normani,Dancing With A Stranger_Sam Smith & Normani
+2019-01-26,34,A Lot,21 Savage,A Lot_21 Savage
+2019-01-26,35,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-01-26,36,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-01-26,37,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-01-26,38,She Got The Best Of Me,Luke Combs,She Got The Best Of Me_Luke Combs
+2019-01-26,39,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-01-26,40,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-01-26,41,Envy Me,Calboy,Envy Me_Calboy
+2019-01-26,42,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-01-26,43,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-01-26,44,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-01-26,45,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-01-26,46,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-01-26,47,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-01-26,48,Best Shot,Jimmie Allen,Best Shot_Jimmie Allen
+2019-01-26,49,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-01-26,50,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-01-26,51,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-01-26,52,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-01-26,53,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-01-26,54,Twerk,City Girls Featuring Cardi B,Twerk_City Girls Featuring Cardi B
+2019-01-26,55,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-01-26,56,Undecided,Chris Brown,Undecided_Chris Brown
+2019-01-26,57,Saturday Nights,Khalid & Kane Brown,Saturday Nights_Khalid & Kane Brown
+2019-01-26,58,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-01-26,59,Crushed Up,Future,Crushed Up_Future
+2019-01-26,60,Consequences,Camila Cabello,Consequences_Camila Cabello
+2019-01-26,61,You,Jacquees,You_Jacquees
+2019-01-26,62,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-01-26,63,No Stylist,French Montana Featuring Drake,No Stylist_French Montana Featuring Drake
+2019-01-26,64,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-01-26,65,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-01-26,66,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-01-26,67,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-01-26,68,Electricity,Silk City x Dua Lipa,Electricity_Silk City x Dua Lipa
+2019-01-26,69,Nights Like This,Kehlani Featuring Ty Dolla $ign,Nights Like This_Kehlani Featuring Ty Dolla $ign
+2019-01-26,70,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-01-26,71,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-01-26,72,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-01-26,73,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-01-26,74,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-01-26,75,Thotiana,Blueface,Thotiana_Blueface
+2019-01-26,76,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-01-26,77,Ruin My Life,Zara Larsson,Ruin My Life_Zara Larsson
+2019-01-26,78,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-01-26,79,Let Me Down Slowly,Alec Benjamin + Alessia Cara,Let Me Down Slowly_Alec Benjamin + Alessia Cara
+2019-01-26,80,Jumpin On A Jet,Future,Jumpin On A Jet_Future
+2019-01-26,81,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-01-26,82,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-01-26,83,Fine China,Future & Juice WRLD,Fine China_Future & Juice WRLD
+2019-01-26,84,Nuketown,Ski Mask The Slump God Featuring Juice WRLD,Nuketown_Ski Mask The Slump God Featuring Juice WRLD
+2019-01-26,85,BAD!,XXXTENTACION,BAD!_XXXTENTACION
+2019-01-26,86,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-01-26,87,Roses,benny blanco & Juice WRLD Featuring Brendon Urie,Roses_benny blanco & Juice WRLD Featuring Brendon Urie
+2019-01-26,88,Space Cadet,Metro Boomin Featuring Gunna,Space Cadet_Metro Boomin Featuring Gunna
+2019-01-26,89,Butterfly Doors,Lil Pump,Butterfly Doors_Lil Pump
+2019-01-26,90,Valuable Pain,YoungBoy Never Broke Again,Valuable Pain_YoungBoy Never Broke Again
+2019-01-26,91,Blue Tacoma,Russell Dickerson,Blue Tacoma_Russell Dickerson
+2019-01-26,92,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-01-26,93,Can't Leave Without It,21 Savage,Can't Leave Without It_21 Savage
+2019-01-26,94,Good Form,Nicki Minaj Featuring Lil Wayne,Good Form_Nicki Minaj Featuring Lil Wayne
+2019-01-26,95,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-01-26,96,idontwannabeyouanymore,Billie Eilish,idontwannabeyouanymore_Billie Eilish
+2019-01-26,97,Ocean Eyes,Billie Eilish,Ocean Eyes_Billie Eilish
+2019-01-26,98,Burn Out,Midland,Burn Out_Midland
+2019-01-26,99,Splashin,Rich The Kid,Splashin_Rich The Kid
+2019-01-26,100,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-01-19,1,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-01-19,2,Without Me,Halsey,Without Me_Halsey
+2019-01-19,3,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-01-19,4,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-01-19,5,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-01-19,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-01-19,7,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-01-19,8,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-01-19,9,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-01-19,10,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-01-19,11,Wow.,Post Malone,Wow._Post Malone
+2019-01-19,12,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-01-19,13,Better Now,Post Malone,Better Now_Post Malone
+2019-01-19,14,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-01-19,15,Breathin,Ariana Grande,Breathin_Ariana Grande
+2019-01-19,16,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-01-19,17,Money,Cardi B,Money_Cardi B
+2019-01-19,18,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-01-19,19,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-01-19,20,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-01-19,21,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-01-19,22,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-01-19,23,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-01-19,24,Better,Khalid,Better_Khalid
+2019-01-19,25,Speechless,Dan + Shay,Speechless_Dan + Shay
+2019-01-19,26,Trip,Ella Mai,Trip_Ella Mai
+2019-01-19,27,Beautiful,Bazzi Featuring Camila Cabello,Beautiful_Bazzi Featuring Camila Cabello
+2019-01-19,28,Love Lies,Khalid & Normani,Love Lies_Khalid & Normani
+2019-01-19,29,Natural,Imagine Dragons,Natural_Imagine Dragons
+2019-01-19,30,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-01-19,31,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-01-19,32,She Got The Best Of Me,Luke Combs,She Got The Best Of Me_Luke Combs
+2019-01-19,33,A Lot,21 Savage,A Lot_21 Savage
+2019-01-19,34,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-01-19,35,Undecided,Chris Brown,Undecided_Chris Brown
+2019-01-19,36,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-01-19,37,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-01-19,38,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-01-19,39,Best Shot,Jimmie Allen,Best Shot_Jimmie Allen
+2019-01-19,40,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-01-19,41,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-01-19,42,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-01-19,43,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-01-19,44,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-01-19,45,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-01-19,46,Crushed Up,Future,Crushed Up_Future
+2019-01-19,47,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-01-19,48,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-01-19,49,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-01-19,50,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-01-19,51,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-01-19,52,Consequences,Camila Cabello,Consequences_Camila Cabello
+2019-01-19,53,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-01-19,54,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-01-19,55,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-01-19,56,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-01-19,57,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-01-19,58,You,Jacquees,You_Jacquees
+2019-01-19,59,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-01-19,60,Last Shot,Kip Moore,Last Shot_Kip Moore
+2019-01-19,61,No Stylist,French Montana Featuring Drake,No Stylist_French Montana Featuring Drake
+2019-01-19,62,Electricity,Silk City x Dua Lipa,Electricity_Silk City x Dua Lipa
+2019-01-19,63,Envy Me,Calboy,Envy Me_Calboy
+2019-01-19,64,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-01-19,65,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-01-19,66,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-01-19,67,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-01-19,68,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-01-19,69,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-01-19,70,Can't Leave Without It,21 Savage,Can't Leave Without It_21 Savage
+2019-01-19,71,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-01-19,72,Fine China,Future & Juice WRLD,Fine China_Future & Juice WRLD
+2019-01-19,73,Imagine,Ariana Grande,Imagine_Ariana Grande
+2019-01-19,74,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-01-19,75,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-01-19,76,Ruin My Life,Zara Larsson,Ruin My Life_Zara Larsson
+2019-01-19,77,BAD!,XXXTENTACION,BAD!_XXXTENTACION
+2019-01-19,78,Smile (Living My Best Life),Lil' Duval Featuring Snoop Dogg & Ball Greezy,Smile (Living My Best Life)_Lil' Duval Featuring Snoop Dogg & Ball Greezy
+2019-01-19,79,Blue Tacoma,Russell Dickerson,Blue Tacoma_Russell Dickerson
+2019-01-19,80,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-01-19,81,Butterfly Doors,Lil Pump,Butterfly Doors_Lil Pump
+2019-01-19,82,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-01-19,83,Space Cadet,Metro Boomin Featuring Gunna,Space Cadet_Metro Boomin Featuring Gunna
+2019-01-19,84,Lost In Japan,Shawn Mendes X Zedd,Lost In Japan_Shawn Mendes X Zedd
+2019-01-19,85,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-01-19,86,Nuketown,Ski Mask The Slump God Featuring Juice WRLD,Nuketown_Ski Mask The Slump God Featuring Juice WRLD
+2019-01-19,87,Valuable Pain,YoungBoy Never Broke Again,Valuable Pain_YoungBoy Never Broke Again
+2019-01-19,88,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-01-19,89,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-01-19,90,Monster,21 Savage,Monster_21 Savage
+2019-01-19,91,Roses,benny blanco & Juice WRLD Featuring Brendon Urie,Roses_benny blanco & Juice WRLD Featuring Brendon Urie
+2019-01-19,92,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-01-19,93,Burn Out,Midland,Burn Out_Midland
+2019-01-19,94,Good Form,Nicki Minaj Featuring Lil Wayne,Good Form_Nicki Minaj Featuring Lil Wayne
+2019-01-19,95,Demons And Angels,A Boogie Wit da Hoodie Featuring Juice WRLD,Demons And Angels_A Boogie Wit da Hoodie Featuring Juice WRLD
+2019-01-19,96,KIKA,6ix9ine Featuring Tory Lanez,KIKA_6ix9ine Featuring Tory Lanez
+2019-01-19,97,Ocean Eyes,Billie Eilish,Ocean Eyes_Billie Eilish
+2019-01-19,98,idontwannabeyouanymore,Billie Eilish,idontwannabeyouanymore_Billie Eilish
+2019-01-19,99,Dip,Tyga & Nicki Minaj,Dip_Tyga & Nicki Minaj
+2019-01-19,100,Lucky You,Eminem Featuring Joyner Lucas,Lucky You_Eminem Featuring Joyner Lucas
+2019-01-12,1,Without Me,Halsey,Without Me_Halsey
+2019-01-12,2,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-01-12,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-01-12,4,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-01-12,5,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-01-12,6,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-01-12,7,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-01-12,8,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-01-12,9,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-01-12,10,Better Now,Post Malone,Better Now_Post Malone
+2019-01-12,11,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-01-12,12,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-01-12,13,Wow.,Post Malone,Wow._Post Malone
+2019-01-12,14,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-01-12,15,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-01-12,16,Breathin,Ariana Grande,Breathin_Ariana Grande
+2019-01-12,17,Money,Cardi B,Money_Cardi B
+2019-01-12,18,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-01-12,19,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-01-12,20,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-01-12,21,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-01-12,22,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-01-12,23,Trip,Ella Mai,Trip_Ella Mai
+2019-01-12,24,Speechless,Dan + Shay,Speechless_Dan + Shay
+2019-01-12,25,Natural,Imagine Dragons,Natural_Imagine Dragons
+2019-01-12,26,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-01-12,27,Love Lies,Khalid & Normani,Love Lies_Khalid & Normani
+2019-01-12,28,Beautiful,Bazzi Featuring Camila Cabello,Beautiful_Bazzi Featuring Camila Cabello
+2019-01-12,29,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-01-12,30,Better,Khalid,Better_Khalid
+2019-01-12,31,She Got The Best Of Me,Luke Combs,She Got The Best Of Me_Luke Combs
+2019-01-12,32,Baby Shark,Pinkfong,Baby Shark_Pinkfong
+2019-01-12,33,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-01-12,34,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-01-12,35,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-01-12,36,A Lot,21 Savage,A Lot_21 Savage
+2019-01-12,37,Best Shot,Jimmie Allen,Best Shot_Jimmie Allen
+2019-01-12,38,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-01-12,39,Drunk Me,Mitchell Tenpenny,Drunk Me_Mitchell Tenpenny
+2019-01-12,40,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-01-12,41,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-01-12,42,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-01-12,43,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-01-12,44,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-01-12,45,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-01-12,46,Dangerous,Meek Mill Featuring Jeremih & PnB Rock,Dangerous_Meek Mill Featuring Jeremih & PnB Rock
+2019-01-12,47,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-01-12,48,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-01-12,49,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-01-12,50,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-01-12,51,Consequences,Camila Cabello,Consequences_Camila Cabello
+2019-01-12,52,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-01-12,53,Last Shot,Kip Moore,Last Shot_Kip Moore
+2019-01-12,54,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-01-12,55,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-01-12,56,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-01-12,57,This Is It,Scotty McCreery,This Is It_Scotty McCreery
+2019-01-12,58,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-01-12,59,You,Jacquees,You_Jacquees
+2019-01-12,60,No Stylist,French Montana Featuring Drake,No Stylist_French Montana Featuring Drake
+2019-01-12,61,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-01-12,62,Electricity,Silk City x Dua Lipa,Electricity_Silk City x Dua Lipa
+2019-01-12,63,Imagine,Ariana Grande,Imagine_Ariana Grande
+2019-01-12,64,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-01-12,65,Can't Leave Without It,21 Savage,Can't Leave Without It_21 Savage
+2019-01-12,66,Envy Me,Calboy,Envy Me_Calboy
+2019-01-12,67,Smile (Living My Best Life),Lil' Duval Featuring Snoop Dogg & Ball Greezy,Smile (Living My Best Life)_Lil' Duval Featuring Snoop Dogg & Ball Greezy
+2019-01-12,68,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-01-12,69,Millionaire,Chris Stapleton,Millionaire_Chris Stapleton
+2019-01-12,70,BAD!,XXXTENTACION,BAD!_XXXTENTACION
+2019-01-12,71,Lost In Japan,Shawn Mendes X Zedd,Lost In Japan_Shawn Mendes X Zedd
+2019-01-12,72,Pure Cocaine,Lil Baby,Pure Cocaine_Lil Baby
+2019-01-12,73,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-01-12,74,Fine China,Future & Juice WRLD,Fine China_Future & Juice WRLD
+2019-01-12,75,Take It From Me,Jordan Davis,Take It From Me_Jordan Davis
+2019-01-12,76,What Makes You Country,Luke Bryan,What Makes You Country_Luke Bryan
+2019-01-12,77,Yosemite,Travis Scott,Yosemite_Travis Scott
+2019-01-12,78,Monster,21 Savage,Monster_21 Savage
+2019-01-12,79,Blue Tacoma,Russell Dickerson,Blue Tacoma_Russell Dickerson
+2019-01-12,80,Down To The Honkytonk,Jake Owen,Down To The Honkytonk_Jake Owen
+2019-01-12,81,Close Friends,Lil Baby,Close Friends_Lil Baby
+2019-01-12,82,Love Someone,Lukas Graham,Love Someone_Lukas Graham
+2019-01-12,83,Love Wins,Carrie Underwood,Love Wins_Carrie Underwood
+2019-01-12,84,KIKA,6ix9ine Featuring Tory Lanez,KIKA_6ix9ine Featuring Tory Lanez
+2019-01-12,85,Nuketown,Ski Mask The Slump God Featuring Juice WRLD,Nuketown_Ski Mask The Slump God Featuring Juice WRLD
+2019-01-12,86,Ruin My Life,Zara Larsson,Ruin My Life_Zara Larsson
+2019-01-12,87,Body,Loud Luxury Featuring Brando,Body_Loud Luxury Featuring Brando
+2019-01-12,88,Dip,Tyga & Nicki Minaj,Dip_Tyga & Nicki Minaj
+2019-01-12,89,Good Form,Nicki Minaj Featuring Lil Wayne,Good Form_Nicki Minaj Featuring Lil Wayne
+2019-01-12,90,Demons And Angels,A Boogie Wit da Hoodie Featuring Juice WRLD,Demons And Angels_A Boogie Wit da Hoodie Featuring Juice WRLD
+2019-01-12,91,Here Tonight,Brett Young,Here Tonight_Brett Young
+2019-01-12,92,Burn Out,Midland,Burn Out_Midland
+2019-01-12,93,Solo de Mi,Bad Bunny,Solo de Mi_Bad Bunny
+2019-01-12,94,Lucky You,Eminem Featuring Joyner Lucas,Lucky You_Eminem Featuring Joyner Lucas
+2019-01-12,95,Roses,benny blanco & Juice WRLD Featuring Brendon Urie,Roses_benny blanco & Juice WRLD Featuring Brendon Urie
+2019-01-12,96,whoa (mind in awe),XXXTENTACION,whoa (mind in awe)_XXXTENTACION
+2019-01-12,97,All My Friends,21 Savage,All My Friends_21 Savage
+2019-01-12,98,Make It Sweet,Old Dominion,Make It Sweet_Old Dominion
+2019-01-12,99,Ocean Eyes,Billie Eilish,Ocean Eyes_Billie Eilish
+2019-01-12,100,idontwannabeyouanymore,Billie Eilish,idontwannabeyouanymore_Billie Eilish
+2019-01-05,1,"Thank U, Next",Ariana Grande,"Thank U, Next_Ariana Grande"
+2019-01-05,2,Without Me,Halsey,Without Me_Halsey
+2019-01-05,3,All I Want For Christmas Is You,Mariah Carey,All I Want For Christmas Is You_Mariah Carey
+2019-01-05,4,Sicko Mode,Travis Scott,Sicko Mode_Travis Scott
+2019-01-05,5,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse)_Post Malone & Swae Lee
+2019-01-05,6,High Hopes,Panic! At The Disco,High Hopes_Panic! At The Disco
+2019-01-05,7,Happier,Marshmello & Bastille,Happier_Marshmello & Bastille
+2019-01-05,8,Jingle Bell Rock,Bobby Helms,Jingle Bell Rock_Bobby Helms
+2019-01-05,9,Rockin' Around The Christmas Tree,Brenda Lee,Rockin' Around The Christmas Tree_Brenda Lee
+2019-01-05,10,A Holly Jolly Christmas,Burl Ives,A Holly Jolly Christmas_Burl Ives
+2019-01-05,11,The Christmas Song (Merry Christmas To You),"Nat ""King"" Cole","The Christmas Song (Merry Christmas To You)_Nat ""King"" Cole"
+2019-01-05,12,Drip Too Hard,Lil Baby & Gunna,Drip Too Hard_Lil Baby & Gunna
+2019-01-05,13,It's The Most Wonderful Time Of The Year,Andy Williams,It's The Most Wonderful Time Of The Year_Andy Williams
+2019-01-05,14,Girls Like You,Maroon 5 Featuring Cardi B,Girls Like You_Maroon 5 Featuring Cardi B
+2019-01-05,15,ZEZE,Kodak Black Featuring Travis Scott & Offset,ZEZE_Kodak Black Featuring Travis Scott & Offset
+2019-01-05,16,Rudolph The Red-Nosed Reindeer,Gene Autry & The Pinafores,Rudolph The Red-Nosed Reindeer_Gene Autry & The Pinafores
+2019-01-05,17,Mo Bamba,Sheck Wes,Mo Bamba_Sheck Wes
+2019-01-05,18,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,Wake Up In The Sky_Gucci Mane X Bruno Mars X Kodak Black
+2019-01-05,19,Money,Cardi B,Money_Cardi B
+2019-01-05,20,"Let It Snow, Let It Snow, Let It Snow!",Dean Martin,"Let It Snow, Let It Snow, Let It Snow!_Dean Martin"
+2019-01-05,21,Eastside,"benny blanco, Halsey & Khalid","Eastside_benny blanco, Halsey & Khalid"
+2019-01-05,22,Breathin,Ariana Grande,Breathin_Ariana Grande
+2019-01-05,23,Better Now,Post Malone,Better Now_Post Malone
+2019-01-05,24,Youngblood,5 Seconds Of Summer,Youngblood_5 Seconds Of Summer
+2019-01-05,25,Last Christmas,Wham!,Last Christmas_Wham!
+2019-01-05,26,Sleigh Ride,The Ronettes,Sleigh Ride_The Ronettes
+2019-01-05,27,Lucid Dreams,Juice WRLD,Lucid Dreams_Juice WRLD
+2019-01-05,28,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,Here Comes Santa Claus (Right Down Santa Claus Lane)_Gene Autry
+2019-01-05,29,Feliz Navidad,Jose Feliciano,Feliz Navidad_Jose Feliciano
+2019-01-05,30,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B","Taki Taki_DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+2019-01-05,31,MIA,Bad Bunny Featuring Drake,MIA_Bad Bunny Featuring Drake
+2019-01-05,32,(There's No Place Like) Home For The Holidays (1959),Perry Como With Mitchell Ayers And His Orchestra,(There's No Place Like) Home For The Holidays (1959)_Perry Como With Mitchell Ayers And His Orchestra
+2019-01-05,33,Leave Me Alone,Flipp Dinero,Leave Me Alone_Flipp Dinero
+2019-01-05,34,White Christmas,Bing Crosby With Ken Darby Singers & John Scott Trotter & His Orchestra,White Christmas_Bing Crosby With Ken Darby Singers & John Scott Trotter & His Orchestra
+2019-01-05,35,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,It's Beginning To Look A Lot Like Christmas_Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra
+2019-01-05,36,Going Bad,Meek Mill Featuring Drake,Going Bad_Meek Mill Featuring Drake
+2019-01-05,37,A Lot,21 Savage,A Lot_21 Savage
+2019-01-05,38,Trip,Ella Mai,Trip_Ella Mai
+2019-01-05,39,I Like It,"Cardi B, Bad Bunny & J Balvin","I Like It_Cardi B, Bad Bunny & J Balvin"
+2019-01-05,40,Blue Christmas,Elvis Presley,Blue Christmas_Elvis Presley
+2019-01-05,41,Speechless,Dan + Shay,Speechless_Dan + Shay
+2019-01-05,42,Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,Happy Xmas (War Is Over)_John & Yoko/The Plastic Ono Band With The Harlem Community Choir
+2019-01-05,43,Christmas (Baby Please Come Home),Darlene Love,Christmas (Baby Please Come Home)_Darlene Love
+2019-01-05,44,Underneath The Tree,Kelly Clarkson,Underneath The Tree_Kelly Clarkson
+2019-01-05,45,Run Rudolph Run,Chuck Berry,Run Rudolph Run_Chuck Berry
+2019-01-05,46,Natural,Imagine Dragons,Natural_Imagine Dragons
+2019-01-05,47,Wow.,Post Malone,Wow._Post Malone
+2019-01-05,48,Love Lies,Khalid & Normani,Love Lies_Khalid & Normani
+2019-01-05,49,Jingle Bells,Frank Sinatra With The Orchestra & Chorus Of Gordon Jenkins,Jingle Bells_Frank Sinatra With The Orchestra & Chorus Of Gordon Jenkins
+2019-01-05,50,Beautiful,Bazzi Featuring Camila Cabello,Beautiful_Bazzi Featuring Camila Cabello
+2019-01-05,51,Better,Khalid,Better_Khalid
+2019-01-05,52,Shallow,Lady Gaga & Bradley Cooper,Shallow_Lady Gaga & Bradley Cooper
+2019-01-05,53,Cozy Little Christmas,Katy Perry,Cozy Little Christmas_Katy Perry
+2019-01-05,54,She Got The Best Of Me,Luke Combs,She Got The Best Of Me_Luke Combs
+2019-01-05,55,The Christmas Song,Lauren Daigle,The Christmas Song_Lauren Daigle
+2019-01-05,56,Uproar,Lil Wayne,Uproar_Lil Wayne
+2019-01-05,57,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,Swervin_A Boogie Wit da Hoodie Featuring 6ix9ine
+2019-01-05,58,Can't Leave Without It,21 Savage,Can't Leave Without It_21 Savage
+2019-01-05,59,You Say,Lauren Daigle,You Say_Lauren Daigle
+2019-01-05,60,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me_Ellie Goulding X Diplo Featuring Swae Lee
+2019-01-05,61,Best Shot,Jimmie Allen,Best Shot_Jimmie Allen
+2019-01-05,62,Dangerous,Meek Mill Featuring Jeremih & PnB Rock,Dangerous_Meek Mill Featuring Jeremih & PnB Rock
+2019-01-05,63,Be Alright,Dean Lewis,Be Alright_Dean Lewis
+2019-01-05,64,Drunk Me,Mitchell Tenpenny,Drunk Me_Mitchell Tenpenny
+2019-01-05,65,Startender,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender_A Boogie Wit da Hoodie Featuring Offset & Tyga
+2019-01-05,66,Look Back At It,A Boogie Wit da Hoodie,Look Back At It_A Boogie Wit da Hoodie
+2019-01-05,67,All My Friends,21 Savage,All My Friends_21 Savage
+2019-01-05,68,BAD!,XXXTENTACION,BAD!_XXXTENTACION
+2019-01-05,69,Backin' It Up,Pardison Fontaine Featuring Cardi B,Backin' It Up_Pardison Fontaine Featuring Cardi B
+2019-01-05,70,Break Da Law,21 Savage,Break Da Law_21 Savage
+2019-01-05,71,Imagine,Ariana Grande,Imagine_Ariana Grande
+2019-01-05,72,Talk To Me,Tory Lanez & Rich The Kid,Talk To Me_Tory Lanez & Rich The Kid
+2019-01-05,73,Monster,21 Savage,Monster_21 Savage
+2019-01-05,74,Calling My Spirit,Kodak Black,Calling My Spirit_Kodak Black
+2019-01-05,75,Consequences,Camila Cabello,Consequences_Camila Cabello
+2019-01-05,76,Armed And Dangerous,Juice WRLD,Armed And Dangerous_Juice WRLD
+2019-01-05,77,Arms Around You,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You_XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee
+2019-01-05,78,Nothing Breaks Like A Heart,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like A Heart_Mark Ronson Featuring Miley Cyrus
+2019-01-05,79,Sixteen,Thomas Rhett,Sixteen_Thomas Rhett
+2019-01-05,80,Burning Man,Dierks Bentley Featuring Brothers Osborne,Burning Man_Dierks Bentley Featuring Brothers Osborne
+2019-01-05,81,Beautiful Crazy,Luke Combs,Beautiful Crazy_Luke Combs
+2019-01-05,82,When The Party's Over,Billie Eilish,When The Party's Over_Billie Eilish
+2019-01-05,83,Sweet But Psycho,Ava Max,Sweet But Psycho_Ava Max
+2019-01-05,84,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,This Feeling_The Chainsmokers Featuring Kelsea Ballerini
+2019-01-05,85,You,Jacquees,You_Jacquees
+2019-01-05,86,1.5,21 Savage,1.5_21 Savage
+2019-01-05,87,Girl Like You,Jason Aldean,Girl Like You_Jason Aldean
+2019-01-05,88,Out For The Night,21 Savage,Out For The Night_21 Savage
+2019-01-05,89,Good Girl,Dustin Lynch,Good Girl_Dustin Lynch
+2019-01-05,90,No Stylist,French Montana Featuring Drake,No Stylist_French Montana Featuring Drake
+2019-01-05,91,Lovely,Billie Eilish & Khalid,Lovely_Billie Eilish & Khalid
+2019-01-05,92,Ella Quiere Beber,Anuel AA & Romeo Santos,Ella Quiere Beber_Anuel AA & Romeo Santos
+2019-01-05,93,Gun Smoke,21 Savage,Gun Smoke_21 Savage
+2019-01-05,94,Demons And Angels,A Boogie Wit da Hoodie Featuring Juice WRLD,Demons And Angels_A Boogie Wit da Hoodie Featuring Juice WRLD
+2019-01-05,95,ASMR,21 Savage,ASMR_21 Savage
+2019-01-05,96,Last Shot,Kip Moore,Last Shot_Kip Moore
+2019-01-05,97,Fine China,Future & Juice WRLD,Fine China_Future & Juice WRLD
+2019-01-05,98,Envy Me,Calboy,Envy Me_Calboy
+2019-01-05,99,Lost In Japan,Shawn Mendes X Zedd,Lost In Japan_Shawn Mendes X Zedd
+2019-01-05,100,This Is It,Scotty McCreery,This Is It_Scotty McCreery
 2024-04-20,1,Like That,"Future, Metro Boomin & Kendrick Lamar","Like That_Future, Metro Boomin & Kendrick Lamar"
 2024-04-20,2,Too Sweet,Hozier,Too Sweet_Hozier
 2024-04-20,3,Beautiful Things,Benson Boone,Beautiful Things_Benson Boone
