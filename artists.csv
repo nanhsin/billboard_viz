@@ -1,716 +1,740 @@
 artist,name,type,country,birthdate,deathdate
-3 Dope Brothas,Dope,Group,US,1997,false
-GloRilla,GloRilla,Person,US,1996-07-28,false
-J. Cole,J. Cole,Person,US,1985-01-28,false
-Cat Janice,Cat Janice,Person,US,1993-01-21,true
-George Frideric Handel,George Frideric Handel,Person,GB,1685-02-23,true
-Benson Boone,Benson Boone,Person,US,2002-06-25,false
-Taylor Swift,Taylor Swift,Person,US,1989-12-13,false
-Stealth,Stealth,Person,,,false
-Bakar,Bakar,Person,GB,1994-02-12,false
-Chappell Roan,Chappell Roan,Person,US,1998-02-19,false
-Jelly Roll,Jelly Roll,Person,,,false
-ILLIT,ILLIT,Group,KR,2023-09-01,false
-Nate Smith,Nate Smith,Person,US,,false
-Beyoncé,Beyoncé,Person,US,1981-09-04,false
-Camila Cabello,Camila Cabello,Person,US,1997-03-03,false
-Tucker Wetmore,Tucker Wetmore,Person,US,,false
-Future,Future,Person,US,1983-11-20,false
-Hozier,Hozier,Person,IE,1990-03-17,false
-Olivia Rodrigo,Olivia Rodrigo,Person,US,2003-02-20,false
-Peso Pluma,Peso Pluma,Person,MX,1999-07-15,false
-Artemas,Artemas,,,,false
-Shakira,Shakira,Person,CO,1977-02-02,false
-Xavi,Xavi,Person,,,false
-Joyner Lucas,Joyner Lucas,Person,US,1988-08-17,false
-Cardi B,Cardi B,Person,US,1992-10-11,false
-Sexyy Red,Sexyy Red,Person,US,1998-04-15,false
-Gunna,Gunna,Person,US,1993-06-14,false
-V,Riot V,Group,US,1975,false
-Kacey Musgraves,Kacey Musgraves,Person,US,1988-08-21,false
-BossMan Dlow,BossMan Dlow,Person,US,1998-08-31,false
-Ivan Cornejo,Ivan Cornejo,Person,,,false
-Bryan Martin,Bryan Adams,Person,CA,1959-11-05,false
-FloyyMenor,FloyyMenor,,,,false
-Ariana Grande,Ariana Grande,Person,US,1993-06-26,false
-Dasha,Dasha,Person,RU,,false
-Tyler Hubbard,Tyler Hubbard,Person,US,1987-01-31,false
-Sam Hunt,Sam Hunt,Person,US,1984-12-08,false
-Twenty One Pilots,twenty one pilots,Group,US,2009,false
-Pharrell Williams,Pharrell Williams,Person,US,1973-04-05,false
-Jordan Davis,Miles Davis,Person,US,1926-05-26,true
-SZA,SZA,Person,US,1989-11-08,false
-Bailey Zimmerman,Bailey Zimmerman,Person,US,,false
-Selena Gomez,Selena Gomez,Person,US,1992-07-22,false
-Lil Durk,Lil Durk,Person,US,1992-10-19,false
-mgk,mgk,Person,US,1990-04-22,false
-Key Glock,Key Glock,Person,US,1997-08-03,false
-LE SSERAFIM,LE SSERAFIM,Group,KR,2022-03-28,false
-Dua Lipa,Dua Lipa,Person,,1995-08-22,false
-Bryson Tiller,Bryson Tiller,Person,US,1993-01-02,false
-Yeat,Yeat,Person,US,2000-02-26,false
-Djo,Djo,Person,US,1992-04-24,false
-KAROL G,KAROL G,Person,CO,1991-02-14,false
-Fuerza Regida,Fuerza Regida,Group,MX,2015,false
-¥$,¥$,Group,US,2023,false
-DJ Cover This,Cover,Group,PL,,false
-Noah Kahan,Noah Kahan,Person,US,1997-01-01,false
-Diezzle Don,Don Gibson,Person,US,1928-04-03,true
-King Hendrick$,King Hendrick$,,,,false
-Latto,Latto,Person,US,1998-12-22,false
-Don Toliver,Don Toliver,Person,US,1994-06-12,false
-Tracy Chapman,Tracy Chapman,Person,US,1964-03-30,false
-Billy Joel,Billy Joel,Person,US,1949-05-09,false
-Lil Yachty,Lil Yachty,Person,US,1997-08-23,false
-Michael Marcagi,Michael Marcagi,Person,,,false
-Megan Thee Stallion,Megan Thee Stallion,Person,US,1995-02-15,false
-Tom MacDonald,Tom MacDonald,Person,CA,1988-09-21,false
-Justin Timberlake,Justin Timberlake,Person,US,1981-01-31,false
-Nicki Minaj,Nicki Minaj,Person,US,1982-12-08,false
-Morgan Wallen,Morgan Wallen,Person,US,1993-05-13,false
-Ice Spice,Ice Spice,Person,US,2000-01-01,false
-YG Marley,YG Marley,Person,,,false
-Good Neighbours,Good Neighbours,Group,GB,,false
-Rich Amiri,Rich Amiri,Person,,2004-02-06,false
-Conner Smith,Conner Smith,Person,US,2000-09-16,false
-Christian Nodal,Christian Nodal,Person,MX,1999-01-11,false
-Chris Janson,Chris Janson,Person,US,1986-04-02,false
-Megan Moroney,Megan Moroney,Person,,1996-12-16,false
-David Kushner,David Kushner,Person,US,,false
-Oscar Ortiz,Oscar Ortiz,,,,false
-Chris Brown,Chris Brown,Person,US,1989-05-05,false
-21 Savage,21 Savage,Person,US,1992-10-22,false
-Kali Uchis,Kali Uchis,Person,US,1994-07-17,false
-Lil Nas X,Lil Nas X,Person,US,1999-04-09,false
-That Mexican OT,That Mexican OT,Person,US,,false
-Muni Long,Muni Long,Person,US,1988-09-14,false
-4batz,4batz,,,,false
-Dylan Gossett,Dylan Gossett,Person,,,false
-Fridayy,Fridayy,,,,false
-Tee Grizzley,Tee Grizzley,Person,,1994-03-23,false
-Kane Brown,Kane Brown,Person,US,1993-10-21,false
-Chayce Beckham,Chayce Beckham,Person,US,,false
-Sophie Ellis-Bextor,Sophie Ellis‐Bextor,Person,GB,1979-04-10,false
-Lainey Wilson,Lainey Wilson,Person,US,1992-05-19,false
-The Jackson 5,The Jacksons,Group,US,1966,true
-Perry Como,Perry Como,Person,US,1912-05-18,true
-Brett Eldredge,Brett Eldredge,Person,US,1986-03-23,false
-Lil Baby,Lil Baby,Person,US,1994-12-03,false
-Flo Milli,Flo Milli,Person,,2000-01-09,false
-Juice WRLD,Juice WRLD,Person,US,1998-12-02,true
-George Birge,George Birge,Person,,,false
-The Red Clay Strays,The Red Clay Strays,Group,,,false
-Cher,Cher,Person,US,1946-05-20,false
-Maurice Ravel,Maurice Ravel,Person,FR,1875-03-07,true
-The Weeknd,The Weeknd,Person,CA,1990-02-16,false
-Tate McRae,Tate McRae,Person,CA,2003-07-01,false
-BigXthaPlug,BigXthaPlug,Person,US,,false
-Sabrina Carpenter,Sabrina Carpenter,Person,US,1999-05-11,false
-Drake,Drake,Person,CA,1986-10-24,false
-Luke Combs,Luke Combs,Person,US,1990-03-02,false
-André 3000,André 3000,Person,US,1975-05-27,false
-Jack Harlow,Jack Harlow,Person,US,1998-03-13,false
-Stray Kids,Stray Kids,Group,KR,2017-10-17,false
-Riley Green,Riley Green,Person,US,1988-10-18,false
-YoungBoy Never Broke Again,YoungBoy Never Broke Again,Person,US,1999-10-20,false
-310babii,310babii,Person,US,,false
-Jung Kook,Jung Kook,Person,KR,1997-09-01,false
-The Beatles,The Beatles,Group,,1960,true
-The Kid LAROI,The Kid LAROI,Person,AU,2003-08-16,false
-Carly Pearce,Carly Pearce,Person,US,1990-04-24,false
-The Citizens of Halloween,Halloween,Group,US,1984,false
-Lil Mabu,Lil Mabu,Person,,2005-04-04,false
-Parker McCollum,Parker McCollum,Person,US,1992-06-15,false
-Troye Sivan,Troye Sivan,Person,AU,1995-06-05,false
-Bad Bunny,Bad Bunny,Person,PR,1994-03-10,false
-Offset,Offset,Person,US,1991-12-14,false
-BoyWithUke,BoyWithUke,Person,US,,false
-Jessie Murph,Jessie Murph,Person,,2004-09-22,false
-Junior H,Junior H,Person,MX,2000-04-23,false
-*NSYNC,*NSYNC,Group,US,1995,false
-Thomas Rhett,Thomas Rhett,Person,US,1990-03-30,false
-Tyla,Tyla,Person,GB,,false
+Kenny Wayne Shepherd,Kenny Wayne Shepherd,Person,US,1977-06-12,False
+Iggy Azalea,Iggy Azalea,Person,US,1990-06-07,False
+FLETCHER,FLETCHER,Person,US,1994-03-19,False
+Lil Skies,Lil Skies,Person,US,1998-08-04,False
+2 Chainz,2 Chainz,Person,US,1976-09-10,False
+JAY-Z,JAY‐Z,Person,US,1969-12-04,False
+Lyn Lapid,Lyn Lapid,Person,,,False
+Lil Pump,Lil Pump,Person,US,2000-08-17,False
+John Mayer,John Mayer,Person,US,1977-10-16,False
+Zedd,Zedd,Person,DE,1989-09-02,False
+Hikaru Utada,[Hikaru Utada's son],Person,,,False
+Gesaffelstein,Gesaffelstein,Person,FR,1985-06-13,False
+Rich The Kid,Rich the Kid,Person,US,1992-07-13,False
+Silk City,Silk City,Group,GB,,False
+Lil Duval,Lil Duval,Person,US,1977-06-12,False
+Lukas Graham,Lukas Graham,Group,DK,2011,False
+Zara Larsson,Zara Larsson,Person,SE,1997-12-16,False
+Loud Luxury,Loud Luxury,Group,CA,2012,False
+Midland,Midland,Group,US,2014,False
+Sheck Wes,Sheck Wes,Person,US,1998-09-10,False
+Flipp Dinero,Flipp Dinero,Person,US,1995-11-16,False
+Pardison Fontaine,Pardison Fontaine,Person,,1989-12-09,False
+Mark Ronson,Mark Ronson,Person,GB,1975-09-04,False
+Kip Moore,Kip Moore,Person,US,1980-04-01,False
+3 Dope Brothas,Dope,Group,US,1997,False
+GloRilla,GloRilla,Person,US,1996-07-28,False
+J. Cole,J. Cole,Person,US,1985-01-28,False
+Cat Janice,Cat Janice,Person,US,1993-01-21,True
+George Frideric Handel,George Frideric Handel,Person,GB,1685-02-23,True
+Benson Boone,Benson Boone,Person,US,2002-06-25,False
+Taylor Swift,Taylor Swift,Person,US,1989-12-13,False
+Stealth,Stealth,Person,,,False
+Bakar,Bakar,Person,GB,1994-02-12,False
+Chappell Roan,Chappell Roan,Person,US,1998-02-19,False
+Jelly Roll,Jelly Roll,Person,,,False
+ILLIT,ILLIT,Group,KR,2023-09-01,False
+Nate Smith,Nate Smith,Person,US,,False
+Beyoncé,Beyoncé,Person,US,1981-09-04,False
+Camila Cabello,Camila Cabello,Person,US,1997-03-03,False
+Tucker Wetmore,Tucker Wetmore,Person,US,,False
+Future,Future,Person,US,1983-11-20,False
+Hozier,Hozier,Person,IE,1990-03-17,False
+Olivia Rodrigo,Olivia Rodrigo,Person,US,2003-02-20,False
+Peso Pluma,Peso Pluma,Person,MX,1999-07-15,False
+Artemas,Artemas,,,,False
+Shakira,Shakira,Person,CO,1977-02-02,False
+Xavi,Xavi,Person,,,False
+Joyner Lucas,Joyner Lucas,Person,US,1988-08-17,False
+Cardi B,Cardi B,Person,US,1992-10-11,False
+Sexyy Red,Sexyy Red,Person,US,1998-04-15,False
+Gunna,Gunna,Person,US,1993-06-14,False
+V,Riot V,Group,US,1975,False
+Kacey Musgraves,Kacey Musgraves,Person,US,1988-08-21,False
+BossMan Dlow,BossMan Dlow,Person,US,1998-08-31,False
+Ivan Cornejo,Ivan Cornejo,Person,,,False
+Bryan Martin,Bryan Adams,Person,CA,1959-11-05,False
+FloyyMenor,FloyyMenor,,,,False
+Ariana Grande,Ariana Grande,Person,US,1993-06-26,False
+Dasha,Dasha,Person,RU,,False
+Tyler Hubbard,Tyler Hubbard,Person,US,1987-01-31,False
+Sam Hunt,Sam Hunt,Person,US,1984-12-08,False
+Twenty One Pilots,twenty one pilots,Group,US,2009,False
+Pharrell Williams,Pharrell Williams,Person,US,1973-04-05,False
+Jordan Davis,Miles Davis,Person,US,1926-05-26,True
+SZA,SZA,Person,US,1989-11-08,False
+Bailey Zimmerman,Bailey Zimmerman,Person,US,,False
+Selena Gomez,Selena Gomez,Person,US,1992-07-22,False
+Lil Durk,Lil Durk,Person,US,1992-10-19,False
+mgk,mgk,Person,US,1990-04-22,False
+Key Glock,Key Glock,Person,US,1997-08-03,False
+LE SSERAFIM,LE SSERAFIM,Group,KR,2022-03-28,False
+Dua Lipa,Dua Lipa,Person,,1995-08-22,False
+Bryson Tiller,Bryson Tiller,Person,US,1993-01-02,False
+Yeat,Yeat,Person,US,2000-02-26,False
+Djo,Djo,Person,US,1992-04-24,False
+KAROL G,KAROL G,Person,CO,1991-02-14,False
+Fuerza Regida,Fuerza Regida,Group,MX,2015,False
+¥$,¥$,Group,US,2023,False
+DJ Cover This,Cover,Group,PL,,False
+Noah Kahan,Noah Kahan,Person,US,1997-01-01,False
+Diezzle Don,Don Gibson,Person,US,1928-04-03,True
+King Hendrick$,King Hendrick$,,,,False
+Latto,Latto,Person,US,1998-12-22,False
+Don Toliver,Don Toliver,Person,US,1994-06-12,False
+Tracy Chapman,Tracy Chapman,Person,US,1964-03-30,False
+Billy Joel,Billy Joel,Person,US,1949-05-09,False
+Lil Yachty,Lil Yachty,Person,US,1997-08-23,False
+Michael Marcagi,Michael Marcagi,Person,,,False
+Megan Thee Stallion,Megan Thee Stallion,Person,US,1995-02-15,False
+Tom MacDonald,Tom MacDonald,Person,CA,1988-09-21,False
+Justin Timberlake,Justin Timberlake,Person,US,1981-01-31,False
+Nicki Minaj,Nicki Minaj,Person,US,1982-12-08,False
+Morgan Wallen,Morgan Wallen,Person,US,1993-05-13,False
+Ice Spice,Ice Spice,Person,US,2000-01-01,False
+YG Marley,YG Marley,Person,,,False
+Good Neighbours,Good Neighbours,Group,GB,,False
+Rich Amiri,Rich Amiri,Person,,2004-02-06,False
+Conner Smith,Conner Smith,Person,US,2000-09-16,False
+Christian Nodal,Christian Nodal,Person,MX,1999-01-11,False
+Chris Janson,Chris Janson,Person,US,1986-04-02,False
+Megan Moroney,Megan Moroney,Person,,1996-12-16,False
+David Kushner,David Kushner,Person,US,,False
+Oscar Ortiz,Oscar Ortiz,,,,False
+Chris Brown,Chris Brown,Person,US,1989-05-05,False
+21 Savage,21 Savage,Person,US,1992-10-22,False
+Kali Uchis,Kali Uchis,Person,US,1994-07-17,False
+Lil Nas X,Lil Nas X,Person,US,1999-04-09,False
+That Mexican OT,That Mexican OT,Person,US,,False
+Muni Long,Muni Long,Person,US,1988-09-14,False
+4batz,4batz,,,,False
+Dylan Gossett,Dylan Gossett,Person,,,False
+Fridayy,Fridayy,,,,False
+Tee Grizzley,Tee Grizzley,Person,,1994-03-23,False
+Kane Brown,Kane Brown,Person,US,1993-10-21,False
+Chayce Beckham,Chayce Beckham,Person,US,,False
+Sophie Ellis-Bextor,Sophie Ellis‐Bextor,Person,GB,1979-04-10,False
+Lainey Wilson,Lainey Wilson,Person,US,1992-05-19,False
+The Jackson 5,The Jacksons,Group,US,1966,True
+Perry Como,Perry Como,Person,US,1912-05-18,True
+Brett Eldredge,Brett Eldredge,Person,US,1986-03-23,False
+Lil Baby,Lil Baby,Person,US,1994-12-03,False
+Flo Milli,Flo Milli,Person,,2000-01-09,False
+Juice WRLD,Juice WRLD,Person,US,1998-12-02,True
+George Birge,George Birge,Person,,,False
+The Red Clay Strays,The Red Clay Strays,Group,,,False
+Cher,Cher,Person,US,1946-05-20,False
+Maurice Ravel,Maurice Ravel,Person,FR,1875-03-07,True
+The Weeknd,The Weeknd,Person,CA,1990-02-16,False
+Tate McRae,Tate McRae,Person,CA,2003-07-01,False
+BigXthaPlug,BigXthaPlug,Person,US,,False
+Sabrina Carpenter,Sabrina Carpenter,Person,US,1999-05-11,False
+Drake,Drake,Person,CA,1986-10-24,False
+Luke Combs,Luke Combs,Person,US,1990-03-02,False
+André 3000,André 3000,Person,US,1975-05-27,False
+Jack Harlow,Jack Harlow,Person,US,1998-03-13,False
+Stray Kids,Stray Kids,Group,KR,2017-10-17,False
+Riley Green,Riley Green,Person,US,1988-10-18,False
+YoungBoy Never Broke Again,YoungBoy Never Broke Again,Person,US,1999-10-20,False
+310babii,310babii,Person,US,,False
+Jung Kook,Jung Kook,Person,KR,1997-09-01,False
+The Beatles,The Beatles,Group,,1960,True
+The Kid LAROI,The Kid LAROI,Person,AU,2003-08-16,False
+Carly Pearce,Carly Pearce,Person,US,1990-04-24,False
+The Citizens of Halloween,Halloween,Group,US,1984,False
+Lil Mabu,Lil Mabu,Person,,2005-04-04,False
+Parker McCollum,Parker McCollum,Person,US,1992-06-15,False
+Troye Sivan,Troye Sivan,Person,AU,1995-06-05,False
+Bad Bunny,Bad Bunny,Person,PR,1994-03-10,False
+Offset,Offset,Person,US,1991-12-14,False
+BoyWithUke,BoyWithUke,Person,US,,False
+Jessie Murph,Jessie Murph,Person,,2004-09-22,False
+Junior H,Junior H,Person,MX,2000-04-23,False
+*NSYNC,*NSYNC,Group,US,1995,False
+Thomas Rhett,Thomas Rhett,Person,US,1990-03-30,False
+Tyla,Tyla,Person,GB,,False
 Sqweez,,,,,
-Dustin Lynch,Dustin Lynch,Person,US,1985-05-14,false
-Russell Dickerson,Russell Dickerson,Person,US,1987-05-07,false
-Zach Bryan,Zach Bryan,Person,US,1996-04-02,false
-Doja Cat,Doja Cat,Person,US,1995-10-21,false
-Lil Tecca,Lil Tecca,Person,US,2002-08-26,false
-blink-182,blink‐182,Group,US,1992-08-01,false
-Mitski,Mitski,Person,US,1990-09-27,false
-Maluma,Maluma,Person,CO,1994-01-28,false
-Dylan Scott,Bob Dylan,Person,US,1941-05-24,false
-Rod Wave,Rod Wave,Person,US,1999-08-27,false
-Diddy,Diddy,Person,US,1969-11-04,false
-Kenya Grace,Kenya Grace,Person,GB,,false
-Paul Russell,Paul McCartney,Person,GB,1942-06-18,false
-Chris Jedi,Chris Jedi,Person,PR,,false
-Jimmy Buffett,Jimmy Buffett,Person,US,1946-12-25,true
-Party Tyme,Tyme.,,,,false
-Timbaland,Timbaland,Person,US,1972-03-10,false
-Miley Cyrus,Miley Cyrus,Person,US,1992-11-23,false
-Burna Boy,Burna Boy,Person,NG,1991-07-02,false
-Gucci Mane,Gucci Mane,Person,US,1980-02-12,false
-Carin Leon,Carin León,Person,MX,1989-07-26,false
-Victoria Monét,Victoria Monét,Person,US,1993-05-01,false
-Tim McGraw,Tim McGraw,Person,US,1967-05-01,false
-Polo G,Polo G,Person,US,1999-01-06,false
-Oliver Anthony Music,Oliver Anthony,Person,US,1992-06-30,false
-DJ Khaled,DJ Khaled,Person,US,1975-11-26,false
-Cody Johnson,Cody Johnson,Person,US,1987-05-21,false
-Warren Zeiders,Warren Zeiders,Person,,,false
-Dominic Fike,Dominic Fike,Person,,1995-12-30,false
-Teddy Swims,Teddy Swims,Person,US,1992-09-25,false
-USHER,Usher,Person,US,1978-10-14,false
-Grupo Frontera,Grupo Frontera,Group,,2022-06-08,false
-Travis Scott,Travis Scott,Person,US,1991-04-30,false
-Topaz Jones,Topaz Jones,Person,,,false
+Dustin Lynch,Dustin Lynch,Person,US,1985-05-14,False
+Russell Dickerson,Russell Dickerson,Person,US,1987-05-07,False
+Zach Bryan,Zach Bryan,Person,US,1996-04-02,False
+Doja Cat,Doja Cat,Person,US,1995-10-21,False
+Lil Tecca,Lil Tecca,Person,US,2002-08-26,False
+blink-182,blink‐182,Group,US,1992-08-01,False
+Mitski,Mitski,Person,US,1990-09-27,False
+Maluma,Maluma,Person,CO,1994-01-28,False
+Dylan Scott,Bob Dylan,Person,US,1941-05-24,False
+Rod Wave,Rod Wave,Person,US,1999-08-27,False
+Diddy,Diddy,Person,US,1969-11-04,False
+Kenya Grace,Kenya Grace,Person,GB,,False
+Paul Russell,Paul McCartney,Person,GB,1942-06-18,False
+Chris Jedi,Chris Jedi,Person,PR,,False
+Jimmy Buffett,Jimmy Buffett,Person,US,1946-12-25,True
+Party Tyme,Tyme.,,,,False
+Timbaland,Timbaland,Person,US,1972-03-10,False
+Miley Cyrus,Miley Cyrus,Person,US,1992-11-23,False
+Burna Boy,Burna Boy,Person,NG,1991-07-02,False
+Gucci Mane,Gucci Mane,Person,US,1980-02-12,False
+Carin Leon,Carin León,Person,MX,1989-07-26,False
+Victoria Monét,Victoria Monét,Person,US,1993-05-01,False
+Tim McGraw,Tim McGraw,Person,US,1967-05-01,False
+Polo G,Polo G,Person,US,1999-01-06,False
+Oliver Anthony Music,Oliver Anthony,Person,US,1992-06-30,False
+DJ Khaled,DJ Khaled,Person,US,1975-11-26,False
+Cody Johnson,Cody Johnson,Person,US,1987-05-21,False
+Warren Zeiders,Warren Zeiders,Person,,,False
+Dominic Fike,Dominic Fike,Person,,1995-12-30,False
+Teddy Swims,Teddy Swims,Person,US,1992-09-25,False
+USHER,Usher,Person,US,1978-10-14,False
+Grupo Frontera,Grupo Frontera,Group,,2022-06-08,False
+Travis Scott,Travis Scott,Person,US,1991-04-30,False
+Topaz Jones,Topaz Jones,Person,,,False
 YMR,,,,,
-The Hit Crew,The Hit Crew,Group,US,,false
-Lou CharLe$,Charle$,,,,false
-Tyler Childers,Tyler Childers,Person,US,1991-06-21,false
-Yung Lean,Yung Lean,Person,SE,1996-07-18,false
-Post Malone,Post Malone,Person,US,1995-07-04,false
-Chris Stapleton,Chris Stapleton,Person,US,1978-04-15,false
-Diplo,Diplo,Person,US,1978-11-10,false
-Charli XCX,Charli XCX,Person,,1992-08-02,false
-NewJeans,NewJeans,Group,KR,2022-07-22,false
-Ryan Gosling,Ryan Gosling,Person,CA,1980-11-12,false
-Luke Bryan,Luke Bryan,Person,US,1976-07-17,false
-Rylo Rodriguez,Rylo Rodriguez,Person,US,1993-09-30,false
-Jason Aldean,Jason Aldean,Person,US,1977-02-28,false
-PHONK,Phonk,,,,false
-Dan + Shay,Dan + Shay,Group,US,2012-12,false
-Quavo,Quavo,Person,US,1991-04-02,false
-Ryan Castro,Ryan Castro,Person,CO,1994-01-14,false
-FendiDa Rappa,FendiDa Rappa,Person,,1995-09-27,false
-Myke Towers,Myke Towers,Person,PR,1994-01-15,false
-Lil Uzi Vert,Lil Uzi Vert,Person,US,1995-07-31,false
-Tainy,Tainy,Person,PR,1989-08-09,false
-Fall Out Boy,Fall Out Boy,Group,US,2001,false
-Young Thug,Young Thug,Person,US,1991-08-16,false
-Lyrical Lemonade,Lyrical Lemonade,Other,,2013-03-25,false
-Only The Family,Only the Family,Group,,,false
-Parmalee,Parmalee,Group,US,,false
-Feid,Feid,Person,CO,1992-08-19,false
-BTS,BTS,Group,KR,2013-06-13,false
-El Alfa,El Alfa,Person,DO,1990-12-18,false
-HARDY,Françoise Hardy,Person,FR,1944-01-17,false
-Baby Keem,Baby Keem,Person,US,2000-10-22,false
-Bizarrap,Bizarrap,Person,AR,1998,false
-Metro Boomin,Metro Boomin,Person,US,1993-09-16,false
-Anya Nami,Anya Nami,Person,US,,false
-Moneybagg Yo,Moneybagg Yo,Person,US,1991-09-22,false
-Young Nudy,Young Nudy,Person,US,1992-12-17,false
-Badboi Jay,DJ badboi,Person,,,false
-Jacquees,Jacquees,Person,US,1994-04-15,false
-grandson,grandson,Person,CA,1993-10-25,false
-Lana Del Rey,Lana Del Rey,Person,US,1985-06-21,false
-Summer Walker,Summer Walker,Person,US,1996-04-11,false
-Kodak Black,Kodak Black,Person,US,1997-06-11,false
-David Guetta,David Guetta,Person,FR,1967-11-07,false
-Hailey Whitters,Hailey Whitters,Person,US,1989-09-09,false
-Jon Pardi,Jon Pardi,Person,US,1985-05-20,false
-Kaliii,Kaliii,Person,US,2000-07-29,false
-Anuel AA,Anuel AA,Person,PR,1992-11-27,false
-JENNIE,JENNIE,Person,KR,1996-01-16,false
-DaBaby,DaBaby,Person,US,1991-12-22,false
-Ed Sheeran,Ed Sheeran,Person,GB,1991-02-17,false
-Doechii,Doechii,Person,US,1998-08-14,false
-Jonas Brothers,Jonas Brothers,Group,US,2005,false
-Libianca,Libianca,Person,US,2001,false
-Kim Petras,Kim Petras,Person,US,1992-08-27,false
-Agust D,Agust D,Person,KR,1993-03-09,false
-Yahritza Y Su Esencia,Yahritza y su Esencia,Group,,,false
-"Tyler, The Creator","Tyler, the Creator",Person,US,1991-03-06,false
-Becky G,Becky G,Person,US,1997-03-02,false
-Grupo Marca Registrada,Marca Registrada,Group,,2014,false
-Scotty McCreery,Scotty McCreery,Person,US,1993-10-09,false
-NF,NF,Person,US,1991-03-30,false
-Jack Black,Black Jack,Group,,1991,false
-Labrinth,Labrinth,Person,GB,1989-01-04,false
-HUGEL,HUGEL,Person,FR,1987-12-04,false
-Melanie Martinez,Melanie Martinez,Person,US,1995-04-28,false
-Laurie Miller,Laurie Miller,Person,US,,false
-Kanii,KANII,Person,US,2005-08-02,false
-Nardo Wick,Nardo Wick,Person,US,2001-12-30,false
-Jimin,Jimin,Person,KR,1995-10-13,false
-ROSALÍA,ROSALÍA,Person,ES,1992-09-25,false
-Lola Brooke,Lola Brooke,Person,US,,false
-Old Dominion,Old Dominion,Group,US,2007,false
+The Hit Crew,The Hit Crew,Group,US,,False
+Lou CharLe$,Charle$,,,,False
+Tyler Childers,Tyler Childers,Person,US,1991-06-21,False
+Yung Lean,Yung Lean,Person,SE,1996-07-18,False
+Post Malone,Post Malone,Person,US,1995-07-04,False
+Chris Stapleton,Chris Stapleton,Person,US,1978-04-15,False
+Diplo,Diplo,Person,US,1978-11-10,False
+Charli XCX,Charli XCX,Person,,1992-08-02,False
+NewJeans,NewJeans,Group,KR,2022-07-22,False
+Ryan Gosling,Ryan Gosling,Person,CA,1980-11-12,False
+Luke Bryan,Luke Bryan,Person,US,1976-07-17,False
+Rylo Rodriguez,Rylo Rodriguez,Person,US,1993-09-30,False
+Jason Aldean,Jason Aldean,Person,US,1977-02-28,False
+PHONK,Phonk,,,,False
+Dan + Shay,Dan + Shay,Group,US,2012-12,False
+Quavo,Quavo,Person,US,1991-04-02,False
+Ryan Castro,Ryan Castro,Person,CO,1994-01-14,False
+FendiDa Rappa,FendiDa Rappa,Person,,1995-09-27,False
+Myke Towers,Myke Towers,Person,PR,1994-01-15,False
+Lil Uzi Vert,Lil Uzi Vert,Person,US,1995-07-31,False
+Tainy,Tainy,Person,PR,1989-08-09,False
+Fall Out Boy,Fall Out Boy,Group,US,2001,False
+Young Thug,Young Thug,Person,US,1991-08-16,False
+Lyrical Lemonade,Lyrical Lemonade,Other,,2013-03-25,False
+Only The Family,Only the Family,Group,,,False
+Parmalee,Parmalee,Group,US,,False
+Feid,Feid,Person,CO,1992-08-19,False
+BTS,BTS,Group,KR,2013-06-13,False
+El Alfa,El Alfa,Person,DO,1990-12-18,False
+HARDY,Françoise Hardy,Person,FR,1944-01-17,False
+Baby Keem,Baby Keem,Person,US,2000-10-22,False
+Bizarrap,Bizarrap,Person,AR,1998,False
+Metro Boomin,Metro Boomin,Person,US,1993-09-16,False
+Anya Nami,Anya Nami,Person,US,,False
+Moneybagg Yo,Moneybagg Yo,Person,US,1991-09-22,False
+Young Nudy,Young Nudy,Person,US,1992-12-17,False
+Badboi Jay,DJ badboi,Person,,,False
+Jacquees,Jacquees,Person,US,1994-04-15,False
+grandson,grandson,Person,CA,1993-10-25,False
+Lana Del Rey,Lana Del Rey,Person,US,1985-06-21,False
+Summer Walker,Summer Walker,Person,US,1996-04-11,False
+Kodak Black,Kodak Black,Person,US,1997-06-11,False
+David Guetta,David Guetta,Person,FR,1967-11-07,False
+Hailey Whitters,Hailey Whitters,Person,US,1989-09-09,False
+Jon Pardi,Jon Pardi,Person,US,1985-05-20,False
+Kaliii,Kaliii,Person,US,2000-07-29,False
+Anuel AA,Anuel AA,Person,PR,1992-11-27,False
+JENNIE,JENNIE,Person,KR,1996-01-16,False
+DaBaby,DaBaby,Person,US,1991-12-22,False
+Ed Sheeran,Ed Sheeran,Person,GB,1991-02-17,False
+Doechii,Doechii,Person,US,1998-08-14,False
+Jonas Brothers,Jonas Brothers,Group,US,2005,False
+Libianca,Libianca,Person,US,2001,False
+Kim Petras,Kim Petras,Person,US,1992-08-27,False
+Agust D,Agust D,Person,KR,1993-03-09,False
+Yahritza Y Su Esencia,Yahritza y su Esencia,Group,,,False
+"Tyler, The Creator","Tyler, the Creator",Person,US,1991-03-06,False
+Becky G,Becky G,Person,US,1997-03-02,False
+Grupo Marca Registrada,Marca Registrada,Group,,2014,False
+Scotty McCreery,Scotty McCreery,Person,US,1993-10-09,False
+NF,NF,Person,US,1991-03-30,False
+Jack Black,Black Jack,Group,,1991,False
+Labrinth,Labrinth,Person,GB,1989-01-04,False
+HUGEL,HUGEL,Person,FR,1987-12-04,False
+Melanie Martinez,Melanie Martinez,Person,US,1995-04-28,False
+Laurie Miller,Laurie Miller,Person,US,,False
+Kanii,KANII,Person,US,2005-08-02,False
+Nardo Wick,Nardo Wick,Person,US,2001-12-30,False
+Jimin,Jimin,Person,KR,1995-10-13,False
+ROSALÍA,ROSALÍA,Person,ES,1992-09-25,False
+Lola Brooke,Lola Brooke,Person,US,,False
+Old Dominion,Old Dominion,Group,US,2007,False
 7KINGIN,,,,,
-Yng Lvcas,Yng Lvcas,Person,,,false
-Chino Pacas,Chino Pacas,Person,MX,2007-10-18,false
-Eladio Carrion,Eladio Carrión,Person,PR,1994-11-14,false
-Coco Jones,Coco Jones,Person,US,1998-01-04,false
-Russ,Russ,Person,US,1992-09-26,false
-FIFTY FIFTY,FIFTY FIFTY,Group,KR,2022-11-10,false
-Vanessa Carlton,Vanessa Carlton,Person,US,1980-08-16,false
-j-hope,j‐hope,Person,KR,1994-02-18,false
-Lil Wayne,Lil Wayne,Person,US,1982-09-27,false
-Halsey,Halsey,Person,US,1994-09-29,false
-Toosii,Toosii,Person,US,2000-01-09,false
-Niall Horan,Niall Horan,Person,IE,1993-09-13,false
-Lizzy McAlpine,Lizzy McAlpine,Person,,1999-09-21,false
-P!nk,P!nk,Person,US,1979-09-08,false
-NLE Choppa,NLE Choppa,Person,US,2002-11-01,false
-Dierks Bentley,Dierks Bentley,Person,US,1975-11-20,false
-Ember Island,Ember Island,Group,SE,,false
-Linkin Park,Linkin Park,Group,US,1999,false
-Rihanna,Rihanna,Person,US,1988-02-20,false
-Superstar Pride,Superstar Pride,,,,false
-PinkPantheress,PinkPantheress,Person,,2001-04-18,false
-Falling In Reverse,Falling in Reverse,Group,US,2008,false
-Yandel,Yandel,Person,PR,1977-01-14,false
-Sam Smith,Sam Smith,Person,GB,1992-05-19,false
-Oscar Maydon,Oscar Maydon,,,,false
-Ozuna,Ozuna,Person,PR,1992-03-13,false
-Trippie Redd,Trippie Redd,Person,US,1999-06-18,false
-Tiësto,Tiësto,Person,NL,1969-01-17,false
-TWICE,TWICE,Group,KR,2015-07-07,false
-Natanael Cano,Natanael Cano,Person,,2001-03-27,false
-Finesse2tymes,Finesse2tymes,Person,US,1992-06-10,false
-ThxSoMch,ThxSoMch,Person,,,false
-TAEYANG,TAEYANG,Person,KR,1988-05-18,false
-Mac DeMarco,Mac DeMarco,Person,CA,1990-04-30,false
-Miguel,Miguel,Person,US,1985-10-23,false
-Brett Young,Brett Young,Person,US,1981-03-23,false
-Lady Gaga,Lady Gaga,Person,US,1986-03-28,false
-Tory Lanez,Tory Lanez,Person,CA,1992-07-27,false
-d4vd,d4vd,Person,US,2005-03-28,false
-Hotel Ugly,Hotel Ugly,,,,false
-Coi Leray,Coi Leray,Person,US,1997-05-11,false
-Ñengo Flow,Ñengo Flow,Person,PR,1981-10-15,false
-John Lennon,John Lennon,Person,GB,1940-10-09,true
-Pentatonix,Pentatonix,Group,US,2011,false
-Metallica,Metallica,Group,US,1981-10-28,false
-A Boogie Wit da Hoodie,A Boogie Wit da Hoodie,Person,US,1995-12-06,false
-Arcángel,Arcángel,Person,PR,1985-12-23,false
-RM,RM,Person,KR,1994-09-12,false
-Kelly Clarkson,Kelly Clarkson,Person,US,1982-04-24,false
-Elvis Presley,Elvis Presley,Person,US,1935-01-08,true
-RAYE,RAYE,Person,GB,1997-10-24,false
-Lauren Spencer Smith,Lauren Spencer Smith,Person,CA,2003-09-28,false
-Lizzo,Lizzo,Person,US,1988-04-27,false
-Rico Nasty,Rico Nasty,Person,US,1997-05-07,false
-Joji,Joji,Person,US,1992-09-18,false
-JIN,Jin Jin,,,,false
-Meghan Trainor,Meghan Trainor,Person,US,1993-12-22,false
-Oliver Tree,Oliver Tree,Person,US,1993-06-29,false
-Marshmello,Marshmello,Person,US,1992-05-19,false
-Rauw Alejandro,Rauw Alejandro,Person,PR,1993-01-10,false
-YG,YG,Person,US,1990-03-09,false
-Lewis Capaldi,Lewis Capaldi,Person,GB,1996-10-17,false
-Zac Brown Band,Zac Brown Band,Group,US,2000,false
-AJR,AJR,Group,US,2006,false
-Jimmie Allen,Jimmie Allen,Person,US,1986-06-18,false
-BLACKPINK,BLACKPINK,Group,KR,2016-08-08,false
-Omar Apollo,Omar Apollo,Person,US,1997-05-20,false
-Little Big Town,Little Big Town,Group,US,1998,false
-Yung Bleu,Bleu,Person,US,1975-07-18,false
-Steve Lacy,Steve Lacy,Person,US,1934-07-23,true
-EST Gee,EST Gee,Person,US,1994-05-11,false
-Ghost,Ghost,Group,SE,2008,false
-Rema,Rema‐Rema,Group,GB,1979,true
-Armani White,Armani White,Person,,1996-09-25,false
-Romeo Santos,Romeo Santos,Person,US,1981-07-21,false
-Elton John,Elton John,Person,GB,1947-03-25,false
-Lil Tjay,Lil Tjay,Person,US,2001-04-30,false
-Kanye West,Kanye West Tribute Band,Group,,,false
-JVKE,JVKE,Person,US,2001-03-01,false
-karaoke SESH,Sesh,Group,,2019,false
-Jackson Dean,Dean Martin,Person,US,1917-06-07,true
-Demi Lovato,Demi Lovato,Person,US,1992-08-20,false
-Rosa Linn,Rosa Linn,Person,AM,2000-03-20,false
-Lee Brice,Lee Brice,Person,US,1979-06-10,false
-Manuel Turizo,Manuel Turizo,Person,CO,2000-04-12,false
-benny blanco,benny blanco,Person,US,1988-03-08,false
-NAV,NAV,Person,,1989-11-03,false
-Jax,Jax Jones,Person,GB,1987-07-25,false
-Billie Eilish,Billie Eilish,Person,US,2001-12-18,false
-John Rich,John Rich,Person,US,1974-01-07,false
-Justin Moore,Justin Moore,Person,US,1984-03-30,false
-Mac Miller,Mac Miller,Person,US,1992-01-19,true
-Mitchell Tenpenny,Mitchell Tenpenny,Person,US,1989-08-17,false
-Tems,Tems,Person,NG,1995-06-11,false
-Chris Young,Neil Young,Person,CA,1945-11-12,false
-Gabby Barrett,Gabby Barrett,Person,US,2000-03-05,false
-Brent Faiyaz,Brent Faiyaz,Person,US,1995-09-19,false
-Yung Gravy,Yung Gravy,Person,US,1996-03-19,false
-City Girls,Sun City Girls,Group,US,1981,true
-Ingrid Andress,Ingrid Andress,Person,US,1991-09-21,false
-Jake Owen,Jake Owen,Person,US,1981-08-28,false
-Sia,Sia,Person,AU,1975-12-18,false
-Charlie Puth,Charlie Puth,Person,US,1991-12-02,false
-Eminem,Eminem,Person,US,1972-10-17,false
-Corey Kent,Corey Kent,Person,US,,false
-OneRepublic,OneRepublic,Group,US,2004,false
-Kate Bush,Kate Bush,Person,,1958-07-30,false
-SleazyWorld Go,SleazyWorld Go,Person,,1998-01-17,false
-Sleepy Hallow,Sleepy Hallow,Person,US,1999-12-20,false
-Calvin Harris,Calvin Harris,Person,,1984-01-17,false
-Cole Swindell,Cole Swindell,Person,US,1983-06-30,false
-Nicky Youre,Nicky Youre,Person,US,1999-06-04,false
-Hitkidd,Hitkidd,Person,,,false
-Keith Urban,Keith Urban,Person,AU,1967-10-26,false
-Stephen Sanchez,Stephen King,Person,US,1947-09-21,false
-Harry Styles,Harry Styles,Person,,1994-02-01,false
-Ella Mai,Ella Mai,Person,GB,1994-11-03,false
-Kendrick Lamar,Kendrick Lamar,Person,US,1987-06-17,false
-Abioye Alejandro Gotti,Yo Gotti,Person,US,1981-05-19,false
-Blake Roman,Blake Roman,Person,US,,false
-Roger Daltrey,Roger Daltrey,Person,GB,1944-03-01,false
-Justin Bieber,Justin Bieber,Person,CA,1994-03-01,false
-PSY,PSY,Person,KR,1977-12-31,false
-Southside,Southside,Person,US,1989-02-02,false
-Pusha T,Pusha T,Person,US,1977-05-14,false
-Kay Flock,Kay Flock,Person,US,2003-04-20,false
-6ix9ine,6ix9ine,Person,US,1996-05-08,false
-42 Dugg,42 Dugg,Person,US,1993-11-25,false
-Chlöe,Chloé,Person,FR,1976-04-20,false
-BRELAND,BRELAND,Person,US,1995-07-18,false
-Shawn Mendes,Shawn Mendes,Person,CA,1998-08-08,false
-Dreamville,Dreamville,Group,US,2007,false
-5 Seconds of Summer,5 Seconds of Summer,Group,AU,2011,false
-Daddy Yankee,Daddy Yankee,Person,PR,1977-02-03,false
-Anitta,Anitta,Person,BR,1993-03-30,false
-J Balvin,J Balvin,Person,CO,1985-05-07,false
-4*TOWN (From Disney and Pixar’s Turning Red),4*TOWN,Other,CA,2022-02-21,false
-Carrie Underwood,Carrie Underwood,Person,US,1983-03-10,false
-AnnenMayKantereit,AnnenMayKantereit,Group,DE,2011,false
-Lucky Daye,Lucky Daye,Person,US,1985-09-25,false
-Kevin Gates,Kevin Gates,Person,US,1986-02-05,false
-Nirvana,Nirvana,Group,US,1987,true
-Bruno Mars,Bruno Mars,Person,US,1985-10-08,false
-Flume,Flume,Person,AU,1991-11-05,false
-Imagine Dragons,Imagine Dragons,Group,US,2008,false
-King Von,Stephen King,Person,US,1947-09-21,false
-Hippie Sabotage,Hippie Sabotage,Group,US,,false
-Tyga,Tyga,Person,US,1989-11-19,false
-JNR CHOI,Jnr Choi,Person,GB,,false
-lil Shordie Scott,Lil Shordie Scott,,,,false
-Steve Miller Band,Steve Miller Band,Group,US,1967,false
-Dr. Dre,Dr. Dre,Person,US,1965-02-18,false
-Fivio Foreign,Fivio Foreign,Person,,1990-03-29,false
-Dove Cameron,Dove Cameron,Person,US,1996-01-15,false
-Mary J. Blige,Mary J. Blige,Person,US,1971-01-11,false
-Saweetie,Saweetie,Person,US,1993-07-02,false
-Red Hot Chili Peppers,Red Hot Chili Peppers,Group,US,1983,false
-$NOT,$NOT,Person,US,1997-12-16,false
-Queen Naija,Queen Naija,Person,US,1995-10-17,false
-Alesso,Alesso,Person,SE,1991-07-07,false
-The Chainsmokers,The Chainsmokers,Group,US,2012,false
-Benny The Butcher,Benny the Butcher,Person,,1984-11-27,false
-Fireboy DML,Fireboy DML,Person,,1996-02-05,false
-Miranda Lambert,Miranda Lambert,Person,US,1983-11-10,false
-XXXTENTACION,XXXTENTACION,Person,US,1998-01-23,true
-Em Beihold,Em Beihold,Person,US,1999-01-21,false
-Jaymes Young,Jaymes Young,Person,US,,false
-Carlos Vives,Carlos Vives,Person,CO,1961-08-07,false
-Internet Money,Internet Money,Group,,,false
-The Game,The Game,Person,US,1979-11-27,false
-JID,JID,Person,US,1990-10-31,false
-Stephanie Beatriz,Stephanie Beatriz,Person,US,1981-02-10,false
-Maren Morris,Maren Morris,Person,US,1990-04-10,false
-Andrew Underberg,Andrew Underberg,Person,,,false
-Diane Guerrero,Diane Guerrero,Person,US,1986-07-21,false
-ERNEST,Ernest Tubb,Person,US,1914-02-09,true
-Sebastian Yatra,Sebastián Yatra,Person,CO,1994-10-15,false
-Walker Hayes,Walker Hayes,Person,US,1979-12-27,false
-Blake Shelton,Blake Shelton,Person,US,1976-06-18,false
-The Walters,The Beatles,Group,,1960,true
-Carolina Gaitán - La Gaita,Carolina Gaitán,Person,CO,1984-04-04,false
-Jessica Darrow,Jessica Darrow,Person,US,1995-01-07,false
-Emmy Meli,Emmy Meli,Person,,1999-12-14,false
-Ari Lennox,Ari Lennox,Person,US,1991-03-26,false
-Vince Guaraldi Trio,Vince Guaraldi Trio,Group,US,,false
-Roddy Ricch,Roddy Ricch,Person,US,1998-10-22,false
-ACRAZE,ACRAZE,Person,US,,false
-Eartha Kitt,Eartha Kitt,Person,US,1927-01-17,true
-Adele,Adele,Person,GB,1988-05-05,false
-GAYLE,Crystal Gayle,Person,US,1951-01-09,false
-State of Mine,State of Mine,Group,,2007-09-01,false
-Eric Church,Eric Church,Person,US,1977-05-03,false
-Arctic Monkeys,Arctic Monkeys,Group,GB,2002,false
-Pop Voice Nation,Iggy Pop,Person,US,1947-04-21,false
-YOUNGX777,youngx777,Person,,,false
-Amaarae,Amaarae,Person,GH,1994-07-04,false
-"Bobby ""Boris"" Pickett",Bobby “Boris” Pickett,Person,US,1938-02-11,true
-Ray Parker Jr.,Ray Parker Jr.,Person,US,1954-05-01,false
-Rockwell,Rockwell,Person,US,1964-03-15,false
-Yung Miami,Yung Miami,Person,,1994-02-11,false
-Swedish House Mafia,Swedish House Mafia,Group,SE,2008,false
-Bryson Gray,Bryson Gray,Person,,1991-05-24,false
-Wale,Wale,Person,US,1984-09-21,false
-Kelsea Ballerini,Kelsea Ballerini,Person,US,1993-09-12,false
-LISA,LiSA,Person,JP,1987-06-24,false
-Loza Alexander,Loza Alexander,Person,,,false
-NEIKED,NEIKED,Person,,1991-12-28,false
-Coldplay,Coldplay,Group,GB,1996-09,false
-Grupo Firme,Grupo Firme,Group,MX,2014,false
-RealestK,RealestK,Person,,2004-06-05,false
-Lady A,Lady A,Group,US,2006,false
-Priscilla Block,Priscilla Block,Person,US,1995-08-11,false
-Meek Mill,Meek Mill,Person,US,1987-05-06,false
-Eslabon Armado,Eslabón Armado,Group,US,2017,false
-Skylar Grey,Skylar Grey,Person,US,1986-02-23,false
-Michael Ray,Ray Charles,Person,US,1930-09-23,true
-Newage 6.5,Newage,,,,false
-Giveon,GIVĒON,Person,US,1990-02-21,false
-Blxst,Blxst,Person,US,1992-09-17,false
-CKay,CKay,Person,NG,,false
-THE ANXIETY,THE ANXIETY,Group,,,false
-RENT STRIKE,Rent Strike,,,,false
-Monica,Monica,Person,US,1980-10-24,false
-N2DEEP,N2Deep,Group,US,1990,false
-Xavier Wulf,Xavier Wulf,Person,,1992-10-24,false
-Fontaines D.C.,Ruts DC,Group,,,false
-Pop Smoke,Pop Smoke,Person,US,1999-07-20,true
-Skrillex,Skrillex,Person,US,1988-01-15,false
-Clinton Kane,Clinton Kane,Person,AU,,false
-Sueco,Sueco,Person,US,1997-01-28,false
-YNW Melly,YNW Melly,Person,US,1999-05-01,false
-T-Pain,T‐Pain,Person,US,1985-09-30,false
-Nas,Nas,Person,US,1973-09-14,false
-Hit The Button Karaoke,The Hit Crew,Group,US,,false
-Nessa Barrett,Nessa Barrett,Person,US,2002-08-06,false
-Kenny Chesney,Kenny Chesney,Person,US,1968-03-26,false
-Aventura,Aventura,Group,US,1994,false
-Capella Grey,Capella Grey,Person,,1995-08-02,false
-Isaiah Rashad,Isaiah Rashad,Person,US,1991-05-16,false
-Smiley,Smiley Lewis,Person,US,1913-07-05,true
-Farruko,Farruko,Person,PR,1991-05-02,false
-Belly,Lead Belly,Person,US,1888-01-20,true
-Normani,Normani,Person,US,1996-05-31,false
-Counting Crows,Counting Crows,Group,US,1991,false
-BIA,Bïa,Person,BR,,false
-Bas,Bas,Person,US,1987-05-27,false
-Mora,Mora Mora,,,,false
-Aaron Lewis,Aaron Lewis,Person,US,1972-04-13,false
-Big Red Machine,Red Machine,,,,false
-G Herbo,G Herbo,Person,US,1994-11-08,false
-Wizkid,Wizkid,Person,NG,1990-07-16,false
-Tai Verdes,Tai Verdes,Person,US,1995-12-06,false
-Jameson Rodgers,Jameson Rodgers,Person,US,,false
-Nio Garcia,Nio García,Person,PR,1989-04-03,false
-The Lemonheads,The Lemonheads,Group,US,1984,false
-will.i.am,will.i.am,Person,US,1975-03-15,false
-Serge Gainsbourg,Serge Gainsbourg,Person,FR,1928-04-02,true
-Måneskin,Måneskin,Group,IT,2016,false
-Elvie Shane,Elvie Shane,Person,,,false
-Migos,Migos,Group,US,2008,false
-Lorde,Lorde,Person,NZ,1996-11-07,false
-Quality Control,Quality Control,Group,,2017-12-08,false
-WILLOW,WILLOW,Person,US,2000-10-31,false
-Los Legendarios,Los Legendarios,Group,PR,,false
-Regard,Regard,Person,,1993,false
-Cochise,Cochise,Group,DE,1979,true
-Chase Rice,Chase Rice,Person,US,1986-09-19,false
-MO3,MO3,Person,US,1992-05-31,true
-8-Bit Arcade,8-Bit Arcade,Person,,,false
-Los 50 De Joselito,Los 50 de Joselito,Group,CO,,false
-Juan Villareal y Sus Cachorros,Juan Villareal,Person,,,false
-Nat King Cole,Nat King Cole,Person,US,1919-03-17,true
-Bella Poarch,Bella Poarch,Person,US,1997-02-08,false
-Ali Tabatabaee,Ali Tabatabaee,Person,US,1973-02-27,false
-Cico P,Cico P,Person,,1998-02-06,false
-Gera MX,Gera MX,Person,MX,1994-07-15,false
-Young Stoner Life,Young Stoner Life,Group,,,false
-Ryan Hurd,Ryan Hurd,Person,US,1986-11-02,false
-DMX,DMX,Person,US,1970-12-18,true
-Alphaville,Alphaville,Group,DE,1983,false
-Duncan Laurence,Duncan Laurence,Person,NL,1994-04-11,false
-ROSÉ,Karen Rose,Person,US,,false
-Maroon 5,Maroon 5,Group,US,2002,false
-Nelly,Nelly,Person,US,1974-11-02,false
-Elle King,Elle King,Person,US,1989-07-03,false
-Prince Herzel,Prince,Person,US,1958-06-07,true
-Mooski,Mooski,Group,,,false
-Nipsey Hussle,Nipsey Hussle,Person,US,1985-08-15,true
-Masked Wolf,Masked Wolf,Person,AU,1991-02-12,false
-Rascal Flatts,Rascal Flatts,Group,US,1999,true
-Pooh Shiesty,Pooh Shiesty,Person,US,2000-11-08,false
-G-Eazy,G‐Eazy,Person,US,1989-05-24,false
-Ava Max,Ava Max,Person,US,1994-02-16,false
-Jason Derulo,Jason Derulo,Person,US,1989-09-21,false
-Morray,Morray,Person,,,false
-YBN Nahmir,YBN Nahmir,Person,US,1999-12-18,false
-SpotemGottem,SpotemGottem,Person,US,2001-10-19,false
-Ant Clemons,Ant Clemons,Person,US,1991-09-26,false
-Tenille Arts,Tenille Arts,Person,CA,1994-04-19,false
-Jazmine Sullivan,Jazmine Sullivan,Person,US,1987-04-09,false
-Erica Banks,Erica Banks,Person,US,1998-10-05,false
-Florida Georgia Line,Florida Georgia Line,Group,US,2010,true
-thủy,thuy,Person,,1991-10-29,false
-Glass Animals,Glass Animals,Group,GB,2010-01-01,false
-Playboi Carti,Playboi Carti,Person,US,1996-09-13,false
-All Time Low,All Time Low,Group,US,2003,false
-Bing Crosby,Bing Crosby,Person,US,1903-05-03,true
-Donny Hathaway,Donny Hathaway,Person,US,1945-10-01,true
-Eagles,Eagles,Group,US,1971,false
-The Beach Boys,The Beach Boys,Group,US,1961,false
-Michael Bublé,Michael Bublé,Person,CA,1975-09-09,false
-Popp Hunna,Popp Hunna,Person,,2000-10-21,false
-DDG,DDG,Person,,1997-10-10,false
-Kid Cudi,Kid Cudi,Person,US,1984-01-30,false
-Paul McCartney,Paul McCartney,Person,GB,1942-06-18,false
-Mariah Carey,Mariah Carey,Person,US,1969-03-27,false
-Trey Lewis,Trey Lewis,Person,US,,false
-TV Girl,TV Girl,Group,US,2010,false
-Audien,Audien,Person,US,1992-01-11,false
-Mike WiLL Made-It,Mike WiLL Made‐It,Person,US,1989-03-23,false
-Darius Rucker,Darius Rucker,Person,US,1966-05-13,false
-CJ,CJ Bolland,Person,BE,1971-06-18,false
-Confetti,Confetti’s,Group,BE,1988,true
-BeatKing,BeatKing,Person,US,1984-11-24,false
-Ty Dolla $ign,Ty Dolla $ign,Person,US,1985-04-13,false
-H.E.R.,H.E.R.,Person,US,1997-06-27,false
-Tears For Fears,Tears for Fears,Group,GB,1981,false
-Larray,Larray,Person,,1998-07-22,false
-BRS Kash,BRS Kash,Person,,1993-05-15,false
-Incubus,Incubus,Group,US,1991,false
-Bebe Rexha,Bebe Rexha,Person,US,1989-08-30,false
-Clairo,Clairo,Person,US,1998-08-18,false
-Fleetwood Mac,Fleetwood Mac,Group,GB,1967-07,false
-Why Don't We,Why Don’t We,Group,US,2016-09-27,false
-Ne-Yo,Ne‐Yo,Person,US,1979-10-18,false
-ZAYN,ZAYN,Person,,1993-01-12,false
-Chris Lane,Chris Lane,Person,,1984-11-09,false
-Niko Moon,Niko Moon,Person,US,1982-09-20,false
-Ritt Momney,Ritt Momney,Group,,,false
-YFN Lucci,YFN Lucci,Person,US,1991-02-16,false
-Sada Baby,Sada Baby,Person,US,1992-11-17,false
-Andrew Jannakos,Andrew Jannakos,Person,,,false
-Vedo,Vedo,Person,US,,false
-Styles P,Styles P,Person,US,1974-11-28,false
-Sech,Sech,Person,PA,1993-12-03,false
-Big Sean,Big Sean,Person,US,1988-03-25,false
-Matt Stell,Matt Stell,Person,,,false
-Dorrough Music,Dorrough Music,,,,false
-WhoHeem,WhoHeem,Person,,,false
-Conan Gray,Conan Gray,Person,US,1998-12-05,false
-Money Man,Money Man,Person,US,1986-02-27,false
-Esco Bar,Esco Bar,,,,false
-24kGoldn,24kGoldn,Person,US,2000-11-13,false
-Bryansanon,Bryansanon,Person,,,false
-Logic,Logic,Person,US,1990-01-22,false
-Topic,Topic,Person,DE,1992-03-23,false
-Arcade Player,Arcade Player,,,,false
-Redbone,Redbone,Group,US,1968,false
-6LACK,6LACK,Person,US,1992-06-24,false
-Trevor Daniel,Trevor Daniel,Person,US,1994-09-28,false
-Tyla Yaweh,Tyla Yaweh,Person,US,1995-05-23,false
-Jawsh 685,Jawsh 685,Person,NZ,,false
-Chloe x Halle,Chloe × Halle,Group,US,2011,false
-J.I the Prince of N.Y,J.I the Prince of N.Y,Person,,2001-09-23,false
-Black Eyed Peas,Black Eyed Peas,Group,US,1995,false
-Ashley McBryde,Ashley McBryde,Person,,1983-07-29,false
-Brantley Gilbert,Brantley Gilbert,Person,US,1985-01-20,false
-LOCASH,LOCASH,Group,US,2011,false
-Kygo,Kygo,Person,NO,1991-09-11,false
-MF DOOM,MF DOOM,Person,US,1971-07-13,true
-Mike Posner,Mike Posner,Person,US,1988-02-12,false
-Moe,moe.,Group,US,1989,false
-Surf Mesa,Surf Mesa,Person,US,2000-04-10,false
-Katy Perry,Katy Perry,Person,US,1984-10-25,false
-Kehlani,Kehlani,Person,US,1995-04-24,false
-Catherine Zeta-Jones,Catherine Zeta‐Jones,Person,GB,1969-09-25,false
-Young T & Bugsey,Young T & Bugsey,Group,,2012-01-01,false
-THE SCOTTS,Scotts,Group,SE,1992,false
-StaySolidRocky,StaySolidRocky,Person,,,false
-Maddie & Tae,Maddie & Tae,Group,US,2014,false
-PARTYNEXTDOOR,PARTYNEXTDOOR,Person,CA,1993-07-03,false
-Travis Denning,Travis Denning,Person,US,1992-12-01,false
-JP Saxe,JP Saxe,Person,CA,1994-03-23,false
-SAINt JHN,SAINt JHN,Person,GY,1986-08-26,false
-Powfu,Powfu,Person,CA,1999-03-31,false
-BENEE,BENEE,Person,NZ,2000-01-30,false
-Jhené Aiko,Jhené Aiko,Person,US,1988-03-16,false
-Surfaces,Surfaces,Group,US,2017,false
+Yng Lvcas,Yng Lvcas,Person,,,False
+Chino Pacas,Chino Pacas,Person,MX,2007-10-18,False
+Eladio Carrion,Eladio Carrión,Person,PR,1994-11-14,False
+Coco Jones,Coco Jones,Person,US,1998-01-04,False
+Russ,Russ,Person,US,1992-09-26,False
+FIFTY FIFTY,FIFTY FIFTY,Group,KR,2022-11-10,False
+Vanessa Carlton,Vanessa Carlton,Person,US,1980-08-16,False
+j-hope,j‐hope,Person,KR,1994-02-18,False
+Lil Wayne,Lil Wayne,Person,US,1982-09-27,False
+Halsey,Halsey,Person,US,1994-09-29,False
+Toosii,Toosii,Person,US,2000-01-09,False
+Niall Horan,Niall Horan,Person,IE,1993-09-13,False
+Lizzy McAlpine,Lizzy McAlpine,Person,,1999-09-21,False
+P!nk,P!nk,Person,US,1979-09-08,False
+NLE Choppa,NLE Choppa,Person,US,2002-11-01,False
+Dierks Bentley,Dierks Bentley,Person,US,1975-11-20,False
+Ember Island,Ember Island,Group,SE,,False
+Linkin Park,Linkin Park,Group,US,1999,False
+Rihanna,Rihanna,Person,US,1988-02-20,False
+Superstar Pride,Superstar Pride,,,,False
+PinkPantheress,PinkPantheress,Person,,2001-04-18,False
+Falling In Reverse,Falling in Reverse,Group,US,2008,False
+Yandel,Yandel,Person,PR,1977-01-14,False
+Sam Smith,Sam Smith,Person,GB,1992-05-19,False
+Oscar Maydon,Oscar Maydon,,,,False
+Ozuna,Ozuna,Person,PR,1992-03-13,False
+Trippie Redd,Trippie Redd,Person,US,1999-06-18,False
+Tiësto,Tiësto,Person,NL,1969-01-17,False
+TWICE,TWICE,Group,KR,2015-07-07,False
+Natanael Cano,Natanael Cano,Person,,2001-03-27,False
+Finesse2tymes,Finesse2tymes,Person,US,1992-06-10,False
+ThxSoMch,ThxSoMch,Person,,,False
+TAEYANG,TAEYANG,Person,KR,1988-05-18,False
+Mac DeMarco,Mac DeMarco,Person,CA,1990-04-30,False
+Miguel,Miguel,Person,US,1985-10-23,False
+Brett Young,Brett Young,Person,US,1981-03-23,False
+Lady Gaga,Lady Gaga,Person,US,1986-03-28,False
+Tory Lanez,Tory Lanez,Person,CA,1992-07-27,False
+d4vd,d4vd,Person,US,2005-03-28,False
+Hotel Ugly,Hotel Ugly,,,,False
+Coi Leray,Coi Leray,Person,US,1997-05-11,False
+Ñengo Flow,Ñengo Flow,Person,PR,1981-10-15,False
+John Lennon,John Lennon,Person,GB,1940-10-09,True
+Pentatonix,Pentatonix,Group,US,2011,False
+Metallica,Metallica,Group,US,1981-10-28,False
+A Boogie Wit da Hoodie,A Boogie Wit da Hoodie,Person,US,1995-12-06,False
+Arcángel,Arcángel,Person,PR,1985-12-23,False
+RM,RM,Person,KR,1994-09-12,False
+Kelly Clarkson,Kelly Clarkson,Person,US,1982-04-24,False
+Elvis Presley,Elvis Presley,Person,US,1935-01-08,True
+RAYE,RAYE,Person,GB,1997-10-24,False
+Lauren Spencer Smith,Lauren Spencer Smith,Person,CA,2003-09-28,False
+Lizzo,Lizzo,Person,US,1988-04-27,False
+Rico Nasty,Rico Nasty,Person,US,1997-05-07,False
+Joji,Joji,Person,US,1992-09-18,False
+JIN,Jin Jin,,,,False
+Meghan Trainor,Meghan Trainor,Person,US,1993-12-22,False
+Oliver Tree,Oliver Tree,Person,US,1993-06-29,False
+Marshmello,Marshmello,Person,US,1992-05-19,False
+Rauw Alejandro,Rauw Alejandro,Person,PR,1993-01-10,False
+YG,YG,Person,US,1990-03-09,False
+Lewis Capaldi,Lewis Capaldi,Person,GB,1996-10-17,False
+Zac Brown Band,Zac Brown Band,Group,US,2000,False
+AJR,AJR,Group,US,2006,False
+Jimmie Allen,Jimmie Allen,Person,US,1986-06-18,False
+BLACKPINK,BLACKPINK,Group,KR,2016-08-08,False
+Omar Apollo,Omar Apollo,Person,US,1997-05-20,False
+Little Big Town,Little Big Town,Group,US,1998,False
+Yung Bleu,Bleu,Person,US,1975-07-18,False
+Steve Lacy,Steve Lacy,Person,US,1934-07-23,True
+EST Gee,EST Gee,Person,US,1994-05-11,False
+Ghost,Ghost,Group,SE,2008,False
+Rema,Rema‐Rema,Group,GB,1979,True
+Armani White,Armani White,Person,,1996-09-25,False
+Romeo Santos,Romeo Santos,Person,US,1981-07-21,False
+Elton John,Elton John,Person,GB,1947-03-25,False
+Lil Tjay,Lil Tjay,Person,US,2001-04-30,False
+Kanye West,Kanye West Tribute Band,Group,,,False
+JVKE,JVKE,Person,US,2001-03-01,False
+karaoke SESH,Sesh,Group,,2019,False
+Jackson Dean,Dean Martin,Person,US,1917-06-07,True
+Demi Lovato,Demi Lovato,Person,US,1992-08-20,False
+Rosa Linn,Rosa Linn,Person,AM,2000-03-20,False
+Lee Brice,Lee Brice,Person,US,1979-06-10,False
+Manuel Turizo,Manuel Turizo,Person,CO,2000-04-12,False
+benny blanco,benny blanco,Person,US,1988-03-08,False
+NAV,NAV,Person,,1989-11-03,False
+Jax,Jax Jones,Person,GB,1987-07-25,False
+Billie Eilish,Billie Eilish,Person,US,2001-12-18,False
+John Rich,John Rich,Person,US,1974-01-07,False
+Justin Moore,Justin Moore,Person,US,1984-03-30,False
+Mac Miller,Mac Miller,Person,US,1992-01-19,True
+Mitchell Tenpenny,Mitchell Tenpenny,Person,US,1989-08-17,False
+Tems,Tems,Person,NG,1995-06-11,False
+Chris Young,Neil Young,Person,CA,1945-11-12,False
+Gabby Barrett,Gabby Barrett,Person,US,2000-03-05,False
+Brent Faiyaz,Brent Faiyaz,Person,US,1995-09-19,False
+Yung Gravy,Yung Gravy,Person,US,1996-03-19,False
+City Girls,Sun City Girls,Group,US,1981,True
+Ingrid Andress,Ingrid Andress,Person,US,1991-09-21,False
+Jake Owen,Jake Owen,Person,US,1981-08-28,False
+Sia,Sia,Person,AU,1975-12-18,False
+Charlie Puth,Charlie Puth,Person,US,1991-12-02,False
+Eminem,Eminem,Person,US,1972-10-17,False
+Corey Kent,Corey Kent,Person,US,,False
+OneRepublic,OneRepublic,Group,US,2004,False
+Kate Bush,Kate Bush,Person,,1958-07-30,False
+SleazyWorld Go,SleazyWorld Go,Person,,1998-01-17,False
+Sleepy Hallow,Sleepy Hallow,Person,US,1999-12-20,False
+Calvin Harris,Calvin Harris,Person,,1984-01-17,False
+Cole Swindell,Cole Swindell,Person,US,1983-06-30,False
+Nicky Youre,Nicky Youre,Person,US,1999-06-04,False
+Hitkidd,Hitkidd,Person,,,False
+Keith Urban,Keith Urban,Person,AU,1967-10-26,False
+Stephen Sanchez,Stephen King,Person,US,1947-09-21,False
+Harry Styles,Harry Styles,Person,,1994-02-01,False
+Ella Mai,Ella Mai,Person,GB,1994-11-03,False
+Kendrick Lamar,Kendrick Lamar,Person,US,1987-06-17,False
+Abioye Alejandro Gotti,Yo Gotti,Person,US,1981-05-19,False
+Blake Roman,Blake Roman,Person,US,,False
+Roger Daltrey,Roger Daltrey,Person,GB,1944-03-01,False
+Justin Bieber,Justin Bieber,Person,CA,1994-03-01,False
+PSY,PSY,Person,KR,1977-12-31,False
+Southside,Southside,Person,US,1989-02-02,False
+Pusha T,Pusha T,Person,US,1977-05-14,False
+Kay Flock,Kay Flock,Person,US,2003-04-20,False
+6ix9ine,6ix9ine,Person,US,1996-05-08,False
+42 Dugg,42 Dugg,Person,US,1993-11-25,False
+Chlöe,Chloé,Person,FR,1976-04-20,False
+BRELAND,BRELAND,Person,US,1995-07-18,False
+Shawn Mendes,Shawn Mendes,Person,CA,1998-08-08,False
+Dreamville,Dreamville,Group,US,2007,False
+5 Seconds of Summer,5 Seconds of Summer,Group,AU,2011,False
+Daddy Yankee,Daddy Yankee,Person,PR,1977-02-03,False
+Anitta,Anitta,Person,BR,1993-03-30,False
+J Balvin,J Balvin,Person,CO,1985-05-07,False
+4*TOWN (From Disney and Pixar’s Turning Red),4*TOWN,Other,CA,2022-02-21,False
+Carrie Underwood,Carrie Underwood,Person,US,1983-03-10,False
+AnnenMayKantereit,AnnenMayKantereit,Group,DE,2011,False
+Lucky Daye,Lucky Daye,Person,US,1985-09-25,False
+Kevin Gates,Kevin Gates,Person,US,1986-02-05,False
+Nirvana,Nirvana,Group,US,1987,True
+Bruno Mars,Bruno Mars,Person,US,1985-10-08,False
+Flume,Flume,Person,AU,1991-11-05,False
+Imagine Dragons,Imagine Dragons,Group,US,2008,False
+King Von,Stephen King,Person,US,1947-09-21,False
+Hippie Sabotage,Hippie Sabotage,Group,US,,False
+Tyga,Tyga,Person,US,1989-11-19,False
+JNR CHOI,Jnr Choi,Person,GB,,False
+lil Shordie Scott,Lil Shordie Scott,,,,False
+Steve Miller Band,Steve Miller Band,Group,US,1967,False
+Dr. Dre,Dr. Dre,Person,US,1965-02-18,False
+Fivio Foreign,Fivio Foreign,Person,,1990-03-29,False
+Dove Cameron,Dove Cameron,Person,US,1996-01-15,False
+Mary J. Blige,Mary J. Blige,Person,US,1971-01-11,False
+Saweetie,Saweetie,Person,US,1993-07-02,False
+Red Hot Chili Peppers,Red Hot Chili Peppers,Group,US,1983,False
+$NOT,$NOT,Person,US,1997-12-16,False
+Queen Naija,Queen Naija,Person,US,1995-10-17,False
+Alesso,Alesso,Person,SE,1991-07-07,False
+The Chainsmokers,The Chainsmokers,Group,US,2012,False
+Benny The Butcher,Benny the Butcher,Person,,1984-11-27,False
+Fireboy DML,Fireboy DML,Person,,1996-02-05,False
+Miranda Lambert,Miranda Lambert,Person,US,1983-11-10,False
+XXXTENTACION,XXXTENTACION,Person,US,1998-01-23,True
+Em Beihold,Em Beihold,Person,US,1999-01-21,False
+Jaymes Young,Jaymes Young,Person,US,,False
+Carlos Vives,Carlos Vives,Person,CO,1961-08-07,False
+Internet Money,Internet Money,Group,,,False
+The Game,The Game,Person,US,1979-11-27,False
+JID,JID,Person,US,1990-10-31,False
+Stephanie Beatriz,Stephanie Beatriz,Person,US,1981-02-10,False
+Maren Morris,Maren Morris,Person,US,1990-04-10,False
+Andrew Underberg,Andrew Underberg,Person,,,False
+Diane Guerrero,Diane Guerrero,Person,US,1986-07-21,False
+ERNEST,Ernest Tubb,Person,US,1914-02-09,True
+Sebastian Yatra,Sebastián Yatra,Person,CO,1994-10-15,False
+Walker Hayes,Walker Hayes,Person,US,1979-12-27,False
+Blake Shelton,Blake Shelton,Person,US,1976-06-18,False
+The Walters,The Beatles,Group,,1960,True
+Carolina Gaitán - La Gaita,Carolina Gaitán,Person,CO,1984-04-04,False
+Jessica Darrow,Jessica Darrow,Person,US,1995-01-07,False
+Emmy Meli,Emmy Meli,Person,,1999-12-14,False
+Ari Lennox,Ari Lennox,Person,US,1991-03-26,False
+Vince Guaraldi Trio,Vince Guaraldi Trio,Group,US,,False
+Roddy Ricch,Roddy Ricch,Person,US,1998-10-22,False
+ACRAZE,ACRAZE,Person,US,,False
+Eartha Kitt,Eartha Kitt,Person,US,1927-01-17,True
+Adele,Adele,Person,GB,1988-05-05,False
+GAYLE,Crystal Gayle,Person,US,1951-01-09,False
+State of Mine,State of Mine,Group,,2007-09-01,False
+Eric Church,Eric Church,Person,US,1977-05-03,False
+Arctic Monkeys,Arctic Monkeys,Group,GB,2002,False
+Pop Voice Nation,Iggy Pop,Person,US,1947-04-21,False
+YOUNGX777,youngx777,Person,,,False
+Amaarae,Amaarae,Person,GH,1994-07-04,False
+"Bobby ""Boris"" Pickett",Bobby “Boris” Pickett,Person,US,1938-02-11,True
+Ray Parker Jr.,Ray Parker Jr.,Person,US,1954-05-01,False
+Rockwell,Rockwell,Person,US,1964-03-15,False
+Yung Miami,Yung Miami,Person,,1994-02-11,False
+Swedish House Mafia,Swedish House Mafia,Group,SE,2008,False
+Bryson Gray,Bryson Gray,Person,,1991-05-24,False
+Wale,Wale,Person,US,1984-09-21,False
+Kelsea Ballerini,Kelsea Ballerini,Person,US,1993-09-12,False
+LISA,LiSA,Person,JP,1987-06-24,False
+Loza Alexander,Loza Alexander,Person,,,False
+NEIKED,NEIKED,Person,,1991-12-28,False
+Coldplay,Coldplay,Group,GB,1996-09,False
+Grupo Firme,Grupo Firme,Group,MX,2014,False
+RealestK,RealestK,Person,,2004-06-05,False
+Lady A,Lady A,Group,US,2006,False
+Priscilla Block,Priscilla Block,Person,US,1995-08-11,False
+Meek Mill,Meek Mill,Person,US,1987-05-06,False
+Eslabon Armado,Eslabón Armado,Group,US,2017,False
+Skylar Grey,Skylar Grey,Person,US,1986-02-23,False
+Michael Ray,Ray Charles,Person,US,1930-09-23,True
+Newage 6.5,Newage,,,,False
+Giveon,GIVĒON,Person,US,1990-02-21,False
+Blxst,Blxst,Person,US,1992-09-17,False
+CKay,CKay,Person,NG,,False
+THE ANXIETY,THE ANXIETY,Group,,,False
+RENT STRIKE,Rent Strike,,,,False
+Monica,Monica,Person,US,1980-10-24,False
+N2DEEP,N2Deep,Group,US,1990,False
+Xavier Wulf,Xavier Wulf,Person,,1992-10-24,False
+Fontaines D.C.,Ruts DC,Group,,,False
+Pop Smoke,Pop Smoke,Person,US,1999-07-20,True
+Skrillex,Skrillex,Person,US,1988-01-15,False
+Clinton Kane,Clinton Kane,Person,AU,,False
+Sueco,Sueco,Person,US,1997-01-28,False
+YNW Melly,YNW Melly,Person,US,1999-05-01,False
+T-Pain,T‐Pain,Person,US,1985-09-30,False
+Nas,Nas,Person,US,1973-09-14,False
+Hit The Button Karaoke,The Hit Crew,Group,US,,False
+Nessa Barrett,Nessa Barrett,Person,US,2002-08-06,False
+Kenny Chesney,Kenny Chesney,Person,US,1968-03-26,False
+Aventura,Aventura,Group,US,1994,False
+Capella Grey,Capella Grey,Person,,1995-08-02,False
+Isaiah Rashad,Isaiah Rashad,Person,US,1991-05-16,False
+Smiley,Smiley Lewis,Person,US,1913-07-05,True
+Farruko,Farruko,Person,PR,1991-05-02,False
+Belly,Lead Belly,Person,US,1888-01-20,True
+Normani,Normani,Person,US,1996-05-31,False
+Counting Crows,Counting Crows,Group,US,1991,False
+BIA,Bïa,Person,BR,,False
+Bas,Bas,Person,US,1987-05-27,False
+Mora,Mora Mora,,,,False
+Aaron Lewis,Aaron Lewis,Person,US,1972-04-13,False
+Big Red Machine,Red Machine,,,,False
+G Herbo,G Herbo,Person,US,1994-11-08,False
+Wizkid,Wizkid,Person,NG,1990-07-16,False
+Tai Verdes,Tai Verdes,Person,US,1995-12-06,False
+Jameson Rodgers,Jameson Rodgers,Person,US,,False
+Nio Garcia,Nio García,Person,PR,1989-04-03,False
+The Lemonheads,The Lemonheads,Group,US,1984,False
+will.i.am,will.i.am,Person,US,1975-03-15,False
+Serge Gainsbourg,Serge Gainsbourg,Person,FR,1928-04-02,True
+Måneskin,Måneskin,Group,IT,2016,False
+Elvie Shane,Elvie Shane,Person,,,False
+Migos,Migos,Group,US,2008,False
+Lorde,Lorde,Person,NZ,1996-11-07,False
+Quality Control,Quality Control,Group,,2017-12-08,False
+WILLOW,WILLOW,Person,US,2000-10-31,False
+Los Legendarios,Los Legendarios,Group,PR,,False
+Regard,Regard,Person,,1993,False
+Cochise,Cochise,Group,DE,1979,True
+Chase Rice,Chase Rice,Person,US,1986-09-19,False
+MO3,MO3,Person,US,1992-05-31,True
+8-Bit Arcade,8-Bit Arcade,Person,,,False
+Los 50 De Joselito,Los 50 de Joselito,Group,CO,,False
+Juan Villareal y Sus Cachorros,Juan Villareal,Person,,,False
+Nat King Cole,Nat King Cole,Person,US,1919-03-17,True
+Bella Poarch,Bella Poarch,Person,US,1997-02-08,False
+Ali Tabatabaee,Ali Tabatabaee,Person,US,1973-02-27,False
+Cico P,Cico P,Person,,1998-02-06,False
+Gera MX,Gera MX,Person,MX,1994-07-15,False
+Young Stoner Life,Young Stoner Life,Group,,,False
+Ryan Hurd,Ryan Hurd,Person,US,1986-11-02,False
+DMX,DMX,Person,US,1970-12-18,True
+Alphaville,Alphaville,Group,DE,1983,False
+Duncan Laurence,Duncan Laurence,Person,NL,1994-04-11,False
+ROSÉ,Karen Rose,Person,US,,False
+Maroon 5,Maroon 5,Group,US,2002,False
+Nelly,Nelly,Person,US,1974-11-02,False
+Elle King,Elle King,Person,US,1989-07-03,False
+Prince Herzel,Prince,Person,US,1958-06-07,True
+Mooski,Mooski,Group,,,False
+Nipsey Hussle,Nipsey Hussle,Person,US,1985-08-15,True
+Masked Wolf,Masked Wolf,Person,AU,1991-02-12,False
+Rascal Flatts,Rascal Flatts,Group,US,1999,True
+Pooh Shiesty,Pooh Shiesty,Person,US,2000-11-08,False
+G-Eazy,G‐Eazy,Person,US,1989-05-24,False
+Ava Max,Ava Max,Person,US,1994-02-16,False
+Jason Derulo,Jason Derulo,Person,US,1989-09-21,False
+Morray,Morray,Person,,,False
+YBN Nahmir,YBN Nahmir,Person,US,1999-12-18,False
+SpotemGottem,SpotemGottem,Person,US,2001-10-19,False
+Ant Clemons,Ant Clemons,Person,US,1991-09-26,False
+Tenille Arts,Tenille Arts,Person,CA,1994-04-19,False
+Jazmine Sullivan,Jazmine Sullivan,Person,US,1987-04-09,False
+Erica Banks,Erica Banks,Person,US,1998-10-05,False
+Florida Georgia Line,Florida Georgia Line,Group,US,2010,True
+thủy,thuy,Person,,1991-10-29,False
+Glass Animals,Glass Animals,Group,GB,2010-01-01,False
+Playboi Carti,Playboi Carti,Person,US,1996-09-13,False
+All Time Low,All Time Low,Group,US,2003,False
+Bing Crosby,Bing Crosby,Person,US,1903-05-03,True
+Donny Hathaway,Donny Hathaway,Person,US,1945-10-01,True
+Eagles,Eagles,Group,US,1971,False
+The Beach Boys,The Beach Boys,Group,US,1961,False
+Michael Bublé,Michael Bublé,Person,CA,1975-09-09,False
+Popp Hunna,Popp Hunna,Person,,2000-10-21,False
+DDG,DDG,Person,,1997-10-10,False
+Kid Cudi,Kid Cudi,Person,US,1984-01-30,False
+Paul McCartney,Paul McCartney,Person,GB,1942-06-18,False
+Mariah Carey,Mariah Carey,Person,US,1969-03-27,False
+Trey Lewis,Trey Lewis,Person,US,,False
+TV Girl,TV Girl,Group,US,2010,False
+Audien,Audien,Person,US,1992-01-11,False
+Mike WiLL Made-It,Mike WiLL Made‐It,Person,US,1989-03-23,False
+Darius Rucker,Darius Rucker,Person,US,1966-05-13,False
+CJ,CJ Bolland,Person,BE,1971-06-18,False
+Confetti,Confetti’s,Group,BE,1988,True
+BeatKing,BeatKing,Person,US,1984-11-24,False
+Ty Dolla $ign,Ty Dolla $ign,Person,US,1985-04-13,False
+H.E.R.,H.E.R.,Person,US,1997-06-27,False
+Tears For Fears,Tears for Fears,Group,GB,1981,False
+Larray,Larray,Person,,1998-07-22,False
+BRS Kash,BRS Kash,Person,,1993-05-15,False
+Incubus,Incubus,Group,US,1991,False
+Bebe Rexha,Bebe Rexha,Person,US,1989-08-30,False
+Clairo,Clairo,Person,US,1998-08-18,False
+Fleetwood Mac,Fleetwood Mac,Group,GB,1967-07,False
+Why Don't We,Why Don’t We,Group,US,2016-09-27,False
+Ne-Yo,Ne‐Yo,Person,US,1979-10-18,False
+ZAYN,ZAYN,Person,,1993-01-12,False
+Chris Lane,Chris Lane,Person,,1984-11-09,False
+Niko Moon,Niko Moon,Person,US,1982-09-20,False
+Ritt Momney,Ritt Momney,Group,,,False
+YFN Lucci,YFN Lucci,Person,US,1991-02-16,False
+Sada Baby,Sada Baby,Person,US,1992-11-17,False
+Andrew Jannakos,Andrew Jannakos,Person,,,False
+Vedo,Vedo,Person,US,,False
+Styles P,Styles P,Person,US,1974-11-28,False
+Sech,Sech,Person,PA,1993-12-03,False
+Big Sean,Big Sean,Person,US,1988-03-25,False
+Matt Stell,Matt Stell,Person,,,False
+Dorrough Music,Dorrough Music,,,,False
+WhoHeem,WhoHeem,Person,,,False
+Conan Gray,Conan Gray,Person,US,1998-12-05,False
+Money Man,Money Man,Person,US,1986-02-27,False
+Esco Bar,Esco Bar,,,,False
+24kGoldn,24kGoldn,Person,US,2000-11-13,False
+Bryansanon,Bryansanon,Person,,,False
+Logic,Logic,Person,US,1990-01-22,False
+Topic,Topic,Person,DE,1992-03-23,False
+Arcade Player,Arcade Player,,,,False
+Redbone,Redbone,Group,US,1968,False
+6LACK,6LACK,Person,US,1992-06-24,False
+Trevor Daniel,Trevor Daniel,Person,US,1994-09-28,False
+Tyla Yaweh,Tyla Yaweh,Person,US,1995-05-23,False
+Jawsh 685,Jawsh 685,Person,NZ,,False
+Chloe x Halle,Chloe × Halle,Group,US,2011,False
+J.I the Prince of N.Y,J.I the Prince of N.Y,Person,,2001-09-23,False
+Black Eyed Peas,Black Eyed Peas,Group,US,1995,False
+Ashley McBryde,Ashley McBryde,Person,,1983-07-29,False
+Brantley Gilbert,Brantley Gilbert,Person,US,1985-01-20,False
+LOCASH,LOCASH,Group,US,2011,False
+Kygo,Kygo,Person,NO,1991-09-11,False
+MF DOOM,MF DOOM,Person,US,1971-07-13,True
+Mike Posner,Mike Posner,Person,US,1988-02-12,False
+Moe,moe.,Group,US,1989,False
+Surf Mesa,Surf Mesa,Person,US,2000-04-10,False
+Katy Perry,Katy Perry,Person,US,1984-10-25,False
+Kehlani,Kehlani,Person,US,1995-04-24,False
+Catherine Zeta-Jones,Catherine Zeta‐Jones,Person,GB,1969-09-25,False
+Young T & Bugsey,Young T & Bugsey,Group,,2012-01-01,False
+THE SCOTTS,Scotts,Group,SE,1992,False
+StaySolidRocky,StaySolidRocky,Person,,,False
+Maddie & Tae,Maddie & Tae,Group,US,2014,False
+PARTYNEXTDOOR,PARTYNEXTDOOR,Person,CA,1993-07-03,False
+Travis Denning,Travis Denning,Person,US,1992-12-01,False
+JP Saxe,JP Saxe,Person,CA,1994-03-23,False
+SAINt JHN,SAINt JHN,Person,GY,1986-08-26,False
+Powfu,Powfu,Person,CA,1999-03-31,False
+BENEE,BENEE,Person,NZ,2000-01-30,False
+Jhené Aiko,Jhené Aiko,Person,US,1988-03-16,False
+Surfaces,Surfaces,Group,US,2017,False
 Farizki,,,,,
-The Little Dippers,The Little Dippers,,,,false
-Khalid,Khalid,Person,US,1998-02-11,false
-Lil Mosey,Lil Mosey,Person,US,2002-01-25,false
-Alicia Keys,Alicia Keys,Person,US,1981-01-25,false
-Ali Gatie,Ali Gatie,Person,CA,1997-05-31,false
-Tonight I'm Garth Brooks,Garth Brooks,Person,US,1962-02-07,false
-John Legend,John Legend,Person,US,1978-12-28,false
-BROCKHAMPTON,BROCKHAMPTON,Group,US,2015-01,true
-JACKBOYS,JACKBOYS,Group,US,2019,false
-Noah Cyrus,Noah Cyrus,Person,US,2000-01-08,false
-Darlene Love,Darlene Love,Person,US,1941-07-26,false
-Chuck Berry,Chuck Berry,Person,US,1926-10-18,true
-Frank Sinatra,Frank Sinatra,Person,US,1915-12-12,true
-Dean Martin,Dean Martin,Person,US,1917-06-07,true
-Thurl Ravenscroft,Thurl Ravenscroft,Person,US,1914-02-06,true
-Fat Joe,Fat Joe,Person,US,1970-08-19,false
-José Feliciano,José Feliciano,Person,US,1945-09-10,false
-The Ronettes,The Ronettes,Group,US,1959,true
-Gene Autry,Gene Autry,Person,US,1907-09-29,true
-Andy Williams,Andy Williams,Person,US,1927-12-03,true
-Brenda Lee,Brenda Lee,Person,,1944-12-11,false
-Wham!,Wham!,Group,GB,1981,true
-Bobby Helms,Bobby Helms,Person,US,1933-08-15,true
-Burl Ives,Burl Ives,Person,US,1909-06-14,true
-Idina Menzel,Idina Menzel,Person,US,1971-05-30,false
-Panic! At The Disco,Panic! at the Disco,Group,US,2004,true
-Rexx Life Raj,Rexx Life Raj,Person,US,1990-01-30,false
-Party Tyme Karaoke,House Party Karaoke,Group,,,false
-Ant Saunders,Ant Saunders,Person,US,,false
-Arizona Zervas,Arizona Zervas,Person,US,1995-04-19,false
-Frank Ocean,Frank Ocean,Person,US,1987-10-28,false
-DaniLeigh,DaniLeigh,Person,US,1994-12-20,false
-A Day To Remember,A Day to Remember,Group,US,2003-06,false
-Michael Jackson,Michael Jackson,Person,US,1958-08-29,true
-ScHoolboy Q,ScHoolboy Q,Person,,1986-10-26,false
-Tones And I,Tones and I,Person,AU,1998-05-13,false
-French Montana,French Montana,Person,US,1984-11-09,false
-DJ Snake,DJ Snake,Person,FR,1986-06-13,false
-blackbear,blackbear,Person,US,1990-11-27,false
-A$AP Rocky,A$AP Rocky,Person,US,1988-10-03,false
-for KING & COUNTRY,for KING & COUNTRY,Group,US,2007,false
-Peaceful Noise,Peaceful Noise,Person,,,false
-Swae Lee,Swae Lee,Person,US,1993-06-07,false
-Thomas Webster,Ben Webster,Person,US,1909-03-27,true
-Runaway June,Runaway June,Group,US,2015,false
-Sarah Jeffery,Sarah Jeffery,Person,CA,1996-04-03,false
-Ambjaay,Ambjaay,Person,,,false
-TOOL,Tool,Group,US,1990,false
-Rick Ross,Rick Ross,Person,,1976-01-28,false
-Chance the Rapper,Chance the Rapper,Person,US,1993-04-16,false
-Blueface,Blueface,Person,US,1997-01-20,false
-Blue Ivy,Ivy Blue,,,2014,false
-Ellie Goulding,Ellie Goulding,Person,GB,1986-12-30,false
-Mustard,Mustard,Person,US,1990-06-05,false
-Daniel Caesar,Daniel Caesar,Person,CA,1995-04-05,false
-Jhayco,Jhayco,Person,PR,1993-04-09,false
-DJ D MAN Xtreme,D-Xtreme,Person,,1984-06-29,false
-Y2K,Y2K,Person,US,,false
-Martin Garrix,Martin Garrix,Person,NL,1996-05-15,false
-Blanco Brown,Blanco Brown,Person,US,1985-03-24,false
-Avicii,Avicii,Person,SE,1989-09-08,true
-Bryce Vine,Bryce Vine,Person,US,1988-06-16,false
-SHAED,SHAED,Group,US,2016-03,false
-Yella Beezy,Yella Beezy,Person,,1991-10,false
-Eyedress,Eyedress,Person,PH,1990-05-28,false
-Ed Sheeran & Justin Bieber,Ed Sheeran,Person,GB,1991-02-17,false
-Lunay,Lunay,Person,PR,2000-10-04,false
-Nicky Jam,Nicky Jam,Person,PR,1980-02-25,false
-PnB Rock,PnB Rock,Person,US,1991-12-09,true
-Bazzi,Bazzi,Person,US,1997-08-28,false
+The Little Dippers,The Little Dippers,,,,False
+Khalid,Khalid,Person,US,1998-02-11,False
+Lil Mosey,Lil Mosey,Person,US,2002-01-25,False
+Alicia Keys,Alicia Keys,Person,US,1981-01-25,False
+Ali Gatie,Ali Gatie,Person,CA,1997-05-31,False
+Tonight I'm Garth Brooks,Garth Brooks,Person,US,1962-02-07,False
+John Legend,John Legend,Person,US,1978-12-28,False
+BROCKHAMPTON,BROCKHAMPTON,Group,US,2015-01,True
+JACKBOYS,JACKBOYS,Group,US,2019,False
+Noah Cyrus,Noah Cyrus,Person,US,2000-01-08,False
+Darlene Love,Darlene Love,Person,US,1941-07-26,False
+Chuck Berry,Chuck Berry,Person,US,1926-10-18,True
+Frank Sinatra,Frank Sinatra,Person,US,1915-12-12,True
+Dean Martin,Dean Martin,Person,US,1917-06-07,True
+Thurl Ravenscroft,Thurl Ravenscroft,Person,US,1914-02-06,True
+Fat Joe,Fat Joe,Person,US,1970-08-19,False
+José Feliciano,José Feliciano,Person,US,1945-09-10,False
+The Ronettes,The Ronettes,Group,US,1959,True
+Gene Autry,Gene Autry,Person,US,1907-09-29,True
+Andy Williams,Andy Williams,Person,US,1927-12-03,True
+Brenda Lee,Brenda Lee,Person,,1944-12-11,False
+Wham!,Wham!,Group,GB,1981,True
+Bobby Helms,Bobby Helms,Person,US,1933-08-15,True
+Burl Ives,Burl Ives,Person,US,1909-06-14,True
+Idina Menzel,Idina Menzel,Person,US,1971-05-30,False
+Panic! At The Disco,Panic! at the Disco,Group,US,2004,True
+Rexx Life Raj,Rexx Life Raj,Person,US,1990-01-30,False
+Party Tyme Karaoke,House Party Karaoke,Group,,,False
+Ant Saunders,Ant Saunders,Person,US,,False
+Arizona Zervas,Arizona Zervas,Person,US,1995-04-19,False
+Frank Ocean,Frank Ocean,Person,US,1987-10-28,False
+DaniLeigh,DaniLeigh,Person,US,1994-12-20,False
+A Day To Remember,A Day to Remember,Group,US,2003-06,False
+Michael Jackson,Michael Jackson,Person,US,1958-08-29,True
+ScHoolboy Q,ScHoolboy Q,Person,,1986-10-26,False
+Tones And I,Tones and I,Person,AU,1998-05-13,False
+French Montana,French Montana,Person,US,1984-11-09,False
+DJ Snake,DJ Snake,Person,FR,1986-06-13,False
+blackbear,blackbear,Person,US,1990-11-27,False
+A$AP Rocky,A$AP Rocky,Person,US,1988-10-03,False
+for KING & COUNTRY,for KING & COUNTRY,Group,US,2007,False
+Peaceful Noise,Peaceful Noise,Person,,,False
+Swae Lee,Swae Lee,Person,US,1993-06-07,False
+Thomas Webster,Ben Webster,Person,US,1909-03-27,True
+Runaway June,Runaway June,Group,US,2015,False
+Sarah Jeffery,Sarah Jeffery,Person,CA,1996-04-03,False
+Ambjaay,Ambjaay,Person,,,False
+TOOL,Tool,Group,US,1990,False
+Rick Ross,Rick Ross,Person,,1976-01-28,False
+Chance the Rapper,Chance the Rapper,Person,US,1993-04-16,False
+Blueface,Blueface,Person,US,1997-01-20,False
+Blue Ivy,Ivy Blue,,,2014,False
+Ellie Goulding,Ellie Goulding,Person,GB,1986-12-30,False
+Mustard,Mustard,Person,US,1990-06-05,False
+Daniel Caesar,Daniel Caesar,Person,CA,1995-04-05,False
+Jhayco,Jhayco,Person,PR,1993-04-09,False
+DJ D MAN Xtreme,D-Xtreme,Person,,1984-06-29,False
+Y2K,Y2K,Person,US,,False
+Martin Garrix,Martin Garrix,Person,NL,1996-05-15,False
+Blanco Brown,Blanco Brown,Person,US,1985-03-24,False
+Avicii,Avicii,Person,SE,1989-09-08,True
+Bryce Vine,Bryce Vine,Person,US,1988-06-16,False
+SHAED,SHAED,Group,US,2016-03,False
+Yella Beezy,Yella Beezy,Person,,1991-10,False
+Eyedress,Eyedress,Person,PH,1990-05-28,False
+Ed Sheeran & Justin Bieber,Ed Sheeran,Person,GB,1991-02-17,False
+Lunay,Lunay,Person,PR,2000-10-04,False
+Nicky Jam,Nicky Jam,Person,PR,1980-02-25,False
+PnB Rock,PnB Rock,Person,US,1991-12-09,True
+Bazzi,Bazzi,Person,US,1997-08-28,False
 prxmvc,,,,,
-Lil Dicky,Lil Dicky,Person,US,1988-03-15,false
-Otis Redding,Otis Redding,Person,US,1941-09-09,true
-Dean Lewis,Dean Lewis,Person,AU,1987-10-21,false
-Calboy,Calboy,Person,US,1999-04-03,false
-Lauren Daigle,Lauren Daigle,Person,US,1991-09-09,false
-Pinkfong,Pinkfong,Group,KR,,false
-YK Osiris,YK Osiris,Person,,,false
-Lil Peep,Lil Peep,Person,US,1996-11-01,true
-Eli Young Band,Eli Young Band,Group,US,2000,false
-Mabel,Mabel,Person,,1996-02-20,false
-Pedro Capó,Pedro Capó,Person,PR,1980-11-14,false
-Yo Gotti,Yo Gotti,Person,US,1981-05-19,false
-Lauv,Lauv,Person,US,1994-08-08,false
-Ski Mask The Slump God,Ski Mask the Slump God,Person,US,1996-04-18,false
-Alec Benjamin,Alec Benjamin,Person,US,1994-05-28,false
+Lil Dicky,Lil Dicky,Person,US,1988-03-15,False
+Otis Redding,Otis Redding,Person,US,1941-09-09,True
+Dean Lewis,Dean Lewis,Person,AU,1987-10-21,False
+Calboy,Calboy,Person,US,1999-04-03,False
+Lauren Daigle,Lauren Daigle,Person,US,1991-09-09,False
+Pinkfong,Pinkfong,Group,KR,,False
+YK Osiris,YK Osiris,Person,,,False
+Lil Peep,Lil Peep,Person,US,1996-11-01,True
+Eli Young Band,Eli Young Band,Group,US,2000,False
+Mabel,Mabel,Person,,1996-02-20,False
+Pedro Capó,Pedro Capó,Person,PR,1980-11-14,False
+Yo Gotti,Yo Gotti,Person,US,1981-05-19,False
+Lauv,Lauv,Person,US,1994-08-08,False
+Ski Mask The Slump God,Ski Mask the Slump God,Person,US,1996-04-18,False
+Alec Benjamin,Alec Benjamin,Person,US,1994-05-28,False
