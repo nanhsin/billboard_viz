@@ -64,7 +64,7 @@ Twenty One Pilots,twenty one pilots,Group,US,2009,False
 Pharrell Williams,Pharrell Williams,Person,US,1973-04-05,False
 Jordan Davis,Miles Davis,Person,US,1926-05-26,True
 SZA,SZA,Person,US,1989-11-08,False
-Bailey Zimmerman,Bailey Zimmerman,Person,US,,False
+Bailey Zimmerman,Bailey Zimmerman,Person,US,2000-01-27,False
 Selena Gomez,Selena Gomez,Person,US,1992-07-22,False
 Lil Durk,Lil Durk,Person,US,1992-10-19,False
 mgk,mgk,Person,US,1990-04-22,False
@@ -108,7 +108,7 @@ Kali Uchis,Kali Uchis,Person,US,1994-07-17,False
 Lil Nas X,Lil Nas X,Person,US,1999-04-09,False
 That Mexican OT,That Mexican OT,Person,US,,False
 Muni Long,Muni Long,Person,US,1988-09-14,False
-4batz,4batz,,,,False
+4batz,4batz,Person,US,2001-08-06,False
 Dylan Gossett,Dylan Gossett,Person,,,False
 Fridayy,Fridayy,,,,False
 Tee Grizzley,Tee Grizzley,Person,,1994-03-23,False
@@ -139,7 +139,7 @@ Riley Green,Riley Green,Person,US,1988-10-18,False
 YoungBoy Never Broke Again,YoungBoy Never Broke Again,Person,US,1999-10-20,False
 310babii,310babii,Person,US,,False
 Jung Kook,Jung Kook,Person,KR,1997-09-01,False
-The Beatles,The Beatles,Group,,1960,True
+The Beatles,The Beatles,Group,GB,1960-01-01,True
 The Kid LAROI,The Kid LAROI,Person,AU,2003-08-16,False
 Carly Pearce,Carly Pearce,Person,US,1990-04-24,False
 The Citizens of Halloween,Halloween,Group,US,1984,False
@@ -148,12 +148,12 @@ Parker McCollum,Parker McCollum,Person,US,1992-06-15,False
 Troye Sivan,Troye Sivan,Person,AU,1995-06-05,False
 Bad Bunny,Bad Bunny,Person,PR,1994-03-10,False
 Offset,Offset,Person,US,1991-12-14,False
-BoyWithUke,BoyWithUke,Person,US,,False
+BoyWithUke,BoyWithUke,Person,US,2002-08-25,False
 Jessie Murph,Jessie Murph,Person,,2004-09-22,False
 Junior H,Junior H,Person,MX,2000-04-23,False
 *NSYNC,*NSYNC,Group,US,1995,False
 Thomas Rhett,Thomas Rhett,Person,US,1990-03-30,False
-Tyla,Tyla,Person,GB,,False
+Tyla,Tyla,Person,SA,2002-01-30,False
 Sqweez,,,,,
 Dustin Lynch,Dustin Lynch,Person,US,1985-05-14,False
 Russell Dickerson,Russell Dickerson,Person,US,1987-05-07,False
@@ -340,7 +340,7 @@ Armani White,Armani White,Person,,1996-09-25,False
 Romeo Santos,Romeo Santos,Person,US,1981-07-21,False
 Elton John,Elton John,Person,GB,1947-03-25,False
 Lil Tjay,Lil Tjay,Person,US,2001-04-30,False
-Kanye West,Kanye West Tribute Band,Group,,,False
+Kanye West,Ye,Person,US,1977-06-08,False
 JVKE,JVKE,Person,US,2001-03-01,False
 karaoke SESH,Sesh,Group,,2019,False
 Jackson Dean,Dean Martin,Person,US,1917-06-07,True
@@ -431,7 +431,7 @@ XXXTENTACION,XXXTENTACION,Person,US,1998-01-23,True
 Em Beihold,Em Beihold,Person,US,1999-01-21,False
 Jaymes Young,Jaymes Young,Person,US,,False
 Carlos Vives,Carlos Vives,Person,CO,1961-08-07,False
-Internet Money,Internet Money,Group,,,False
+Internet Money,Internet Money,Group,US,2015-01-01,False
 The Game,The Game,Person,US,1979-11-27,False
 JID,JID,Person,US,1990-10-31,False
 Stephanie Beatriz,Stephanie Beatriz,Person,US,1981-02-10,False
@@ -442,7 +442,7 @@ ERNEST,Ernest Tubb,Person,US,1914-02-09,True
 Sebastian Yatra,Sebastián Yatra,Person,CO,1994-10-15,False
 Walker Hayes,Walker Hayes,Person,US,1979-12-27,False
 Blake Shelton,Blake Shelton,Person,US,1976-06-18,False
-The Walters,The Beatles,Group,,1960,True
+The Walters,The Beatles,Group,GB,1960,True
 Carolina Gaitán - La Gaita,Carolina Gaitán,Person,CO,1984-04-04,False
 Jessica Darrow,Jessica Darrow,Person,US,1995-01-07,False
 Emmy Meli,Emmy Meli,Person,,1999-12-14,False
@@ -623,7 +623,7 @@ Redbone,Redbone,Group,US,1968,False
 6LACK,6LACK,Person,US,1992-06-24,False
 Trevor Daniel,Trevor Daniel,Person,US,1994-09-28,False
 Tyla Yaweh,Tyla Yaweh,Person,US,1995-05-23,False
-Jawsh 685,Jawsh 685,Person,NZ,,False
+Jawsh 685,Jawsh 685,Person,NZ,2002-11-04,False
 Chloe x Halle,Chloe × Halle,Group,US,2011,False
 J.I the Prince of N.Y,J.I the Prince of N.Y,Person,,2001-09-23,False
 Black Eyed Peas,Black Eyed Peas,Group,US,1995,False
