@@ -70,7 +70,7 @@ Lil Durk,Lil Durk,Person,US,1992-10-19,False
 mgk,mgk,Person,US,1990-04-22,False
 Key Glock,Key Glock,Person,US,1997-08-03,False
 LE SSERAFIM,LE SSERAFIM,Group,KR,2022-03-28,False
-Dua Lipa,Dua Lipa,Person,,1995-08-22,False
+Dua Lipa,Dua Lipa,Person,GB,1995-08-22,False
 Bryson Tiller,Bryson Tiller,Person,US,1993-01-02,False
 Yeat,Yeat,Person,US,2000-02-26,False
 Djo,Djo,Person,US,1992-04-24,False
@@ -283,7 +283,7 @@ Ember Island,Ember Island,Group,SE,,False
 Linkin Park,Linkin Park,Group,US,1999,False
 Rihanna,Rihanna,Person,US,1988-02-20,False
 Superstar Pride,Superstar Pride,,,,False
-PinkPantheress,PinkPantheress,Person,,2001-04-18,False
+PinkPantheress,PinkPantheress,Person,GB,2001-04-18,False
 Falling In Reverse,Falling in Reverse,Group,US,2008,False
 Yandel,Yandel,Person,PR,1977-01-14,False
 Sam Smith,Sam Smith,Person,GB,1992-05-19,False
@@ -369,7 +369,7 @@ Charlie Puth,Charlie Puth,Person,US,1991-12-02,False
 Eminem,Eminem,Person,US,1972-10-17,False
 Corey Kent,Corey Kent,Person,US,,False
 OneRepublic,OneRepublic,Group,US,2004,False
-Kate Bush,Kate Bush,Person,,1958-07-30,False
+Kate Bush,Kate Bush,Person,GB,1958-07-30,False
 SleazyWorld Go,SleazyWorld Go,Person,,1998-01-17,False
 Sleepy Hallow,Sleepy Hallow,Person,US,1999-12-20,False
 Calvin Harris,Calvin Harris,Person,,1984-01-17,False
@@ -378,7 +378,7 @@ Nicky Youre,Nicky Youre,Person,US,1999-06-04,False
 Hitkidd,Hitkidd,Person,,,False
 Keith Urban,Keith Urban,Person,AU,1967-10-26,False
 Stephen Sanchez,Stephen King,Person,US,1947-09-21,False
-Harry Styles,Harry Styles,Person,,1994-02-01,False
+Harry Styles,Harry Styles,Person,GB,1994-02-01,False
 Ella Mai,Ella Mai,Person,GB,1994-11-03,False
 Kendrick Lamar,Kendrick Lamar,Person,US,1987-06-17,False
 Abioye Alejandro Gotti,Yo Gotti,Person,US,1981-05-19,False
@@ -484,7 +484,6 @@ Giveon,GIVĒON,Person,US,1990-02-21,False
 Blxst,Blxst,Person,US,1992-09-17,False
 CKay,CKay,Person,NG,,False
 THE ANXIETY,THE ANXIETY,Group,,,False
-RENT STRIKE,Rent Strike,,,,False
 Monica,Monica,Person,US,1980-10-24,False
 N2DEEP,N2Deep,Group,US,1990,False
 Xavier Wulf,Xavier Wulf,Person,,1992-10-24,False
@@ -672,7 +671,7 @@ José Feliciano,José Feliciano,Person,US,1945-09-10,False
 The Ronettes,The Ronettes,Group,US,1959,True
 Gene Autry,Gene Autry,Person,US,1907-09-29,True
 Andy Williams,Andy Williams,Person,US,1927-12-03,True
-Brenda Lee,Brenda Lee,Person,,1944-12-11,False
+Brenda Lee,Brenda Lee,Person,US,1944-12-11,False
 Wham!,Wham!,Group,GB,1981,True
 Bobby Helms,Bobby Helms,Person,US,1933-08-15,True
 Burl Ives,Burl Ives,Person,US,1909-06-14,True
@@ -738,3 +737,5 @@ Yo Gotti,Yo Gotti,Person,US,1981-05-19,False
 Lauv,Lauv,Person,US,1994-08-08,False
 Ski Mask The Slump God,Ski Mask the Slump God,Person,US,1996-04-18,False
 Alec Benjamin,Alec Benjamin,Person,US,1994-05-28,False
+KSI,KSI,Person,GB,1993-06-19,false
+Calle 24,Calle 24,,,,false
