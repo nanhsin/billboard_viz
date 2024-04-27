@@ -204,14 +204,14 @@ Luke Bryan,Luke Bryan,Person,US,1976-07-17,False
 Rylo Rodriguez,Rylo Rodriguez,Person,US,1993-09-30,False
 Jason Aldean,Jason Aldean,Person,US,1977-02-28,False
 PHONK,Phonk,,,,False
-Dan + Shay,Dan + Shay,Group,US,2012-12,False
+Dan + Shay,Dan + Shay,Group,US,2012-12-01,False
 Quavo,Quavo,Person,US,1991-04-02,False
 Ryan Castro,Ryan Castro,Person,CO,1994-01-14,False
 FendiDa Rappa,FendiDa Rappa,Person,,1995-09-27,False
 Myke Towers,Myke Towers,Person,PR,1994-01-15,False
 Lil Uzi Vert,Lil Uzi Vert,Person,US,1995-07-31,False
 Tainy,Tainy,Person,PR,1989-08-09,False
-Fall Out Boy,Fall Out Boy,Group,US,2001,False
+Fall Out Boy,Fall Out Boy,Group,US,2001-01-01,False
 Young Thug,Young Thug,Person,US,1991-08-16,False
 Lyrical Lemonade,Lyrical Lemonade,Other,,2013-03-25,False
 Only The Family,Only the Family,Group,,,False
@@ -221,7 +221,7 @@ BTS,BTS,Group,KR,2013-06-13,False
 El Alfa,El Alfa,Person,DO,1990-12-18,False
 HARDY,Françoise Hardy,Person,FR,1944-01-17,False
 Baby Keem,Baby Keem,Person,US,2000-10-22,False
-Bizarrap,Bizarrap,Person,AR,1998,False
+Bizarrap,Bizarrap,Person,AR,1998-01-01,False
 Metro Boomin,Metro Boomin,Person,US,1993-09-16,False
 Anya Nami,Anya Nami,Person,US,,False
 Moneybagg Yo,Moneybagg Yo,Person,US,1991-09-22,False
@@ -241,7 +241,7 @@ JENNIE,JENNIE,Person,KR,1996-01-16,False
 DaBaby,DaBaby,Person,US,1991-12-22,False
 Ed Sheeran,Ed Sheeran,Person,GB,1991-02-17,False
 Doechii,Doechii,Person,US,1998-08-14,False
-Jonas Brothers,Jonas Brothers,Group,US,2005,False
+Jonas Brothers,Jonas Brothers,Group,US,2005-01-01,False
 Libianca,Libianca,Person,US,2001,False
 Kim Petras,Kim Petras,Person,US,1992-08-27,False
 Agust D,Agust D,Person,KR,1993-03-09,False
@@ -326,16 +326,16 @@ Rauw Alejandro,Rauw Alejandro,Person,PR,1993-01-10,False
 YG,YG,Person,US,1990-03-09,False
 Lewis Capaldi,Lewis Capaldi,Person,GB,1996-10-17,False
 Zac Brown Band,Zac Brown Band,Group,US,2000,False
-AJR,AJR,Group,US,2006,False
+AJR,AJR,Group,US,2006-01-01,False
 Jimmie Allen,Jimmie Allen,Person,US,1986-06-18,False
 BLACKPINK,BLACKPINK,Group,KR,2016-08-08,False
 Omar Apollo,Omar Apollo,Person,US,1997-05-20,False
 Little Big Town,Little Big Town,Group,US,1998,False
 Yung Bleu,Bleu,Person,US,1975-07-18,False
-Steve Lacy,Steve Lacy,Person,US,1934-07-23,True
+Steve Lacy,Steve Lacy,Person,US,1998-05-23,True
 EST Gee,EST Gee,Person,US,1994-05-11,False
 Ghost,Ghost,Group,SE,2008,False
-Rema,Rema‐Rema,Group,GB,1979,True
+Rema,Rema,Person,NG,2000-05-01,True
 Armani White,Armani White,Person,,1996-09-25,False
 Romeo Santos,Romeo Santos,Person,US,1981-07-21,False
 Elton John,Elton John,Person,GB,1947-03-25,False
@@ -368,7 +368,7 @@ Sia,Sia,Person,AU,1975-12-18,False
 Charlie Puth,Charlie Puth,Person,US,1991-12-02,False
 Eminem,Eminem,Person,US,1972-10-17,False
 Corey Kent,Corey Kent,Person,US,,False
-OneRepublic,OneRepublic,Group,US,2004,False
+OneRepublic,OneRepublic,Group,US,2004-01-01,False
 Kate Bush,Kate Bush,Person,GB,1958-07-30,False
 SleazyWorld Go,SleazyWorld Go,Person,,1998-01-17,False
 Sleepy Hallow,Sleepy Hallow,Person,US,1999-12-20,False
@@ -407,7 +407,7 @@ Kevin Gates,Kevin Gates,Person,US,1986-02-05,False
 Nirvana,Nirvana,Group,US,1987,True
 Bruno Mars,Bruno Mars,Person,US,1985-10-08,False
 Flume,Flume,Person,AU,1991-11-05,False
-Imagine Dragons,Imagine Dragons,Group,US,2008,False
+Imagine Dragons,Imagine Dragons,Group,US,2008-01-01,False
 King Von,Stephen King,Person,US,1947-09-21,False
 Hippie Sabotage,Hippie Sabotage,Group,US,,False
 Tyga,Tyga,Person,US,1989-11-19,False
@@ -452,7 +452,7 @@ Roddy Ricch,Roddy Ricch,Person,US,1998-10-22,False
 ACRAZE,ACRAZE,Person,US,,False
 Eartha Kitt,Eartha Kitt,Person,US,1927-01-17,True
 Adele,Adele,Person,GB,1988-05-05,False
-GAYLE,Crystal Gayle,Person,US,1951-01-09,False
+GAYLE,GAYLE,Person,US,2004-07-04,False
 State of Mine,State of Mine,Group,,2007-09-01,False
 Eric Church,Eric Church,Person,US,1977-05-03,False
 Arctic Monkeys,Arctic Monkeys,Group,GB,2002,False
@@ -470,13 +470,13 @@ Kelsea Ballerini,Kelsea Ballerini,Person,US,1993-09-12,False
 LISA,LiSA,Person,JP,1987-06-24,False
 Loza Alexander,Loza Alexander,Person,,,False
 NEIKED,NEIKED,Person,,1991-12-28,False
-Coldplay,Coldplay,Group,GB,1996-09,False
+Coldplay,Coldplay,Group,GB,1996-09-01,False
 Grupo Firme,Grupo Firme,Group,MX,2014,False
 RealestK,RealestK,Person,,2004-06-05,False
 Lady A,Lady A,Group,US,2006,False
 Priscilla Block,Priscilla Block,Person,US,1995-08-11,False
 Meek Mill,Meek Mill,Person,US,1987-05-06,False
-Eslabon Armado,Eslabón Armado,Group,US,2017,False
+Eslabon Armado,Eslabón Armado,Group,US,2017-01-01,False
 Skylar Grey,Skylar Grey,Person,US,1986-02-23,False
 Michael Ray,Ray Charles,Person,US,1930-09-23,True
 Newage 6.5,Newage,,,,False
@@ -544,7 +544,7 @@ DMX,DMX,Person,US,1970-12-18,True
 Alphaville,Alphaville,Group,DE,1983,False
 Duncan Laurence,Duncan Laurence,Person,NL,1994-04-11,False
 ROSÉ,Karen Rose,Person,US,,False
-Maroon 5,Maroon 5,Group,US,2002,False
+Maroon 5,Maroon 5,Group,US,2002-01-01,False
 Nelly,Nelly,Person,US,1974-11-02,False
 Elle King,Elle King,Person,US,1989-07-03,False
 Prince Herzel,Prince,Person,US,1958-06-07,True
@@ -639,7 +639,7 @@ Katy Perry,Katy Perry,Person,US,1984-10-25,False
 Kehlani,Kehlani,Person,US,1995-04-24,False
 Catherine Zeta-Jones,Catherine Zeta‐Jones,Person,GB,1969-09-25,False
 Young T & Bugsey,Young T & Bugsey,Group,,2012-01-01,False
-THE SCOTTS,Scotts,Group,SE,1992,False
+THE SCOTTS,Scotts,Group,SE,1992-01-01,False
 StaySolidRocky,StaySolidRocky,Person,,,False
 Maddie & Tae,Maddie & Tae,Group,US,2014,False
 PARTYNEXTDOOR,PARTYNEXTDOOR,Person,CA,1993-07-03,False
@@ -668,15 +668,15 @@ Dean Martin,Dean Martin,Person,US,1917-06-07,True
 Thurl Ravenscroft,Thurl Ravenscroft,Person,US,1914-02-06,True
 Fat Joe,Fat Joe,Person,US,1970-08-19,False
 José Feliciano,José Feliciano,Person,US,1945-09-10,False
-The Ronettes,The Ronettes,Group,US,1959,True
+The Ronettes,The Ronettes,Group,US,1959-01-01,True
 Gene Autry,Gene Autry,Person,US,1907-09-29,True
 Andy Williams,Andy Williams,Person,US,1927-12-03,True
 Brenda Lee,Brenda Lee,Person,US,1944-12-11,False
-Wham!,Wham!,Group,GB,1981,True
+Wham!,Wham!,Group,GB,1981-01-01,True
 Bobby Helms,Bobby Helms,Person,US,1933-08-15,True
 Burl Ives,Burl Ives,Person,US,1909-06-14,True
 Idina Menzel,Idina Menzel,Person,US,1971-05-30,False
-Panic! At The Disco,Panic! at the Disco,Group,US,2004,True
+Panic! At The Disco,Panic! at the Disco,Group,US,2004-01-01,True
 Rexx Life Raj,Rexx Life Raj,Person,US,1990-01-30,False
 Party Tyme Karaoke,House Party Karaoke,Group,,,False
 Ant Saunders,Ant Saunders,Person,US,,False
