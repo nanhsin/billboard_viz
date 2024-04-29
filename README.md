@@ -1,8 +1,8 @@
 # SI 649 Narrative Viz Project
 
-Topic: Billboard 100
+Implementation: [Hot or Not: What makes a song stay on Billboard 100?](https://public.tableau.com/app/profile/nan.hsin.lin/viz/Billboard100_17143404844600/BillboardStory) 
 
-Members: Nan-Hsin Lin, Jia-Tong Choo, Yi-Chun Wang
+Created by: Nan-Hsin Lin, Jia-Tong Choo, Yi-Chun Wang
 
 Last update: 04/28/2024
 
